@@ -79,7 +79,7 @@
      <span class='ocr_line' id='line_1_7' title="bbox 327 1221 2544 1308; baseline -0.001 -20; x_size 82; x_descenders 21; x_ascenders 22">
       <span class='ocrx_word' id='word_1_40' title='bbox 327 1226 558 1288; x_wconf 92'>effekte</span>
       <span class='ocrx_word' id='word_1_41' title='bbox 590 1227 731 1288; x_wconf 92'>und</span>
-      <span class='ocrx_word' id='word_1_42' title='bbox 757 1226 1264 1308; x_wconf 11'>Verflechtung*</span>
+      <span class='ocrx_word' id='word_1_42' title='bbox 757 1226 1264 1308; x_wconf 11'>Verflechtung“</span>
       <span class='ocrx_word' id='word_1_43' title='bbox 1293 1226 1653 1287; x_wconf 91'>versehene</span>
       <span class='ocrx_word' id='word_1_44' title='bbox 1682 1221 2033 1287; x_wconf 92'>Abschnitt</span>
       <span class='ocrx_word' id='word_1_45' title='bbox 2061 1226 2128 1286; x_wconf 93' lang='deu'>in</span>
@@ -271,7 +271,7 @@
       <span class='ocrx_word' id='word_1_187' title='bbox 1465 3680 1584 3740; x_wconf 90'>der</span>
       <span class='ocrx_word' id='word_1_188' title='bbox 1612 3680 1782 3754; x_wconf 77'>„Rat</span>
       <span class='ocrx_word' id='word_1_189' title='bbox 1809 3680 1913 3740; x_wconf 91'>fur</span>
-      <span class='ocrx_word' id='word_1_190' title='bbox 1942 3681 2543 3742; x_wconf 0'>Finanzstabilitat*</span>
+      <span class='ocrx_word' id='word_1_190' title='bbox 1942 3681 2543 3742; x_wconf 0'>Finanzstabilitat“</span>
      </span>
      <span class='ocr_line' id='line_1_26' title="bbox 326 3801 2544 3885; baseline 0.002 -25; x_size 81; x_descenders 21; x_ascenders 22">
       <span class='ocrx_word' id='word_1_191' title='bbox 326 3801 445 3861; x_wconf 92'>der</span>

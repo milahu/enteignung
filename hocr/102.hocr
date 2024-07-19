@@ -102,7 +102,7 @@
      <span class='ocr_line' id='line_1_9' title="bbox 422 1316 2554 1395; baseline 0 -19; x_size 79; x_descenders 19; x_ascenders 23">
       <span class='ocrx_word' id='word_1_67' title='bbox 422 1339 526 1395; x_wconf 88' lang='eng'>gen</span>
       <span class='ocrx_word' id='word_1_68' title='bbox 556 1316 826 1395; x_wconf 88' lang='eng'>ernsthaft</span>
-      <span class='ocrx_word' id='word_1_69' title='bbox 852 1316 1125 1376; x_wconf 40' lang='eng'>bedroht*.</span>
+      <span class='ocrx_word' id='word_1_69' title='bbox 852 1316 1125 1376; x_wconf 40' lang='eng'>bedroht“.</span>
       <span class='ocrx_word' id='word_1_70' title='bbox 1155 1316 1470 1395; x_wconf 56' lang='eng'>Auferdem</span>
       <span class='ocrx_word' id='word_1_71' title='bbox 1497 1316 1731 1376; x_wconf 68' lang='eng'>kinnten</span>
       <span class='ocrx_word' id='word_1_72' title='bbox 1755 1316 2156 1395; x_wconf 91'>Maßnahmen</span>
@@ -137,7 +137,7 @@
       <span class='ocrx_word' id='word_1_91' title='bbox 564 1684 699 1759; x_wconf 81'>„die</span>
       <span class='ocrx_word' id='word_1_92' title='bbox 715 1695 958 1764; x_wconf 88'>gesamte</span>
       <span class='ocrx_word' id='word_1_93' title='bbox 979 1684 1233 1744; x_wconf 92'>Branche</span>
-      <span class='ocrx_word' id='word_1_94' title='bbox 1259 1684 1577 1745; x_wconf 11'>bedrohen*.</span>
+      <span class='ocrx_word' id='word_1_94' title='bbox 1259 1684 1577 1745; x_wconf 11'>bedrohen“.</span>
      </span>
      <span class='ocr_line' id='line_1_13' title="bbox 337 1928 2058 2012; baseline -0.001 -20; x_size 84; x_descenders 21; x_ascenders 26">
       <span class='ocrx_word' id='word_1_95' title='bbox 337 1932 501 1992; x_wconf 90'>Und</span>
@@ -146,7 +146,7 @@
       <span class='ocrx_word' id='word_1_98' title='bbox 880 1931 984 1992; x_wconf 91'>die</span>
       <span class='ocrx_word' id='word_1_99' title='bbox 1014 1931 1512 2012; x_wconf 91'>Entscheidung</span>
       <span class='ocrx_word' id='word_1_100' title='bbox 1538 1931 1650 1992; x_wconf 91'>des</span>
-      <span class='ocrx_word' id='word_1_101' title='bbox 1681 1928 2058 1992; x_wconf 0'>Gerichts’*:</span>
+      <span class='ocrx_word' id='word_1_101' title='bbox 1681 1928 2058 1992; x_wconf 0'>Gerichts’“:</span>
      </span>
     </p>
    </div>

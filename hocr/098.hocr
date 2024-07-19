@@ -25,7 +25,7 @@
      <span class='ocr_line' id='line_1_2' title="bbox 333 427 1432 517; baseline -0.002 -18; x_size 90; x_descenders 18; x_ascenders 28">
       <span class='ocrx_word' id='word_1_4' title='bbox 333 427 415 499; x_wconf 92'>6.</span>
       <span class='ocrx_word' id='word_1_5' title='bbox 456 427 945 517; x_wconf 89'>„Sicherer</span>
-      <span class='ocrx_word' id='word_1_6' title='bbox 975 427 1343 499; x_wconf 46' lang='eng'>Hafen*</span>
+      <span class='ocrx_word' id='word_1_6' title='bbox 975 427 1343 499; x_wconf 46' lang='eng'>Hafen“</span>
       <span class='ocrx_word' id='word_1_7' title='bbox 1376 462 1432 469; x_wconf 94'>—</span>
      </span>
     </p>
@@ -111,7 +111,7 @@
      <span class='ocr_line' id='line_1_10' title="bbox 331 1762 2548 1843; baseline 0 -21; x_size 81; x_descenders 21; x_ascenders 22">
       <span class='ocrx_word' id='word_1_53' title='bbox 331 1762 466 1823; x_wconf 91'>also</span>
       <span class='ocrx_word' id='word_1_54' title='bbox 500 1762 822 1835; x_wconf 61' lang='eng'>„sicherer</span>
-      <span class='ocrx_word' id='word_1_55' title='bbox 853 1762 1118 1823; x_wconf 55' lang='eng'>Haten*</span>
+      <span class='ocrx_word' id='word_1_55' title='bbox 853 1762 1118 1823; x_wconf 55' lang='eng'>Haten“</span>
       <span class='ocrx_word' id='word_1_56' title='bbox 1151 1762 1355 1843; x_wconf 91'>klingt</span>
       <span class='ocrx_word' id='word_1_57' title='bbox 1386 1762 1706 1823; x_wconf 92'>zunächst</span>
       <span class='ocrx_word' id='word_1_58' title='bbox 1737 1762 1983 1823; x_wconf 90'>einmal</span>
@@ -198,7 +198,7 @@
      <span class='ocr_line' id='line_1_18' title="bbox 330 2745 1293 2809; baseline -0.002 -1; x_size 80; x_descenders 17; x_ascenders 26">
       <span class='ocrx_word' id='word_1_117' title='bbox 330 2749 740 2809; x_wconf 92'>line-Artikel</span>
       <span class='ocrx_word' id='word_1_118' title='bbox 767 2771 923 2809; x_wconf 92'>zum</span>
-      <span class='ocrx_word' id='word_1_119' title='bbox 950 2745 1293 2809; x_wconf 72' lang='eng'>Thema:**</span>
+      <span class='ocrx_word' id='word_1_119' title='bbox 950 2745 1293 2809; x_wconf 72' lang='eng'>Thema:““</span>
      </span>
     </p>
    </div>

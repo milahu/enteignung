@@ -295,7 +295,7 @@
      </span>
      <span class='ocr_line' id='line_1_29' title="bbox 437 3878 2557 3960; baseline -0.002 -19; x_size 79; x_descenders 20; x_ascenders 22">
       <span class='ocrx_word' id='word_1_198' title='bbox 437 3882 629 3941; x_wconf 89'>Code</span>
-      <span class='ocrx_word' id='word_1_199' title='bbox 661 3880 980 3960; x_wconf 0'>(„UCC*)</span>
+      <span class='ocrx_word' id='word_1_199' title='bbox 661 3880 980 3960; x_wconf 0'>(„UCC“)</span>
       <span class='ocrx_word' id='word_1_200' title='bbox 1020 3930 1090 3939; x_wconf 92'>...</span>
       <span class='ocrx_word' id='word_1_201' title='bbox 1131 3879 1565 3959; x_wconf 92'>Gegenstand</span>
       <span class='ocrx_word' id='word_1_202' title='bbox 1592 3901 1724 3938; x_wconf 90'>von</span>
@@ -311,7 +311,7 @@
      <span class='ocr_line' id='line_1_30' title="bbox 433 3999 2558 4084; baseline -0.003 -21; x_size 81; x_descenders 21; x_ascenders 22">
       <span class='ocrx_word' id='word_1_207' title='bbox 433 4004 704 4084; x_wconf 91'>papiere</span>
       <span class='ocrx_word' id='word_1_208' title='bbox 733 4003 1193 4082; x_wconf 67'>(„Investment</span>
-      <span class='ocrx_word' id='word_1_209' title='bbox 1221 4001 1629 4079; x_wconf 0'>Securities*)</span>
+      <span class='ocrx_word' id='word_1_209' title='bbox 1221 4001 1629 4079; x_wconf 0'>Securities“)</span>
       <span class='ocrx_word' id='word_1_210' title='bbox 1658 4000 1799 4061; x_wconf 90'>und</span>
       <span class='ocrx_word' id='word_1_211' title='bbox 1826 3999 2260 4080; x_wconf 92'>Gegenstand</span>
       <span class='ocrx_word' id='word_1_212' title='bbox 2283 4021 2415 4059; x_wconf 91'>von</span>

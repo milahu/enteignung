@@ -152,7 +152,7 @@
    <div class='ocr_carea' id='block_1_7' title="bbox 290 2051 2212 2136">
     <p class='ocr_par' id='par_1_7' lang='eng' title="bbox 290 2051 2212 2136">
      <span class='ocr_line' id='line_1_14' title="bbox 290 2051 2212 2136; baseline 0.001 -21; x_size 81; x_descenders 20; x_ascenders 23">
-      <span class='ocrx_word' id='word_1_90' title='bbox 290 2051 659 2136; x_wconf 60'>proach”*)</span>
+      <span class='ocrx_word' id='word_1_90' title='bbox 290 2051 659 2136; x_wconf 60'>proach”“)</span>
       <span class='ocrx_word' id='word_1_91' title='bbox 689 2055 941 2116; x_wconf 89'>enthalt</span>
       <span class='ocrx_word' id='word_1_92' title='bbox 968 2055 1180 2136; x_wconf 90'>einige</span>
       <span class='ocrx_word' id='word_1_93' title='bbox 1207 2055 1466 2116; x_wconf 92'>weitere</span>
@@ -291,7 +291,7 @@
       <span class='ocrx_word' id='word_1_192' title='bbox 1170 3652 1311 3710; x_wconf 91' lang='eng'>auch</span>
       <span class='ocrx_word' id='word_1_193' title='bbox 1339 3674 1525 3711; x_wconf 92' lang='eng'>unsere</span>
       <span class='ocrx_word' id='word_1_194' title='bbox 1542 3652 1763 3721; x_wconf 89' lang='eng'>Nutzer</span>
-      <span class='ocrx_word' id='word_1_195' title='bbox 1783 3653 1966 3726; x_wconf 0' lang='eng'>sind*,</span>
+      <span class='ocrx_word' id='word_1_195' title='bbox 1783 3653 1966 3726; x_wconf 0' lang='eng'>sind“,</span>
       <span class='ocrx_word' id='word_1_196' title='bbox 1998 3663 2150 3732; x_wconf 93' lang='eng'>sagte</span>
       <span class='ocrx_word' id='word_1_197' title='bbox 2172 3654 2504 3727; x_wconf 42' lang='eng'>Pozmanter,</span>
      </span>

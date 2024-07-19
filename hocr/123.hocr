@@ -144,7 +144,7 @@
       <span class='ocrx_word' id='word_1_90' title='bbox 1047 1941 1318 2001; x_wconf 91'>Handel</span>
       <span class='ocrx_word' id='word_1_91' title='bbox 1354 1941 1474 2001; x_wconf 90'>mit</span>
       <span class='ocrx_word' id='word_1_92' title='bbox 1510 1941 1667 2001; x_wconf 92'>dem</span>
-      <span class='ocrx_word' id='word_1_93' title='bbox 1705 1941 1965 2015; x_wconf 28'>Feind*,</span>
+      <span class='ocrx_word' id='word_1_93' title='bbox 1705 1941 1965 2015; x_wconf 28'>Feind“,</span>
       <span class='ocrx_word' id='word_1_94' title='bbox 2006 1941 2121 2001; x_wconf 90'>das</span>
       <span class='ocrx_word' id='word_1_95' title='bbox 2170 1942 2358 2016; x_wconf 93'>1917,</span>
       <span class='ocrx_word' id='word_1_96' title='bbox 2398 1941 2534 2001; x_wconf 92'>also</span>
@@ -207,7 +207,7 @@
       <span class='ocrx_word' id='word_1_141' title='bbox 579 2680 900 2740; x_wconf 58'>wahrend</span>
       <span class='ocrx_word' id='word_1_142' title='bbox 933 2680 1046 2740; x_wconf 90'>des</span>
       <span class='ocrx_word' id='word_1_143' title='bbox 1080 2680 1313 2740; x_wconf 89'>Ersten</span>
-      <span class='ocrx_word' id='word_1_144' title='bbox 1344 2676 1878 2760; x_wconf 15'>Weltkrieges*’,</span>
+      <span class='ocrx_word' id='word_1_144' title='bbox 1344 2676 1878 2760; x_wconf 15'>Weltkrieges“’,</span>
       <span class='ocrx_word' id='word_1_145' title='bbox 1915 2680 2148 2740; x_wconf 92'>dessen</span>
       <span class='ocrx_word' id='word_1_146' title='bbox 2181 2680 2536 2740; x_wconf 91'>Untertitel</span>
      </span>

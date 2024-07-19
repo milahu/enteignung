@@ -186,7 +186,7 @@
       <span class='ocrx_word' id='word_1_126' title='bbox 1112 2167 1287 2227; x_wconf 90'>diese</span>
       <span class='ocrx_word' id='word_1_127' title='bbox 1319 2167 1691 2227; x_wconf 90'>Sichtweise</span>
       <span class='ocrx_word' id='word_1_128' title='bbox 1721 2190 1802 2227; x_wconf 90'>zu</span>
-      <span class='ocrx_word' id='word_1_129' title='bbox 1832 2164 2098 2247; x_wconf 42'>eigen:”*</span>
+      <span class='ocrx_word' id='word_1_129' title='bbox 1832 2164 2098 2247; x_wconf 42'>eigen:”“</span>
      </span>
     </p>
    </div>
@@ -270,7 +270,7 @@
       <span class='ocrx_word' id='word_1_186' title='bbox 1068 3150 1252 3210; x_wconf 90' lang='eng'>Rede</span>
       <span class='ocrx_word' id='word_1_187' title='bbox 1281 3173 1398 3210; x_wconf 90' lang='eng'>um</span>
       <span class='ocrx_word' id='word_1_188' title='bbox 1426 3150 1588 3222; x_wconf 92'>„alte</span>
-      <span class='ocrx_word' id='word_1_189' title='bbox 1619 3150 2058 3210; x_wconf 37' lang='eng'>Geschichte*</span>
+      <span class='ocrx_word' id='word_1_189' title='bbox 1619 3150 2058 3210; x_wconf 37' lang='eng'>Geschichte“</span>
       <span class='ocrx_word' id='word_1_190' title='bbox 2088 3150 2417 3224; x_wconf 91' lang='eng'>handelte,</span>
       <span class='ocrx_word' id='word_1_191' title='bbox 2447 3150 2559 3210; x_wconf 92' lang='eng'>be-</span>
      </span>
@@ -306,7 +306,7 @@
       <span class='ocrx_word' id='word_1_216' title='bbox 1162 3517 1622 3591; x_wconf 90' lang='eng'>aufzufuhren,</span>
       <span class='ocrx_word' id='word_1_217' title='bbox 1662 3517 1781 3577; x_wconf 90' lang='eng'>der</span>
       <span class='ocrx_word' id='word_1_218' title='bbox 1816 3517 1920 3577; x_wconf 88' lang='eng'>die</span>
-      <span class='ocrx_word' id='word_1_219' title='bbox 1958 3517 2260 3589; x_wconf 37'>„Fehler‘*</span>
+      <span class='ocrx_word' id='word_1_219' title='bbox 1958 3517 2260 3589; x_wconf 37'>„Fehler‘“</span>
       <span class='ocrx_word' id='word_1_220' title='bbox 2300 3517 2417 3577; x_wconf 91' lang='eng'>der</span>
       <span class='ocrx_word' id='word_1_221' title='bbox 2452 3517 2559 3576; x_wconf 73' lang='eng'>Fe-</span>
      </span>

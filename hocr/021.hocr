@@ -277,7 +277,7 @@
       <span class='ocrx_word' id='word_1_204' title='bbox 2307 3441 2516 3514; x_wconf 82'>„Mad</span>
      </span>
      <span class='ocr_line' id='line_1_27' title="bbox 295 3561 2514 3643; baseline 0.002 -23; x_size 80; x_descenders 20; x_ascenders 22">
-      <span class='ocrx_word' id='word_1_205' title='bbox 295 3561 489 3641; x_wconf 80'>Dog*</span>
+      <span class='ocrx_word' id='word_1_205' title='bbox 295 3561 489 3641; x_wconf 80'>Dog“</span>
       <span class='ocrx_word' id='word_1_206' title='bbox 512 3561 655 3641; x_wconf 90' lang='deu'>Jeff</span>
       <span class='ocrx_word' id='word_1_207' title='bbox 671 3561 863 3637; x_wconf 91'>Beck,</span>
       <span class='ocrx_word' id='word_1_208' title='bbox 895 3562 1012 3622; x_wconf 91'>der</span>
@@ -303,7 +303,7 @@
       <span class='ocrx_word' id='word_1_224' title='bbox 294 3806 612 3866; x_wconf 91'>kommen</span>
       <span class='ocrx_word' id='word_1_225' title='bbox 641 3806 745 3866; x_wconf 86'>Sie</span>
       <span class='ocrx_word' id='word_1_226' title='bbox 774 3807 968 3866; x_wconf 86'>einen</span>
-      <span class='ocrx_word' id='word_1_227' title='bbox 994 3807 1279 3867; x_wconf 71'>Bonus!*</span>
+      <span class='ocrx_word' id='word_1_227' title='bbox 994 3807 1279 3867; x_wconf 71'>Bonus!“</span>
       <span class='ocrx_word' id='word_1_228' title='bbox 1302 3807 1444 3886; x_wconf 25'>Jeff</span>
       <span class='ocrx_word' id='word_1_229' title='bbox 1456 3821 1707 3882; x_wconf 88'>wusste,</span>
       <span class='ocrx_word' id='word_1_230' title='bbox 1734 3830 1970 3868; x_wconf 91'>wovon</span>

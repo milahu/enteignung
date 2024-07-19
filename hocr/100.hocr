@@ -130,7 +130,7 @@
     <p class='ocr_par' id='par_1_4' lang='eng' title="bbox 328 1777 939 1842">
      <span class='ocr_line' id='line_1_13' title="bbox 328 1777 939 1842; baseline 0 -1; x_size 70.41333; x_descenders 6.4133334; x_ascenders 27">
       <span class='ocrx_word' id='word_1_81' title='bbox 328 1781 571 1842; x_wconf 90'>cheren</span>
-      <span class='ocrx_word' id='word_1_82' title='bbox 599 1777 939 1842; x_wconf 12' lang='deu'>Hafen*‘‘:</span>
+      <span class='ocrx_word' id='word_1_82' title='bbox 599 1777 939 1842; x_wconf 12' lang='deu'>Hafen“‘‘:</span>
      </span>
     </p>
    </div>
@@ -207,7 +207,7 @@
       <span class='ocrx_word' id='word_1_135' title='bbox 422 2768 567 2828; x_wconf 92'>einer</span>
       <span class='ocrx_word' id='word_1_136' title='bbox 585 2768 694 2828; x_wconf 86' lang='eng'>Art</span>
       <span class='ocrx_word' id='word_1_137' title='bbox 714 2767 1346 2847; x_wconf 45' lang='eng'>„Auffang-Definition</span>
-      <span class='ocrx_word' id='word_1_138' title='bbox 1367 2768 1378 2792; x_wconf 39' lang='eng'>*</span>
+      <span class='ocrx_word' id='word_1_138' title='bbox 1367 2768 1378 2792; x_wconf 39' lang='eng'>“</span>
       <span class='ocrx_word' id='word_1_139' title='bbox 1419 2767 1734 2841; x_wconf 86' lang='eng'>entwickelt,</span>
       <span class='ocrx_word' id='word_1_140' title='bbox 1773 2766 1859 2827; x_wconf 89' lang='eng'>die</span>
       <span class='ocrx_word' id='word_1_141' title='bbox 1888 2766 2005 2845; x_wconf 91' lang='eng'>auf</span>

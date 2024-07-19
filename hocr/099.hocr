@@ -57,7 +57,7 @@
    <div class='ocr_carea' id='block_1_5' title="bbox 284 942 2500 1156">
     <p class='ocr_par' id='par_1_4' lang='deu' title="bbox 284 942 2500 1156">
      <span class='ocr_line' id='line_1_5' title="bbox 284 942 2497 1033; baseline -0 -20; x_size 80; x_descenders 20; x_ascenders 22">
-      <span class='ocrx_word' id='word_1_24' title='bbox 284 971 307 993; x_wconf 80'>*</span>
+      <span class='ocrx_word' id='word_1_24' title='bbox 284 971 307 993; x_wconf 80'>“</span>
       <span class='ocrx_word' id='word_1_25' title='bbox 377 953 481 1013; x_wconf 80'>die</span>
       <span class='ocrx_word' id='word_1_26' title='bbox 506 942 983 1033; x_wconf 92'>Übertragung</span>
       <span class='ocrx_word' id='word_1_27' title='bbox 1005 952 1315 1026; x_wconf 91'>„faktisch</span>
@@ -177,7 +177,7 @@
    <div class='ocr_carea' id='block_1_9' title="bbox 284 2790 2500 3004">
     <p class='ocr_par' id='par_1_12' lang='deu' title="bbox 284 2790 2500 3004">
      <span class='ocr_line' id='line_1_17' title="bbox 284 2790 2500 2880; baseline 0 -19; x_size 80; x_descenders 19; x_ascenders 21">
-      <span class='ocrx_word' id='word_1_92' title='bbox 284 2818 307 2840; x_wconf 71'>*</span>
+      <span class='ocrx_word' id='word_1_92' title='bbox 284 2818 307 2840; x_wconf 71'>“</span>
       <span class='ocrx_word' id='word_1_93' title='bbox 377 2800 481 2861; x_wconf 86'>die</span>
       <span class='ocrx_word' id='word_1_94' title='bbox 516 2790 992 2880; x_wconf 92'>Übertragung</span>
       <span class='ocrx_word' id='word_1_95' title='bbox 1023 2800 1374 2862; x_wconf 92'>innerhalb</span>
@@ -229,7 +229,7 @@
       <span class='ocrx_word' id='word_1_125' title='bbox 528 3412 797 3471; x_wconf 92'>werden</span>
       <span class='ocrx_word' id='word_1_126' title='bbox 823 3412 913 3472; x_wconf 92'>als</span>
       <span class='ocrx_word' id='word_1_127' title='bbox 938 3412 1557 3491; x_wconf 83'>„Vorzugsrechte“,</span>
-      <span class='ocrx_word' id='word_1_128' title='bbox 1585 3412 2499 3493; x_wconf 68' lang='eng'>„Vorzugsubertragungen*</span>
+      <span class='ocrx_word' id='word_1_128' title='bbox 1585 3412 2499 3493; x_wconf 68' lang='eng'>„Vorzugsubertragungen“</span>
      </span>
      <span class='ocr_line' id='line_1_22' title="bbox 281 3528 2499 3614; baseline 0 -20; x_size 74; x_descenders 14; x_ascenders 22">
       <span class='ocrx_word' id='word_1_129' title='bbox 281 3534 446 3594; x_wconf 90'>oder</span>

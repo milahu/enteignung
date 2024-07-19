@@ -115,7 +115,7 @@
 
     <p class='ocr_par' id='par_1_6' lang='deu' title="bbox 322 1423 2536 1621">
      <span class='ocr_line' id='line_1_10' title="bbox 322 1423 2536 1490; baseline -0 -6; x_size 81.976677; x_descenders 20.976677; x_ascenders 23">
-      <span class='ocrx_word' id='word_1_68' title='bbox 322 1442 345 1464; x_wconf 68'>*</span>
+      <span class='ocrx_word' id='word_1_68' title='bbox 322 1442 345 1464; x_wconf 68'>“</span>
       <span class='ocrx_word' id='word_1_69' title='bbox 415 1423 531 1484; x_wconf 90'>das</span>
       <span class='ocrx_word' id='word_1_70' title='bbox 559 1424 736 1484; x_wconf 92'>Auto</span>
       <span class='ocrx_word' id='word_1_71' title='bbox 766 1424 907 1484; x_wconf 92'>und</span>
@@ -136,7 +136,7 @@
 
     <p class='ocr_par' id='par_1_7' lang='eng' title="bbox 322 1669 2204 1749">
      <span class='ocr_line' id='line_1_12' title="bbox 322 1669 2204 1749; baseline 0 -21; x_size 74; x_descenders 15; x_ascenders 22">
-      <span class='ocrx_word' id='word_1_82' title='bbox 322 1688 345 1710; x_wconf 70'>*</span>
+      <span class='ocrx_word' id='word_1_82' title='bbox 322 1688 345 1710; x_wconf 70'>“</span>
       <span class='ocrx_word' id='word_1_83' title='bbox 414 1669 1148 1730; x_wconf 88'>Telekommunikation</span>
       <span class='ocrx_word' id='word_1_84' title='bbox 1178 1669 1489 1748; x_wconf 87'>(Telefon,</span>
       <span class='ocrx_word' id='word_1_85' title='bbox 1519 1670 1760 1744; x_wconf 89' lang='deu'>Radio,</span>
@@ -153,7 +153,7 @@
 
     <p class='ocr_par' id='par_1_9' lang='deu' title="bbox 322 1915 2537 2118">
      <span class='ocr_line' id='line_1_14' title="bbox 322 1915 2537 1996; baseline 0 -21; x_size 81; x_descenders 21; x_ascenders 23">
-      <span class='ocrx_word' id='word_1_89' title='bbox 322 1935 345 1956; x_wconf 64'>*</span>
+      <span class='ocrx_word' id='word_1_89' title='bbox 322 1935 345 1956; x_wconf 64'>“</span>
       <span class='ocrx_word' id='word_1_90' title='bbox 416 1916 611 1976; x_wconf 88'>einen</span>
       <span class='ocrx_word' id='word_1_91' title='bbox 646 1915 1011 1996; x_wconf 90' lang='eng'>Weltkrieg,</span>
       <span class='ocrx_word' id='word_1_92' title='bbox 1052 1915 1293 1996; x_wconf 89' lang='eng'>gefolgt</span>
@@ -174,7 +174,7 @@
    <div class='ocr_carea' id='block_1_4' title="bbox 322 2162 1289 2242">
     <p class='ocr_par' id='par_1_10' lang='deu' title="bbox 322 2162 1289 2242">
      <span class='ocr_line' id='line_1_16' title="bbox 322 2162 1289 2242; baseline 0.001 -21; x_size 80; x_descenders 20; x_ascenders 22">
-      <span class='ocrx_word' id='word_1_102' title='bbox 322 2180 345 2202; x_wconf 72'>*</span>
+      <span class='ocrx_word' id='word_1_102' title='bbox 322 2180 345 2202; x_wconf 72'>“</span>
       <span class='ocrx_word' id='word_1_103' title='bbox 415 2162 1289 2242; x_wconf 82' lang='eng'>Bevolkerungswachstum.</span>
      </span>
     </p>
@@ -308,7 +308,7 @@
       <span class='ocrx_word' id='word_1_197' title='bbox 1267 3901 1399 3938; x_wconf 91'>von</span>
       <span class='ocrx_word' id='word_1_198' title='bbox 1426 3879 1544 3938; x_wconf 90'>der</span>
       <span class='ocrx_word' id='word_1_199' title='bbox 1569 3878 2009 3958; x_wconf 85'>„Everything</span>
-      <span class='ocrx_word' id='word_1_200' title='bbox 2033 3878 2329 3937; x_wconf 19'>Bubble*</span>
+      <span class='ocrx_word' id='word_1_200' title='bbox 2033 3878 2329 3937; x_wconf 19'>Bubble“</span>
       <span class='ocrx_word' id='word_1_201' title='bbox 2355 3908 2400 3910; x_wconf 92' lang='deu'>—</span>
       <span class='ocrx_word' id='word_1_202' title='bbox 2425 3877 2543 3937; x_wconf 67'>der</span>
      </span>

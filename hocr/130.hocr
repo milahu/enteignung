@@ -149,7 +149,7 @@
      <span class='ocr_line' id='line_1_14' title="bbox 315 1915 1353 1995; baseline 0 -21; x_size 72; x_descenders 13; x_ascenders 21">
       <span class='ocrx_word' id='word_1_101' title='bbox 315 1915 527 1975; x_wconf 90'>dieser</span>
       <span class='ocrx_word' id='word_1_102' title='bbox 553 1915 1016 1995; x_wconf 71'>„geschutzten</span>
-      <span class='ocrx_word' id='word_1_103' title='bbox 1044 1915 1353 1974; x_wconf 35'>Klasse*?</span>
+      <span class='ocrx_word' id='word_1_103' title='bbox 1044 1915 1353 1974; x_wconf 35'>Klasse“?</span>
      </span>
     </p>
 
@@ -215,7 +215,7 @@
       <span class='ocrx_word' id='word_1_151' title='bbox 557 2654 1434 2734; x_wconf 88'>Savings-and-Loan-Krise</span>
       <span class='ocrx_word' id='word_1_152' title='bbox 1465 2654 1581 2714; x_wconf 92'>der</span>
       <span class='ocrx_word' id='word_1_153' title='bbox 1621 2655 1851 2714; x_wconf 92'>1980er</span>
-      <span class='ocrx_word' id='word_1_154' title='bbox 1889 2650 2126 2732; x_wconf 0'>Jahre**</span>
+      <span class='ocrx_word' id='word_1_154' title='bbox 1889 2650 2126 2732; x_wconf 0'>Jahre““</span>
       <span class='ocrx_word' id='word_1_155' title='bbox 2155 2654 2296 2713; x_wconf 90'>und</span>
       <span class='ocrx_word' id='word_1_156' title='bbox 2322 2653 2389 2712; x_wconf 91' lang='deu'>in</span>
       <span class='ocrx_word' id='word_1_157' title='bbox 2418 2653 2535 2713; x_wconf 92'>der</span>
@@ -310,7 +310,7 @@
      <span class='ocr_line' id='line_1_29' title="bbox 318 3754 2532 3835; baseline -0.002 -18; x_size 72; x_descenders 13; x_ascenders 21">
       <span class='ocrx_word' id='word_1_229' title='bbox 318 3757 613 3817; x_wconf 91'>erhalten</span>
       <span class='ocrx_word' id='word_1_230' title='bbox 644 3757 748 3816; x_wconf 90'>die</span>
-      <span class='ocrx_word' id='word_1_231' title='bbox 781 3756 1293 3829; x_wconf 26'>„versicherten*</span>
+      <span class='ocrx_word' id='word_1_231' title='bbox 781 3756 1293 3829; x_wconf 26'>„versicherten“</span>
       <span class='ocrx_word' id='word_1_232' title='bbox 1327 3755 1628 3835; x_wconf 92'>Einleger</span>
       <span class='ocrx_word' id='word_1_233' title='bbox 1660 3756 1695 3818; x_wconf 93'>2</span>
       <span class='ocrx_word' id='word_1_234' title='bbox 1731 3754 1907 3815; x_wconf 92'>Cent</span>

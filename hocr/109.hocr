@@ -96,7 +96,7 @@
      </span>
      <span class='ocr_line' id='line_1_8' title="bbox 1569 1321 2523 1400; baseline 0 -15; x_size 83.888306; x_descenders 19.888309; x_ascenders 26">
       <span class='ocrx_word' id='word_1_53' title='bbox 1569 1321 1656 1356; x_wconf 64'>5</span>
-      <span class='ocrx_word' id='word_1_54' title='bbox 2142 1322 2237 1400; x_wconf 38'>t**,</span>
+      <span class='ocrx_word' id='word_1_54' title='bbox 2142 1322 2237 1400; x_wconf 38'>t““,</span>
       <span class='ocrx_word' id='word_1_55' title='bbox 2268 1325 2336 1384; x_wconf 92'>in</span>
       <span class='ocrx_word' id='word_1_56' title='bbox 2365 1325 2523 1386; x_wconf 92'>dem</span>
      </span>
@@ -237,7 +237,7 @@
       <span class='ocrx_word' id='word_1_152' title='bbox 1317 2928 1572 2989; x_wconf 89'>DTCC</span>
       <span class='ocrx_word' id='word_1_153' title='bbox 1601 2951 1759 2989; x_wconf 90'>vom</span>
       <span class='ocrx_word' id='word_1_154' title='bbox 1786 2929 1981 2989; x_wconf 89'>Marz</span>
-      <span class='ocrx_word' id='word_1_155' title='bbox 2013 2926 2264 2992; x_wconf 36'>2023:*</span>
+      <span class='ocrx_word' id='word_1_155' title='bbox 2013 2926 2264 2992; x_wconf 36'>2023:“</span>
      </span>
     </p>
    </div>
@@ -317,7 +317,7 @@
       <span class='ocrx_word' id='word_1_212' title='bbox 669 4051 994 4097; x_wconf 91'>zusammen</span>
       <span class='ocrx_word' id='word_1_213' title='bbox 1021 4030 1108 4089; x_wconf 84'>die</span>
       <span class='ocrx_word' id='word_1_214' title='bbox 1126 4080 1163 4103; x_wconf 81'>„</span>
-      <span class='ocrx_word' id='word_1_215' title='bbox 1179 4029 1589 4109; x_wconf 13'>Gesellschaft*</span>
+      <span class='ocrx_word' id='word_1_215' title='bbox 1179 4029 1589 4109; x_wconf 13'>Gesellschaft“</span>
       <span class='ocrx_word' id='word_1_216' title='bbox 1606 4032 1733 4091; x_wconf 91'>oder</span>
       <span class='ocrx_word' id='word_1_217' title='bbox 1748 4081 1785 4105; x_wconf 79'>„</span>
       <span class='ocrx_word' id='word_1_218' title='bbox 1801 4031 2225 4111; x_wconf 52'>Gesellschafien</span>

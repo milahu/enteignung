@@ -80,7 +80,7 @@
       <span class='ocrx_word' id='word_1_31' title='bbox 2131 1376 2544 1456; x_wconf 91'>geschlossen</span>
      </span>
      <span class='ocr_line' id='line_1_8' title="bbox 324 1495 2544 1580; baseline -0 -21; x_size 85; x_descenders 22; x_ascenders 26">
-      <span class='ocrx_word' id='word_1_32' title='bbox 324 1495 677 1560; x_wconf 0'>wurden.**</span>
+      <span class='ocrx_word' id='word_1_32' title='bbox 324 1495 677 1560; x_wconf 0'>wurden.““</span>
       <span class='ocrx_word' id='word_1_33' title='bbox 704 1499 815 1559; x_wconf 85'>Als</span>
       <span class='ocrx_word' id='word_1_34' title='bbox 844 1499 950 1559; x_wconf 85'>ich</span>
       <span class='ocrx_word' id='word_1_35' title='bbox 980 1499 1066 1560; x_wconf 90'>sie</span>
@@ -218,7 +218,7 @@
       <span class='ocrx_word' id='word_1_137' title='bbox 1368 2976 1554 3036; x_wconf 90' lang='eng'>Buch</span>
       <span class='ocrx_word' id='word_1_138' title='bbox 1608 2956 1892 3036; x_wconf 90' lang='eng'>schreibt</span>
       <span class='ocrx_word' id='word_1_139' title='bbox 1940 2975 2136 3035; x_wconf 89' lang='eng'>Allan</span>
-      <span class='ocrx_word' id='word_1_140' title='bbox 2188 2971 2541 3035; x_wconf 8' lang='eng'>Meltzer*:</span>
+      <span class='ocrx_word' id='word_1_140' title='bbox 2188 2971 2541 3035; x_wconf 8' lang='eng'>Meltzer“:</span>
      </span>
      <span class='ocr_line' id='line_1_21' title="bbox 328 3098 2545 3173; baseline -0.001 -13; x_size 74; x_descenders 14; x_ascenders 23">
       <span class='ocrx_word' id='word_1_141' title='bbox 328 3100 492 3173; x_wconf 89'>„Die</span>

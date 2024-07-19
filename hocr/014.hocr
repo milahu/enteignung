@@ -175,7 +175,7 @@
       <span class='ocrx_word' id='word_1_127' title='bbox 883 2046 972 2106; x_wconf 91' lang='eng'>als</span>
       <span class='ocrx_word' id='word_1_128' title='bbox 1017 2046 1123 2106; x_wconf 85' lang='eng'>ein</span>
       <span class='ocrx_word' id='word_1_129' title='bbox 1167 2046 1730 2119; x_wconf 88' lang='eng'>„wohlhabender</span>
-      <span class='ocrx_word' id='word_1_130' title='bbox 1771 2046 2515 2106; x_wconf 79' lang='eng'>Kohleunternehmer*</span>
+      <span class='ocrx_word' id='word_1_130' title='bbox 1771 2046 2515 2106; x_wconf 79' lang='eng'>Kohleunternehmer“</span>
      </span>
      <span class='ocr_line' id='line_1_16' title="bbox 298 2169 2514 2249; baseline 0 -20; x_size 81; x_descenders 21; x_ascenders 22">
       <span class='ocrx_word' id='word_1_131' title='bbox 298 2169 753 2244; x_wconf 90' lang='eng'>beschrieben,</span>
@@ -195,7 +195,7 @@
       <span class='ocrx_word' id='word_1_143' title='bbox 1389 2293 1582 2353; x_wconf 92' lang='eng'>mehr</span>
       <span class='ocrx_word' id='word_1_144' title='bbox 1615 2293 1705 2353; x_wconf 92' lang='eng'>als</span>
       <span class='ocrx_word' id='word_1_145' title='bbox 1742 2294 1873 2353; x_wconf 93' lang='eng'>800</span>
-      <span class='ocrx_word' id='word_1_146' title='bbox 1906 2289 2134 2353; x_wconf 74'>Acres*</span>
+      <span class='ocrx_word' id='word_1_146' title='bbox 1906 2289 2134 2353; x_wconf 74'>Acres“</span>
       <span class='ocrx_word' id='word_1_147' title='bbox 2168 2293 2236 2352; x_wconf 93'>in</span>
       <span class='ocrx_word' id='word_1_148' title='bbox 2270 2293 2516 2353; x_wconf 90' lang='eng'>Maho-</span>
      </span>
@@ -286,7 +286,7 @@
       <span class='ocrx_word' id='word_1_215' title='bbox 302 3276 524 3336; x_wconf 88'>schrift</span>
       <span class='ocrx_word' id='word_1_216' title='bbox 554 3276 739 3348; x_wconf 54'>„The</span>
       <span class='ocrx_word' id='word_1_217' title='bbox 774 3275 950 3335; x_wconf 91'>Club</span>
-      <span class='ocrx_word' id='word_1_218' title='bbox 984 3276 1278 3349; x_wconf 37'>House*,</span>
+      <span class='ocrx_word' id='word_1_218' title='bbox 984 3276 1278 3349; x_wconf 37'>House“,</span>
       <span class='ocrx_word' id='word_1_219' title='bbox 1313 3275 1433 3335; x_wconf 92'>mit</span>
       <span class='ocrx_word' id='word_1_220' title='bbox 1464 3275 1582 3334; x_wconf 92'>der</span>
       <span class='ocrx_word' id='word_1_221' title='bbox 1610 3274 1967 3354; x_wconf 91'>folgenden</span>
@@ -342,7 +342,7 @@
    <div class='ocr_carea' id='block_1_5' title="bbox 444 4007 2519 4083">
     <p class='ocr_par' id='par_1_5' lang='eng' title="bbox 444 4007 2519 4083">
      <span class='ocr_line' id='line_1_30' title="bbox 444 4007 2519 4083; baseline -0.002 -13; x_size 75; x_descenders 15; x_ascenders 23">
-      <span class='ocrx_word' id='word_1_256' title='bbox 444 4010 941 4071; x_wconf 31'>Millionaires.*</span>
+      <span class='ocrx_word' id='word_1_256' title='bbox 444 4010 941 4071; x_wconf 31'>Millionaires.“</span>
       <span class='ocrx_word' id='word_1_257' title='bbox 978 4010 1066 4070; x_wconf 84'>So</span>
       <span class='ocrx_word' id='word_1_258' title='bbox 1098 4009 1338 4070; x_wconf 87'>illustre</span>
       <span class='ocrx_word' id='word_1_259' title='bbox 1372 4009 1641 4069; x_wconf 91'>Namen</span>

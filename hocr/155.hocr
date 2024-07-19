@@ -47,7 +47,7 @@
    <div class='ocr_carea' id='block_1_4' title="bbox 597 720 2531 803">
     <p class='ocr_par' id='par_1_3' lang='deu' title="bbox 597 720 2531 803">
      <span class='ocr_line' id='line_1_4' title="bbox 597 720 2531 803; baseline -0.001 -20; x_size 84; x_descenders 21; x_ascenders 25">
-      <span class='ocrx_word' id='word_1_20' title='bbox 597 720 704 783; x_wconf 45'>“*</span>
+      <span class='ocrx_word' id='word_1_20' title='bbox 597 720 704 783; x_wconf 45'>““</span>
       <span class='ocrx_word' id='word_1_21' title='bbox 744 724 917 783; x_wconf 93'>Man</span>
       <span class='ocrx_word' id='word_1_22' title='bbox 955 723 1108 783; x_wconf 91' lang='eng'>sehe</span>
       <span class='ocrx_word' id='word_1_23' title='bbox 1148 723 1283 783; x_wconf 92'>sich</span>
@@ -156,7 +156,7 @@
       <span class='ocrx_word' id='word_1_101' title='bbox 1250 1710 1396 1770; x_wconf 91'>dass</span>
       <span class='ocrx_word' id='word_1_102' title='bbox 1424 1709 1724 1769; x_wconf 54'>Hobbes”</span>
       <span class='ocrx_word' id='word_1_103' title='bbox 1756 1708 2039 1770; x_wconf 90'>Gonner</span>
-      <span class='ocrx_word' id='word_1_104' title='bbox 2064 1709 2375 1790; x_wconf 65'>„Adlige*</span>
+      <span class='ocrx_word' id='word_1_104' title='bbox 2064 1709 2375 1790; x_wconf 65'>„Adlige“</span>
       <span class='ocrx_word' id='word_1_105' title='bbox 2401 1731 2532 1769; x_wconf 91'>wa-</span>
      </span>
      <span class='ocr_line' id='line_1_14' title="bbox 315 1832 2532 1913; baseline 0 -20; x_size 81; x_descenders 20; x_ascenders 23">

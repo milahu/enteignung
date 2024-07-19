@@ -145,7 +145,7 @@
     <p class='ocr_par' id='par_1_4' lang='eng' title="bbox 336 1911 1798 1995">
      <span class='ocr_line' id='line_1_14' title="bbox 336 1911 1798 1995; baseline 0 -20; x_size 84; x_descenders 20; x_ascenders 27">
       <span class='ocrx_word' id='word_1_94' title='bbox 336 1915 817 1976; x_wconf 78'>veroffentlicht</span>
-      <span class='ocrx_word' id='word_1_95' title='bbox 842 1911 1142 1990; x_wconf 58'>wurde,*?</span>
+      <span class='ocrx_word' id='word_1_95' title='bbox 842 1911 1142 1990; x_wconf 58'>wurde,“?</span>
       <span class='ocrx_word' id='word_1_96' title='bbox 1171 1915 1354 1975; x_wconf 85'>heil3t</span>
       <span class='ocrx_word' id='word_1_97' title='bbox 1381 1937 1446 1975; x_wconf 90'>es</span>
       <span class='ocrx_word' id='word_1_98' title='bbox 1473 1915 1593 1975; x_wconf 90'>wie</span>
@@ -245,7 +245,7 @@
     <p class='ocr_par' id='par_1_8' lang='eng' title="bbox 338 3264 1711 3346">
      <span class='ocr_line' id='line_1_23' title="bbox 338 3264 1711 3346; baseline -0.001 -17; x_size 82; x_descenders 19; x_ascenders 26">
       <span class='ocrx_word' id='word_1_160' title='bbox 338 3292 471 3329; x_wconf 92'>von</span>
-      <span class='ocrx_word' id='word_1_161' title='bbox 501 3264 1049 3329; x_wconf 49'>Sicherheiten**</span>
+      <span class='ocrx_word' id='word_1_161' title='bbox 501 3264 1049 3329; x_wconf 49'>Sicherheiten““</span>
       <span class='ocrx_word' id='word_1_162' title='bbox 1077 3268 1261 3328; x_wconf 92' lang='deu'>heißt</span>
       <span class='ocrx_word' id='word_1_163' title='bbox 1289 3290 1353 3327; x_wconf 92'>es</span>
       <span class='ocrx_word' id='word_1_164' title='bbox 1383 3267 1711 3346; x_wconf 74'>(Seite16):</span>

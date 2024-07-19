@@ -48,7 +48,7 @@
       <span class='ocrx_word' id='word_1_22' title='bbox 741 706 1078 767; x_wconf 91' lang='eng'>Financial</span>
       <span class='ocrx_word' id='word_1_23' title='bbox 1110 706 1376 767; x_wconf 92' lang='eng'>Market</span>
       <span class='ocrx_word' id='word_1_24' title='bbox 1406 706 1728 767; x_wconf 12' lang='eng'>Utilities</span>
-      <span class='ocrx_word' id='word_1_25' title='bbox 1764 702 2167 786; x_wconf 48' lang='eng'>(SIFMUSs)*</span>
+      <span class='ocrx_word' id='word_1_25' title='bbox 1764 702 2167 786; x_wconf 48' lang='eng'>(SIFMUSs)“</span>
       <span class='ocrx_word' id='word_1_26' title='bbox 2207 705 2555 786; x_wconf 90' lang='eng'>eingestuft</span>
      </span>
     </p>
@@ -73,7 +73,7 @@
      <span class='ocr_line' id='line_1_6' title="bbox 335 948 1531 1013; baseline 0 -1; x_size 73.376625; x_descenders 9.3766232; x_ascenders 26">
       <span class='ocrx_word' id='word_1_36' title='bbox 335 952 589 1013; x_wconf 86'>DTCC</span>
       <span class='ocrx_word' id='word_1_37' title='bbox 618 952 1187 1013; x_wconf 90'>veroffentlichten</span>
-      <span class='ocrx_word' id='word_1_38' title='bbox 1212 948 1531 1013; x_wconf 30'>Artikel**:</span>
+      <span class='ocrx_word' id='word_1_38' title='bbox 1212 948 1531 1013; x_wconf 30'>Artikel““:</span>
      </span>
     </p>
    </div>
@@ -207,7 +207,7 @@
       <span class='ocrx_word' id='word_1_136' title='bbox 677 2679 959 2759; x_wconf 91' lang='eng'>geordnete</span>
       <span class='ocrx_word' id='word_1_137' title='bbox 986 2679 1296 2758; x_wconf 42' lang='eng'>Samerung</span>
       <span class='ocrx_word' id='word_1_138' title='bbox 1322 2678 1440 2738; x_wconf 92' lang='eng'>und</span>
-      <span class='ocrx_word' id='word_1_139' title='bbox 1454 2678 1882 2758; x_wconf 27' lang='eng'>Abwicklung*,</span>
+      <span class='ocrx_word' id='word_1_139' title='bbox 1454 2678 1882 2758; x_wconf 27' lang='eng'>Abwicklung“,</span>
       <span class='ocrx_word' id='word_1_140' title='bbox 1917 2688 2067 2757; x_wconf 92' lang='eng'>sagte</span>
       <span class='ocrx_word' id='word_1_141' title='bbox 2092 2677 2336 2751; x_wconf 78' lang='eng'>Pecchia,</span>
       <span class='ocrx_word' id='word_1_142' title='bbox 2366 2677 2555 2751; x_wconf 78'>„beim</span>
