@@ -1,0 +1,373 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title></title>
+  <meta http-equiv="Content-Type" content="text/html;charset=utf-8"/>
+  <meta name='ocr-system' content='tesseract 5.3.4' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word ocrp_wconf'/>
+ </head>
+ <body>
+  <div class='ocr_page' id='page_1' title='image "/run/user/1017/ocrmypdf.io.xeknc0jr/000186_ocr.png"; bbox 0 0 2850 4659; ppageno 0; scan_res 600 600'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 331 191 1193 269">
+    <p class='ocr_par' id='par_1_1' lang='deu' title="bbox 331 191 1193 269">
+     <span class='ocr_line' id='line_1_1' title="bbox 331 191 1193 269; baseline 0.002 -17; x_size 77; x_descenders 16; x_ascenders 17">
+      <span class='ocrx_word' id='word_1_1' title='bbox 331 191 453 253; x_wconf 91'>Die</span>
+      <span class='ocrx_word' id='word_1_2' title='bbox 484 192 712 268; x_wconf 91'>große</span>
+      <span class='ocrx_word' id='word_1_3' title='bbox 746 192 1193 269; x_wconf 91'>Enteignung</span>
+     </span>
+    </p>
+   </div>
+   <div class='ocr_separator' id='block_1_2' title="bbox 324 279 2545 290"></div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 326 440 2545 1260">
+    <p class='ocr_par' id='par_1_2' lang='deu' title="bbox 326 440 2545 1260">
+     <span class='ocr_line' id='line_1_2' title="bbox 328 440 2542 520; baseline 0 -20; x_size 79; x_descenders 19; x_ascenders 22">
+      <span class='ocrx_word' id='word_1_4' title='bbox 328 440 668 520; x_wconf 90'>8-112(d).)</span>
+      <span class='ocrx_word' id='word_1_5' title='bbox 696 440 872 500; x_wconf 91' lang='eng'>Note</span>
+      <span class='ocrx_word' id='word_1_6' title='bbox 899 441 1040 501; x_wconf 92'>that</span>
+      <span class='ocrx_word' id='word_1_7' title='bbox 1065 441 1174 501; x_wconf 93' lang='eng'>the</span>
+      <span class='ocrx_word' id='word_1_8' title='bbox 1203 441 1573 501; x_wconf 92'>attachable</span>
+      <span class='ocrx_word' id='word_1_9' title='bbox 1602 454 1797 502; x_wconf 93'>assets</span>
+      <span class='ocrx_word' id='word_1_10' title='bbox 1824 441 1902 501; x_wconf 87' lang='eng'>of</span>
+      <span class='ocrx_word' id='word_1_11' title='bbox 1930 464 1968 501; x_wconf 92'>a</span>
+      <span class='ocrx_word' id='word_1_12' title='bbox 1994 441 2323 502; x_wconf 91'>securities</span>
+      <span class='ocrx_word' id='word_1_13' title='bbox 2349 442 2542 502; x_wconf 92'>inter-</span>
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 327 563 2545 645; baseline 0.001 -22; x_size 80; x_descenders 20; x_ascenders 22">
+      <span class='ocrx_word' id='word_1_14' title='bbox 327 563 628 643; x_wconf 89' lang='eng'>mediary</span>
+      <span class='ocrx_word' id='word_1_15' title='bbox 654 585 762 624; x_wconf 92'>are</span>
+      <span class='ocrx_word' id='word_1_16' title='bbox 792 577 905 623; x_wconf 92'>net</span>
+      <span class='ocrx_word' id='word_1_17' title='bbox 931 564 1009 623; x_wconf 92' lang='eng'>of</span>
+      <span class='ocrx_word' id='word_1_18' title='bbox 1037 564 1146 624; x_wconf 92' lang='eng'>the</span>
+      <span class='ocrx_word' id='word_1_19' title='bbox 1174 564 1486 624; x_wconf 91' lang='eng'>financial</span>
+      <span class='ocrx_word' id='word_1_20' title='bbox 1513 577 1709 624; x_wconf 92'>assets</span>
+      <span class='ocrx_word' id='word_1_21' title='bbox 1738 564 2023 625; x_wconf 91'>deemed</span>
+      <span class='ocrx_word' id='word_1_22' title='bbox 2050 578 2168 625; x_wconf 92' lang='eng'>not</span>
+      <span class='ocrx_word' id='word_1_23' title='bbox 2194 565 2433 625; x_wconf 91' lang='eng'>owned</span>
+      <span class='ocrx_word' id='word_1_24' title='bbox 2459 565 2545 645; x_wconf 96' lang='eng'>by</span>
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 327 686 2538 768; baseline 0.001 -22; x_size 81; x_descenders 21; x_ascenders 22">
+      <span class='ocrx_word' id='word_1_25' title='bbox 327 686 436 746; x_wconf 91' lang='eng'>the</span>
+      <span class='ocrx_word' id='word_1_26' title='bbox 471 686 798 747; x_wconf 91' lang='eng'>securities</span>
+      <span class='ocrx_word' id='word_1_27' title='bbox 830 686 1308 767; x_wconf 80' lang='eng'>intermediary</span>
+      <span class='ocrx_word' id='word_1_28' title='bbox 1340 687 1482 767; x_wconf 80' lang='eng'>(i.e.,</span>
+      <span class='ocrx_word' id='word_1_29' title='bbox 1514 687 1930 768; x_wconf 91' lang='eng'>proprietary</span>
+      <span class='ocrx_word' id='word_1_30' title='bbox 1957 688 2270 748; x_wconf 92' lang='eng'>financial</span>
+      <span class='ocrx_word' id='word_1_31' title='bbox 2302 688 2538 768; x_wconf 92' lang='eng'>assets).</span>
+     </span>
+     <span class='ocr_line' id='line_1_5' title="bbox 326 810 2545 892; baseline 0.001 -23; x_size 80; x_descenders 20; x_ascenders 22">
+      <span class='ocrx_word' id='word_1_32' title='bbox 326 810 565 870; x_wconf 91' lang='eng'>Under</span>
+      <span class='ocrx_word' id='word_1_33' title='bbox 587 810 829 870; x_wconf 91' lang='eng'>Article</span>
+      <span class='ocrx_word' id='word_1_34' title='bbox 858 811 918 885; x_wconf 93' lang='eng'>8,</span>
+      <span class='ocrx_word' id='word_1_35' title='bbox 948 833 986 870; x_wconf 92' lang='eng'>a</span>
+      <span class='ocrx_word' id='word_1_36' title='bbox 1012 810 1297 871; x_wconf 91' lang='eng'>creditor</span>
+      <span class='ocrx_word' id='word_1_37' title='bbox 1322 833 1398 871; x_wconf 91' lang='eng'>or</span>
+      <span class='ocrx_word' id='word_1_38' title='bbox 1422 811 1819 891; x_wconf 91' lang='eng'>third-party</span>
+      <span class='ocrx_word' id='word_1_39' title='bbox 1844 812 2003 872; x_wconf 92' lang='eng'>such</span>
+      <span class='ocrx_word' id='word_1_40' title='bbox 2030 833 2098 872; x_wconf 90' lang='eng'>as</span>
+      <span class='ocrx_word' id='word_1_41' title='bbox 2125 833 2164 871; x_wconf 92' lang='eng'>a</span>
+      <span class='ocrx_word' id='word_1_42' title='bbox 2187 811 2545 892; x_wconf 91' lang='eng'>liquidator</span>
+     </span>
+     <span class='ocr_line' id='line_1_6' title="bbox 327 933 2543 1014; baseline 0 -21; x_size 81; x_descenders 21; x_ascenders 22">
+      <span class='ocrx_word' id='word_1_43' title='bbox 327 933 405 993; x_wconf 82' lang='eng'>of</span>
+      <span class='ocrx_word' id='word_1_44' title='bbox 443 955 481 992; x_wconf 92'>a</span>
+      <span class='ocrx_word' id='word_1_45' title='bbox 517 933 845 993; x_wconf 87' lang='eng'>securities</span>
+      <span class='ocrx_word' id='word_1_46' title='bbox 880 933 1357 1014; x_wconf 82' lang='eng'>intermediary</span>
+      <span class='ocrx_word' id='word_1_47' title='bbox 1392 934 1603 1014; x_wconf 93' lang='eng'>might</span>
+      <span class='ocrx_word' id='word_1_48' title='bbox 1636 934 1719 994; x_wconf 91' lang='eng'>be</span>
+      <span class='ocrx_word' id='word_1_49' title='bbox 1757 934 1903 994; x_wconf 91' lang='eng'>able</span>
+      <span class='ocrx_word' id='word_1_50' title='bbox 1939 948 2006 995; x_wconf 91' lang='eng'>to</span>
+      <span class='ocrx_word' id='word_1_51' title='bbox 2043 934 2236 994; x_wconf 92' lang='eng'>make</span>
+      <span class='ocrx_word' id='word_1_52' title='bbox 2274 957 2312 995; x_wconf 92'>a</span>
+      <span class='ocrx_word' id='word_1_53' title='bbox 2348 935 2543 995; x_wconf 91' lang='eng'>claim</span>
+     </span>
+     <span class='ocr_line' id='line_1_7' title="bbox 326 1055 2541 1137; baseline 0.001 -22; x_size 81; x_descenders 21; x_ascenders 22">
+      <span class='ocrx_word' id='word_1_54' title='bbox 326 1069 393 1116; x_wconf 92' lang='eng'>to</span>
+      <span class='ocrx_word' id='word_1_55' title='bbox 428 1055 740 1116; x_wconf 91' lang='eng'>financial</span>
+      <span class='ocrx_word' id='word_1_56' title='bbox 776 1069 971 1116; x_wconf 91' lang='eng'>assets</span>
+      <span class='ocrx_word' id='word_1_57' title='bbox 1009 1056 1263 1137; x_wconf 88' lang='eng'>against</span>
+      <span class='ocrx_word' id='word_1_58' title='bbox 1299 1079 1385 1116; x_wconf 92'>an</span>
+      <span class='ocrx_word' id='word_1_59' title='bbox 1421 1057 1786 1137; x_wconf 91' lang='eng'>upper-tier</span>
+      <span class='ocrx_word' id='word_1_60' title='bbox 1818 1057 2296 1137; x_wconf 90' lang='eng'>intermediary</span>
+      <span class='ocrx_word' id='word_1_61' title='bbox 2329 1057 2396 1116; x_wconf 78'>in</span>
+      <span class='ocrx_word' id='word_1_62' title='bbox 2432 1058 2541 1118; x_wconf 88' lang='eng'>the</span>
+     </span>
+     <span class='ocr_line' id='line_1_8' title="bbox 327 1179 2542 1260; baseline 0.001 -22; x_size 80; x_descenders 20; x_ascenders 22">
+      <span class='ocrx_word' id='word_1_63' title='bbox 327 1179 834 1240; x_wconf 91' lang='eng'>circumstances</span>
+      <span class='ocrx_word' id='word_1_64' title='bbox 866 1192 959 1239; x_wconf 91' lang='eng'>set</span>
+      <span class='ocrx_word' id='word_1_65' title='bbox 987 1180 1161 1240; x_wconf 91' lang='eng'>forth</span>
+      <span class='ocrx_word' id='word_1_66' title='bbox 1190 1180 1258 1239; x_wconf 88' lang='eng'>in</span>
+      <span class='ocrx_word' id='word_1_67' title='bbox 1289 1180 1607 1260; x_wconf 88' lang='eng'>8-503(d),</span>
+      <span class='ocrx_word' id='word_1_68' title='bbox 1640 1180 1927 1240; x_wconf 92' lang='eng'>detailed</span>
+      <span class='ocrx_word' id='word_1_69' title='bbox 1954 1181 2022 1240; x_wconf 88' lang='eng'>in</span>
+      <span class='ocrx_word' id='word_1_70' title='bbox 2052 1181 2162 1241; x_wconf 92' lang='eng'>the</span>
+      <span class='ocrx_word' id='word_1_71' title='bbox 2194 1203 2447 1241; x_wconf 90' lang='eng'>answer</span>
+      <span class='ocrx_word' id='word_1_72' title='bbox 2475 1195 2542 1241; x_wconf 90' lang='eng'>to</span>
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 326 1302 765 1382">
+    <p class='ocr_par' id='par_1_3' lang='eng' title="bbox 326 1302 765 1382">
+     <span class='ocr_line' id='line_1_9' title="bbox 326 1302 765 1382; baseline 0 -20; x_size 80; x_descenders 20; x_ascenders 22">
+      <span class='ocrx_word' id='word_1_73' title='bbox 326 1302 632 1382; x_wconf 92'>question</span>
+      <span class='ocrx_word' id='word_1_74' title='bbox 662 1304 765 1365; x_wconf 89'>24.</span>
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 325 1548 2549 2368">
+    <p class='ocr_par' id='par_1_4' lang='eng' title="bbox 328 1548 742 1609">
+     <span class='ocr_line' id='line_1_10' title="bbox 328 1548 742 1609; baseline -0.002 0; x_size 81.584999; x_descenders 20.584999; x_ascenders 23">
+      <span class='ocrx_word' id='word_1_75' title='bbox 328 1548 742 1609; x_wconf 90'>Shortfalls</span>
+     </span>
+    </p>
+
+    <p class='ocr_par' id='par_1_5' lang='eng' title="bbox 325 1672 2549 2368">
+     <span class='ocr_line' id='line_1_11' title="bbox 327 1672 2548 1753; baseline -0.001 -18; x_size 80; x_descenders 20; x_ascenders 23">
+      <span class='ocrx_word' id='word_1_76' title='bbox 327 1673 455 1752; x_wconf 91'>(29)</span>
+      <span class='ocrx_word' id='word_1_77' title='bbox 492 1673 553 1732; x_wconf 91'>Is</span>
+      <span class='ocrx_word' id='word_1_78' title='bbox 589 1696 623 1733; x_wconf 91' lang='deu'>a</span>
+      <span class='ocrx_word' id='word_1_79' title='bbox 658 1672 915 1751; x_wconf 85'>shortfall</span>
+      <span class='ocrx_word' id='word_1_80' title='bbox 953 1673 1055 1750; x_wconf 81'>(i.e.</span>
+      <span class='ocrx_word' id='word_1_81' title='bbox 1102 1673 1187 1733; x_wconf 91'>the</span>
+      <span class='ocrx_word' id='word_1_82' title='bbox 1223 1673 1657 1753; x_wconf 86'>intermediary’s</span>
+      <span class='ocrx_word' id='word_1_83' title='bbox 1681 1673 1928 1752; x_wconf 89'>position</span>
+      <span class='ocrx_word' id='word_1_84' title='bbox 1966 1673 2101 1734; x_wconf 90'>with</span>
+      <span class='ocrx_word' id='word_1_85' title='bbox 2138 1696 2211 1733; x_wconf 92' lang='deu'>an</span>
+      <span class='ocrx_word' id='word_1_86' title='bbox 2251 1673 2548 1753; x_wconf 89'>upper-tier</span>
+     </span>
+     <span class='ocr_line' id='line_1_12' title="bbox 326 1795 2542 1876; baseline 0 -21; x_size 80; x_descenders 20; x_ascenders 23">
+      <span class='ocrx_word' id='word_1_87' title='bbox 326 1795 712 1876; x_wconf 81'>intermediary</span>
+      <span class='ocrx_word' id='word_1_88' title='bbox 742 1795 790 1855; x_wconf 36'>is</span>
+      <span class='ocrx_word' id='word_1_89' title='bbox 820 1795 923 1855; x_wconf 91'>less</span>
+      <span class='ocrx_word' id='word_1_90' title='bbox 952 1796 1083 1855; x_wconf 92'>than</span>
+      <span class='ocrx_word' id='word_1_91' title='bbox 1115 1796 1200 1855; x_wconf 91'>the</span>
+      <span class='ocrx_word' id='word_1_92' title='bbox 1227 1806 1512 1875; x_wconf 91'>aggregate</span>
+      <span class='ocrx_word' id='word_1_93' title='bbox 1540 1796 1789 1856; x_wconf 90'>recorded</span>
+      <span class='ocrx_word' id='word_1_94' title='bbox 1801 1796 2047 1875; x_wconf 90'>position</span>
+      <span class='ocrx_word' id='word_1_95' title='bbox 2077 1796 2150 1875; x_wconf 85'>of</span>
+      <span class='ocrx_word' id='word_1_96' title='bbox 2177 1796 2262 1856; x_wconf 83'>the</span>
+      <span class='ocrx_word' id='word_1_97' title='bbox 2290 1796 2542 1856; x_wconf 81'>interme-</span>
+     </span>
+     <span class='ocr_line' id='line_1_13' title="bbox 325 1919 2548 2000; baseline 0 -21; x_size 80; x_descenders 20; x_ascenders 22">
+      <span class='ocrx_word' id='word_1_98' title='bbox 325 1919 532 1999; x_wconf 71'>diary’s</span>
+      <span class='ocrx_word' id='word_1_99' title='bbox 559 1919 1054 1997; x_wconf 92'>account-holders)</span>
+      <span class='ocrx_word' id='word_1_100' title='bbox 1086 1929 1146 1979; x_wconf 92'>at</span>
+      <span class='ocrx_word' id='word_1_101' title='bbox 1173 1919 1258 1979; x_wconf 93'>the</span>
+      <span class='ocrx_word' id='word_1_102' title='bbox 1286 1919 1420 1979; x_wconf 93'>level</span>
+      <span class='ocrx_word' id='word_1_103' title='bbox 1444 1919 1516 1998; x_wconf 83'>of</span>
+      <span class='ocrx_word' id='word_1_104' title='bbox 1543 1919 1627 1979; x_wconf 83'>the</span>
+      <span class='ocrx_word' id='word_1_105' title='bbox 1655 1919 2040 2000; x_wconf 90'>intermediary</span>
+      <span class='ocrx_word' id='word_1_106' title='bbox 2058 1919 2338 1999; x_wconf 88'>possible?</span>
+      <span class='ocrx_word' id='word_1_107' title='bbox 2372 1920 2548 1980; x_wconf 86'>What</span>
+     </span>
+     <span class='ocr_line' id='line_1_14' title="bbox 326 2042 2545 2122; baseline 0 -20; x_size 80; x_descenders 20; x_ascenders 23">
+      <span class='ocrx_word' id='word_1_108' title='bbox 326 2042 471 2102; x_wconf 92'>rules</span>
+      <span class='ocrx_word' id='word_1_109' title='bbox 496 2065 586 2103; x_wconf 92'>are</span>
+      <span class='ocrx_word' id='word_1_110' title='bbox 610 2042 838 2122; x_wconf 88'>applied</span>
+      <span class='ocrx_word' id='word_1_111' title='bbox 860 2052 910 2102; x_wconf 92'>to</span>
+      <span class='ocrx_word' id='word_1_112' title='bbox 938 2042 1134 2103; x_wconf 92'>resolve</span>
+      <span class='ocrx_word' id='word_1_113' title='bbox 1160 2042 1245 2102; x_wconf 92'>the</span>
+      <span class='ocrx_word' id='word_1_114' title='bbox 1270 2042 1529 2122; x_wconf 92'>resulting</span>
+      <span class='ocrx_word' id='word_1_115' title='bbox 1551 2042 1834 2122; x_wconf 77'>difference</span>
+      <span class='ocrx_word' id='word_1_116' title='bbox 1860 2042 1933 2122; x_wconf 91'>of</span>
+      <span class='ocrx_word' id='word_1_117' title='bbox 1943 2042 2255 2122; x_wconf 86'>positions?</span>
+      <span class='ocrx_word' id='word_1_118' title='bbox 2269 2042 2381 2102; x_wconf 42'>Are</span>
+      <span class='ocrx_word' id='word_1_119' title='bbox 2407 2043 2545 2103; x_wconf 90'>there</span>
+     </span>
+     <span class='ocr_line' id='line_1_15' title="bbox 326 2147 2549 2243; baseline 0 -18; x_size 77; x_descenders 17; x_ascenders 23">
+      <span class='ocrx_word' id='word_1_120' title='bbox 326 2188 433 2243; x_wconf 92'>any</span>
+      <span class='ocrx_word' id='word_1_121' title='bbox 460 2166 604 2225; x_wconf 91'>rules</span>
+      <span class='ocrx_word' id='word_1_122' title='bbox 629 2188 697 2225; x_wconf 92' lang='deu'>on</span>
+      <span class='ocrx_word' id='word_1_123' title='bbox 722 2166 851 2225; x_wconf 90'>how</span>
+      <span class='ocrx_word' id='word_1_124' title='bbox 879 2176 928 2225; x_wconf 91'>to</span>
+      <span class='ocrx_word' id='word_1_125' title='bbox 953 2166 1156 2225; x_wconf 92'>handle</span>
+      <span class='ocrx_word' id='word_1_126' title='bbox 1179 2166 1312 2225; x_wconf 92'>such</span>
+      <span class='ocrx_word' id='word_1_127' title='bbox 1338 2188 1372 2225; x_wconf 93' lang='deu'>a</span>
+      <span class='ocrx_word' id='word_1_128' title='bbox 1397 2165 1661 2225; x_wconf 56'>situation</span>
+      <span class='ocrx_word' id='word_1_129' title='bbox 1665 2147 1829 2242; x_wconf 56'>from</span>
+      <span class='ocrx_word' id='word_1_130' title='bbox 1851 2188 1924 2225; x_wconf 93' lang='deu'>an</span>
+      <span class='ocrx_word' id='word_1_131' title='bbox 1950 2165 2276 2242; x_wconf 89'>accounting</span>
+      <span class='ocrx_word' id='word_1_132' title='bbox 2286 2166 2453 2243; x_wconf 89'>point</span>
+      <span class='ocrx_word' id='word_1_133' title='bbox 2475 2165 2549 2242; x_wconf 86'>of</span>
+     </span>
+     <span class='ocr_line' id='line_1_16' title="bbox 326 2288 2546 2368; baseline 0 -20; x_size 80; x_descenders 20; x_ascenders 23">
+      <span class='ocrx_word' id='word_1_134' title='bbox 326 2289 465 2349; x_wconf 86'>view</span>
+      <span class='ocrx_word' id='word_1_135' title='bbox 496 2288 602 2368; x_wconf 89'>(for</span>
+      <span class='ocrx_word' id='word_1_136' title='bbox 623 2288 872 2367; x_wconf 90'>example</span>
+      <span class='ocrx_word' id='word_1_137' title='bbox 898 2288 1121 2368; x_wconf 92'>through</span>
+      <span class='ocrx_word' id='word_1_138' title='bbox 1148 2310 1220 2348; x_wconf 93' lang='deu'>an</span>
+      <span class='ocrx_word' id='word_1_139' title='bbox 1249 2288 1463 2348; x_wconf 81'>interim</span>
+      <span class='ocrx_word' id='word_1_140' title='bbox 1488 2288 1762 2348; x_wconf 89'>securities</span>
+      <span class='ocrx_word' id='word_1_141' title='bbox 1787 2288 1935 2348; x_wconf 71'>debit</span>
+      <span class='ocrx_word' id='word_1_142' title='bbox 1959 2288 2251 2367; x_wconf 82'>balance)?</span>
+      <span class='ocrx_word' id='word_1_143' title='bbox 2270 2289 2430 2348; x_wconf 90'>How</span>
+      <span class='ocrx_word' id='word_1_144' title='bbox 2456 2310 2546 2348; x_wconf 93'>are</span>
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_6' title="bbox 324 2411 1242 2492">
+    <p class='ocr_par' id='par_1_6' lang='eng' title="bbox 324 2411 1242 2492">
+     <span class='ocr_line' id='line_1_17' title="bbox 324 2411 1242 2492; baseline 0 -20; x_size 81; x_descenders 20; x_ascenders 23">
+      <span class='ocrx_word' id='word_1_145' title='bbox 324 2412 606 2491; x_wconf 90'>shortfalls</span>
+      <span class='ocrx_word' id='word_1_146' title='bbox 629 2411 875 2472; x_wconf 92'>handled</span>
+      <span class='ocrx_word' id='word_1_147' title='bbox 896 2412 953 2472; x_wconf 78' lang='deu'>in</span>
+      <span class='ocrx_word' id='word_1_148' title='bbox 969 2412 1242 2492; x_wconf 90'>practice?</span>
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_7' title="bbox 324 2592 2548 3896">
+    <p class='ocr_par' id='par_1_7' lang='eng' title="bbox 324 2592 2548 3896">
+     <span class='ocr_line' id='line_1_18' title="bbox 326 2592 2543 2673; baseline -0 -21; x_size 81; x_descenders 21; x_ascenders 22">
+      <span class='ocrx_word' id='word_1_149' title='bbox 326 2593 403 2652; x_wconf 92'>In</span>
+      <span class='ocrx_word' id='word_1_150' title='bbox 433 2593 542 2653; x_wconf 91'>the</span>
+      <span class='ocrx_word' id='word_1_151' title='bbox 573 2592 840 2673; x_wconf 90'>general</span>
+      <span class='ocrx_word' id='word_1_152' title='bbox 869 2605 1072 2653; x_wconf 90'>terms</span>
+      <span class='ocrx_word' id='word_1_153' title='bbox 1102 2592 1180 2652; x_wconf 91'>of</span>
+      <span class='ocrx_word' id='word_1_154' title='bbox 1208 2592 1452 2652; x_wconf 90'>Article</span>
+      <span class='ocrx_word' id='word_1_155' title='bbox 1484 2593 1543 2667; x_wconf 93'>8,</span>
+      <span class='ocrx_word' id='word_1_156' title='bbox 1577 2614 1615 2652; x_wconf 90'>a</span>
+      <span class='ocrx_word' id='word_1_157' title='bbox 1645 2592 1938 2652; x_wconf 88'>shortfall</span>
+      <span class='ocrx_word' id='word_1_158' title='bbox 1967 2592 2206 2652; x_wconf 92'>should</span>
+      <span class='ocrx_word' id='word_1_159' title='bbox 2235 2605 2352 2652; x_wconf 91'>not</span>
+      <span class='ocrx_word' id='word_1_160' title='bbox 2380 2592 2543 2672; x_wconf 90'>hap-</span>
+     </span>
+     <span class='ocr_line' id='line_1_19' title="bbox 324 2715 2542 2797; baseline -0.001 -21; x_size 81; x_descenders 21; x_ascenders 22">
+      <span class='ocrx_word' id='word_1_161' title='bbox 324 2738 477 2797; x_wconf 91'>pen.</span>
+      <span class='ocrx_word' id='word_1_162' title='bbox 520 2716 582 2775; x_wconf 91'>A</span>
+      <span class='ocrx_word' id='word_1_163' title='bbox 621 2716 949 2776; x_wconf 91'>securities</span>
+      <span class='ocrx_word' id='word_1_164' title='bbox 989 2716 1467 2796; x_wconf 82'>intermediary</span>
+      <span class='ocrx_word' id='word_1_165' title='bbox 1506 2738 1660 2796; x_wconf 90'>may</span>
+      <span class='ocrx_word' id='word_1_166' title='bbox 1699 2729 1817 2775; x_wconf 92'>not</span>
+      <span class='ocrx_word' id='word_1_167' title='bbox 1857 2728 2070 2776; x_wconf 91'>create</span>
+      <span class='ocrx_word' id='word_1_168' title='bbox 2113 2715 2392 2796; x_wconf 90'>security</span>
+      <span class='ocrx_word' id='word_1_169' title='bbox 2432 2737 2542 2775; x_wconf 92'>en-</span>
+     </span>
+     <span class='ocr_line' id='line_1_20' title="bbox 326 2838 2540 2919; baseline -0.001 -19; x_size 80; x_descenders 20; x_ascenders 23">
+      <span class='ocrx_word' id='word_1_170' title='bbox 326 2840 680 2900; x_wconf 89'>titlements</span>
+      <span class='ocrx_word' id='word_1_171' title='bbox 721 2852 979 2919; x_wconf 89'>greater</span>
+      <span class='ocrx_word' id='word_1_172' title='bbox 1018 2840 1180 2899; x_wconf 90'>than</span>
+      <span class='ocrx_word' id='word_1_173' title='bbox 1220 2839 1296 2899; x_wconf 86'>its</span>
+      <span class='ocrx_word' id='word_1_174' title='bbox 1337 2839 1631 2899; x_wconf 85'>interests</span>
+      <span class='ocrx_word' id='word_1_175' title='bbox 1672 2839 1739 2897; x_wconf 92' lang='deu'>in</span>
+      <span class='ocrx_word' id='word_1_176' title='bbox 1781 2861 1820 2898; x_wconf 92' lang='deu'>a</span>
+      <span class='ocrx_word' id='word_1_177' title='bbox 1858 2838 2216 2918; x_wconf 90'>particular</span>
+      <span class='ocrx_word' id='word_1_178' title='bbox 2256 2838 2540 2917; x_wconf 83'>security.</span>
+     </span>
+     <span class='ocr_line' id='line_1_21' title="bbox 328 2959 2546 3040; baseline -0.001 -19; x_size 80; x_descenders 20; x_ascenders 22">
+      <span class='ocrx_word' id='word_1_179' title='bbox 328 2962 553 3021; x_wconf 90'>8-504.</span>
+      <span class='ocrx_word' id='word_1_180' title='bbox 586 2961 646 3020; x_wconf 93'>A</span>
+      <span class='ocrx_word' id='word_1_181' title='bbox 675 2961 1004 3021; x_wconf 91'>securities</span>
+      <span class='ocrx_word' id='word_1_182' title='bbox 1034 2960 1511 3040; x_wconf 91'>intermediary</span>
+      <span class='ocrx_word' id='word_1_183' title='bbox 1539 2960 1738 3020; x_wconf 92'>could</span>
+      <span class='ocrx_word' id='word_1_184' title='bbox 1768 2960 2110 3039; x_wconf 89'>obviously</span>
+      <span class='ocrx_word' id='word_1_185' title='bbox 2136 2959 2373 3019; x_wconf 90'>violate</span>
+      <span class='ocrx_word' id='word_1_186' title='bbox 2405 2960 2546 3019; x_wconf 92'>that</span>
+     </span>
+     <span class='ocr_line' id='line_1_22' title="bbox 327 3075 2543 3163; baseline -0.001 -20; x_size 80; x_descenders 21; x_ascenders 22">
+      <span class='ocrx_word' id='word_1_187' title='bbox 327 3083 794 3163; x_wconf 92'>requirement.</span>
+      <span class='ocrx_word' id='word_1_188' title='bbox 825 3083 973 3142; x_wconf 89'>The</span>
+      <span class='ocrx_word' id='word_1_189' title='bbox 1002 3083 1157 3162; x_wconf 92'>only</span>
+      <span class='ocrx_word' id='word_1_190' title='bbox 1183 3083 1319 3142; x_wconf 91'>rule</span>
+      <span class='ocrx_word' id='word_1_191' title='bbox 1348 3083 1415 3141; x_wconf 89'>in</span>
+      <span class='ocrx_word' id='word_1_192' title='bbox 1443 3082 1602 3142; x_wconf 91'>such</span>
+      <span class='ocrx_word' id='word_1_193' title='bbox 1629 3075 1955 3142; x_wconf 88'>instances</span>
+      <span class='ocrx_word' id='word_1_194' title='bbox 1981 3082 2031 3142; x_wconf 88'>is</span>
+      <span class='ocrx_word' id='word_1_195' title='bbox 2058 3081 2199 3141; x_wconf 92'>that</span>
+      <span class='ocrx_word' id='word_1_196' title='bbox 2225 3082 2335 3141; x_wconf 92'>the</span>
+      <span class='ocrx_word' id='word_1_197' title='bbox 2364 3103 2543 3141; x_wconf 91'>secu-</span>
+     </span>
+     <span class='ocr_line' id='line_1_23' title="bbox 327 3204 2544 3286; baseline -0.001 -20; x_size 80; x_descenders 21; x_ascenders 22">
+      <span class='ocrx_word' id='word_1_198' title='bbox 327 3206 449 3286; x_wconf 91'>rity</span>
+      <span class='ocrx_word' id='word_1_199' title='bbox 478 3206 890 3266; x_wconf 89'>entitlement</span>
+      <span class='ocrx_word' id='word_1_200' title='bbox 918 3206 1182 3265; x_wconf 90'>holders</span>
+      <span class='ocrx_word' id='word_1_201' title='bbox 1213 3205 1448 3285; x_wconf 92'>simply</span>
+      <span class='ocrx_word' id='word_1_202' title='bbox 1477 3205 1664 3265; x_wconf 90'>share</span>
+      <span class='ocrx_word' id='word_1_203' title='bbox 1693 3226 1815 3285; x_wconf 91'>pro</span>
+      <span class='ocrx_word' id='word_1_204' title='bbox 1846 3218 1983 3265; x_wconf 91'>rata</span>
+      <span class='ocrx_word' id='word_1_205' title='bbox 2014 3205 2081 3263; x_wconf 92' lang='deu'>in</span>
+      <span class='ocrx_word' id='word_1_206' title='bbox 2110 3204 2220 3264; x_wconf 91'>the</span>
+      <span class='ocrx_word' id='word_1_207' title='bbox 2250 3204 2544 3264; x_wconf 48'>interests</span>
+     </span>
+     <span class='ocr_line' id='line_1_24' title="bbox 327 3326 2545 3408; baseline -0.001 -21; x_size 79; x_descenders 20; x_ascenders 22">
+      <span class='ocrx_word' id='word_1_208' title='bbox 327 3329 482 3389; x_wconf 92'>held</span>
+      <span class='ocrx_word' id='word_1_209' title='bbox 509 3329 595 3408; x_wconf 91'>by</span>
+      <span class='ocrx_word' id='word_1_210' title='bbox 622 3329 731 3388; x_wconf 91'>the</span>
+      <span class='ocrx_word' id='word_1_211' title='bbox 762 3328 1090 3388; x_wconf 90'>securities</span>
+      <span class='ocrx_word' id='word_1_212' title='bbox 1119 3327 1601 3406; x_wconf 88'>intermediary.</span>
+      <span class='ocrx_word' id='word_1_213' title='bbox 1634 3327 1814 3386; x_wconf 88'>That</span>
+      <span class='ocrx_word' id='word_1_214' title='bbox 1842 3327 1978 3386; x_wconf 91'>rule</span>
+      <span class='ocrx_word' id='word_1_215' title='bbox 2009 3326 2258 3406; x_wconf 90'>applies</span>
+      <span class='ocrx_word' id='word_1_216' title='bbox 2288 3339 2353 3386; x_wconf 92'>at</span>
+      <span class='ocrx_word' id='word_1_217' title='bbox 2380 3326 2545 3386; x_wconf 92'>each</span>
+     </span>
+     <span class='ocr_line' id='line_1_25' title="bbox 326 3448 2547 3529; baseline -0.002 -19; x_size 80; x_descenders 21; x_ascenders 22">
+      <span class='ocrx_word' id='word_1_218' title='bbox 326 3451 505 3510; x_wconf 87'>level.</span>
+      <span class='ocrx_word' id='word_1_219' title='bbox 550 3451 729 3510; x_wconf 87'>That</span>
+      <span class='ocrx_word' id='word_1_220' title='bbox 767 3450 835 3524; x_wconf 88' lang='deu'>is,</span>
+      <span class='ocrx_word' id='word_1_221' title='bbox 878 3450 988 3509; x_wconf 92'>the</span>
+      <span class='ocrx_word' id='word_1_222' title='bbox 1030 3449 1335 3529; x_wconf 92'>holdings</span>
+      <span class='ocrx_word' id='word_1_223' title='bbox 1376 3449 1454 3509; x_wconf 86'>of</span>
+      <span class='ocrx_word' id='word_1_224' title='bbox 1496 3449 1660 3508; x_wconf 89'>each</span>
+      <span class='ocrx_word' id='word_1_225' title='bbox 1702 3448 2030 3508; x_wconf 91'>securities</span>
+      <span class='ocrx_word' id='word_1_226' title='bbox 2070 3448 2547 3527; x_wconf 87'>intermediary</span>
+     </span>
+     <span class='ocr_line' id='line_1_26' title="bbox 327 3570 2544 3653; baseline -0.001 -21; x_size 80; x_descenders 21; x_ascenders 22">
+      <span class='ocrx_word' id='word_1_227' title='bbox 327 3573 606 3653; x_wconf 90'>holding</span>
+      <span class='ocrx_word' id='word_1_228' title='bbox 644 3595 682 3633; x_wconf 92' lang='deu'>a</span>
+      <span class='ocrx_word' id='word_1_229' title='bbox 722 3572 1002 3652; x_wconf 89'>security</span>
+      <span class='ocrx_word' id='word_1_230' title='bbox 1041 3572 1454 3632; x_wconf 70'>entitlement</span>
+      <span class='ocrx_word' id='word_1_231' title='bbox 1493 3571 1781 3651; x_wconf 92'>through</span>
+      <span class='ocrx_word' id='word_1_232' title='bbox 1822 3593 1908 3630; x_wconf 93' lang='deu'>an</span>
+      <span class='ocrx_word' id='word_1_233' title='bbox 1948 3570 2314 3651; x_wconf 91'>upper-tier</span>
+      <span class='ocrx_word' id='word_1_234' title='bbox 2351 3570 2544 3630; x_wconf 62'>inter-</span>
+     </span>
+     <span class='ocr_line' id='line_1_27' title="bbox 328 3692 2548 3775; baseline -0.002 -20; x_size 80; x_descenders 20; x_ascenders 23">
+      <span class='ocrx_word' id='word_1_235' title='bbox 328 3696 630 3775; x_wconf 88'>mediary</span>
+      <span class='ocrx_word' id='word_1_236' title='bbox 649 3695 776 3755; x_wconf 91'>will</span>
+      <span class='ocrx_word' id='word_1_237' title='bbox 800 3695 883 3755; x_wconf 92'>be</span>
+      <span class='ocrx_word' id='word_1_238' title='bbox 909 3694 1200 3755; x_wconf 91'>reduced</span>
+      <span class='ocrx_word' id='word_1_239' title='bbox 1225 3707 1292 3754; x_wconf 92'>to</span>
+      <span class='ocrx_word' id='word_1_240' title='bbox 1317 3694 1392 3754; x_wconf 90'>its</span>
+      <span class='ocrx_word' id='word_1_241' title='bbox 1416 3716 1537 3774; x_wconf 92'>pro</span>
+      <span class='ocrx_word' id='word_1_242' title='bbox 1563 3707 1705 3754; x_wconf 92'>rata</span>
+      <span class='ocrx_word' id='word_1_243' title='bbox 1730 3693 1918 3753; x_wconf 91'>share</span>
+      <span class='ocrx_word' id='word_1_244' title='bbox 1944 3693 2022 3753; x_wconf 87'>of</span>
+      <span class='ocrx_word' id='word_1_245' title='bbox 2048 3693 2157 3753; x_wconf 92'>the</span>
+      <span class='ocrx_word' id='word_1_246' title='bbox 2183 3692 2548 3772; x_wconf 89'>upper-tier</span>
+     </span>
+     <span class='ocr_line' id='line_1_28' title="bbox 329 3815 2548 3896; baseline -0.002 -18; x_size 79; x_descenders 20; x_ascenders 22">
+      <span class='ocrx_word' id='word_1_247' title='bbox 329 3818 657 3878; x_wconf 89'>securities</span>
+      <span class='ocrx_word' id='word_1_248' title='bbox 692 3818 1216 3896; x_wconf 91'>intermediary’s</span>
+      <span class='ocrx_word' id='word_1_249' title='bbox 1251 3816 1573 3895; x_wconf 89'>holdings.</span>
+      <span class='ocrx_word' id='word_1_250' title='bbox 1612 3817 1688 3874; x_wconf 87'>In</span>
+      <span class='ocrx_word' id='word_1_251' title='bbox 1724 3830 1898 3890; x_wconf 87'>turn,</span>
+      <span class='ocrx_word' id='word_1_252' title='bbox 1936 3816 2100 3875; x_wconf 92'>each</span>
+      <span class='ocrx_word' id='word_1_253' title='bbox 2135 3815 2548 3874; x_wconf 90'>entitlement</span>
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_8' title="bbox 329 3936 2548 4020">
+    <p class='ocr_par' id='par_1_8' lang='eng' title="bbox 329 3936 2548 4020">
+     <span class='ocr_line' id='line_1_29' title="bbox 329 3936 2548 4020; baseline -0.002 -20; x_size 81; x_descenders 20; x_ascenders 23">
+      <span class='ocrx_word' id='word_1_254' title='bbox 329 3940 564 4001; x_wconf 90'>holder</span>
+      <span class='ocrx_word' id='word_1_255' title='bbox 594 3939 871 4020; x_wconf 90'>holding</span>
+      <span class='ocrx_word' id='word_1_256' title='bbox 900 3939 1188 4019; x_wconf 92'>through</span>
+      <span class='ocrx_word' id='word_1_257' title='bbox 1220 3961 1348 3999; x_wconf 90'>one</span>
+      <span class='ocrx_word' id='word_1_258' title='bbox 1382 3938 1460 3999; x_wconf 87'>of</span>
+      <span class='ocrx_word' id='word_1_259' title='bbox 1492 3938 1678 3998; x_wconf 87'>those</span>
+      <span class='ocrx_word' id='word_1_260' title='bbox 1712 3937 2040 3998; x_wconf 90'>securities</span>
+      <span class='ocrx_word' id='word_1_261' title='bbox 2071 3936 2548 4016; x_wconf 91'>intermediary</span>
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_9' title="bbox 1383 4258 1506 4318">
+    <p class='ocr_par' id='par_1_9' lang='eng' title="bbox 1383 4258 1506 4318">
+     <span class='ocr_line' id='line_1_30' title="bbox 1383 4258 1506 4318; baseline 0 -1; x_size 78; x_descenders 19.5; x_ascenders 19.5">
+      <span class='ocrx_word' id='word_1_262' title='bbox 1383 4258 1506 4318; x_wconf 96'>186</span>
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

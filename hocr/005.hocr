@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title></title>
+  <meta http-equiv="Content-Type" content="text/html;charset=utf-8"/>
+  <meta name='ocr-system' content='tesseract 5.3.4' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word ocrp_wconf'/>
+ </head>
+ <body>
+  <div class='ocr_page' id='page_1' title='image "/run/user/1017/ocrmypdf.io.xeknc0jr/000005_ocr.png"; bbox 0 0 2846 4695; ppageno 0; scan_res 600 600'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 975 1551 1862 1650">
+    <p class='ocr_par' id='par_1_1' lang='deu' title="bbox 975 1551 1862 1650">
+     <span class='ocr_line' id='line_1_1' title="bbox 975 1551 1862 1650; baseline 0 -2; x_size 107.424; x_descenders 9.4239998; x_ascenders 36">
+      <span class='ocrx_word' id='word_1_1' title='bbox 975 1552 1172 1649; x_wconf 83'>Für</span>
+      <span class='ocrx_word' id='word_1_2' title='bbox 1207 1551 1552 1649; x_wconf 0' lang='eng'>meinen</span>
+      <span class='ocrx_word' id='word_1_3' title='bbox 1614 1552 1862 1650; x_wconf 91'>Vater</span>
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
