@@ -13,7 +13,7 @@
    <div class='ocr_carea' id='block_1_1' title="bbox 736 652 2073 800">
     <p class='ocr_par' id='par_1_1' lang='eng' title="bbox 736 652 2073 800">
      <span class='ocr_line' id='line_1_1' title="bbox 736 652 2073 800; baseline 0.001 -39; x_size 148; x_descenders 38; x_ascenders 40">
-      <span class='ocrx_word' id='word_1_1' title='bbox 736 653 1137 763; x_wconf 62'>Dawvid</span>
+      <span class='ocrx_word' id='word_1_1' title='bbox 736 653 1137 763; x_wconf 62'>David</span>
       <span class='ocrx_word' id='word_1_2' title='bbox 1184 653 1642 800; x_wconf 92'>Rogers</span>
       <span class='ocrx_word' id='word_1_3' title='bbox 1689 652 2073 763; x_wconf 91' lang='deu'>Webb</span>
      </span>
@@ -31,7 +31,7 @@
    <div class='ocr_carea' id='block_1_3' title="bbox 741 2175 2076 2337">
     <p class='ocr_par' id='par_1_3' lang='eng' title="bbox 741 2175 2076 2337">
      <span class='ocr_line' id='line_1_3' title="bbox 741 2175 2076 2337; baseline -0.001 -43; x_size 165; x_descenders 44; x_ascenders 45">
-      <span class='ocrx_word' id='word_1_7' title='bbox 741 2176 1038 2297; x_wconf 27'>T&#39;he</span>
+      <span class='ocrx_word' id='word_1_7' title='bbox 741 2176 1038 2297; x_wconf 27'>The</span>
       <span class='ocrx_word' id='word_1_8' title='bbox 1099 2175 1515 2297; x_wconf 89'>Great</span>
       <span class='ocrx_word' id='word_1_9' title='bbox 1566 2175 2076 2337; x_wconf 75'>Taking</span>
      </span>
@@ -40,7 +40,7 @@
    <div class='ocr_carea' id='block_1_4' title="bbox 460 3691 2348 3759">
     <p class='ocr_par' id='par_1_4' lang='eng' title="bbox 460 3691 2348 3759">
      <span class='ocr_line' id='line_1_4' title="bbox 460 3691 2348 3759; baseline 0.002 -3; x_size 74.385544; x_descenders 9.3855419; x_ascenders 24">
-      <span class='ocrx_word' id='word_1_10' title='bbox 460 3691 821 3757; x_wconf 90'>ubersetzt</span>
+      <span class='ocrx_word' id='word_1_10' title='bbox 460 3691 821 3757; x_wconf 90'>übersetzt</span>
       <span class='ocrx_word' id='word_1_11' title='bbox 846 3715 991 3757; x_wconf 91'>von</span>
       <span class='ocrx_word' id='word_1_12' title='bbox 1020 3691 1345 3757; x_wconf 91'>Michael</span>
       <span class='ocrx_word' id='word_1_13' title='bbox 1374 3692 1657 3758; x_wconf 91'>Palmer</span>

@@ -45,14 +45,14 @@
      </span>
     </p>
 
-    <p class='ocr_par' id='par_1_5' lang='deu' title="bbox 341 2006 1336 2071">
+    <p class='ocr_par' id='par_1_5' lang='eng' title="bbox 341 2006 1336 2071">
      <span class='ocr_line' id='line_1_5' title="bbox 341 2006 1336 2071; baseline 0.001 -17; x_size 65; x_descenders 16; x_ascenders 19">
       <span class='ocrx_word' id='word_1_15' title='bbox 341 2006 525 2055; x_wconf 92'>Markt</span>
-      <span class='ocrx_word' id='word_1_16' title='bbox 557 2007 617 2056; x_wconf 96'>19</span>
-      <span class='ocrx_word' id='word_1_17' title='bbox 639 2031 676 2033; x_wconf 92'>—</span>
-      <span class='ocrx_word' id='word_1_18' title='bbox 698 2006 926 2071; x_wconf 91'>6071JD</span>
-      <span class='ocrx_word' id='word_1_19' title='bbox 952 2006 1240 2068; x_wconf 92'>Swalmen,</span>
-      <span class='ocrx_word' id='word_1_20' title='bbox 1265 2006 1336 2055; x_wconf 96'>NI</span>
+      <span class='ocrx_word' id='word_1_16' title='bbox 557 2007 617 2056; x_wconf 94'>19</span>
+      <span class='ocrx_word' id='word_1_17' title='bbox 639 2031 676 2033; x_wconf 11'>—</span>
+      <span class='ocrx_word' id='word_1_18' title='bbox 698 2006 926 2071; x_wconf 91' lang='deu'>6071JD</span>
+      <span class='ocrx_word' id='word_1_19' title='bbox 952 2006 1240 2068; x_wconf 92' lang='deu'>Swalmen,</span>
+      <span class='ocrx_word' id='word_1_20' title='bbox 1265 2006 1336 2055; x_wconf 96' lang='deu'>NL</span>
      </span>
     </p>
 
@@ -219,10 +219,10 @@
       <span class='ocrx_word' id='word_1_111' title='bbox 346 4058 1197 4126; x_wconf 80'>https://thegreattaking.com/</span>
      </span>
      <span class='ocr_line' id='line_1_24' title="bbox 1306 4202 1449 4240; baseline 0 0; x_size 49.635029; x_descenders 12.63503; x_ascenders 14.155578">
-      <span class='ocrx_word' id='word_1_112' title='bbox 1306 4202 1449 4240; x_wconf 93'>COra</span>
+      <span class='ocrx_word' id='word_1_112' title='bbox 1306 4202 1449 4240; x_wconf 93'>corage.media</span>
      </span>
      <span class='ocr_line' id='line_1_25' title="bbox 1379 4129 1608 4290; baseline 0 0; x_size 219.62758; x_descenders 58.627583; x_ascenders 55">
-      <span class='ocrx_word' id='word_1_113' title='bbox 1379 4129 1608 4290; x_wconf 28'>a</span>
+      <span class='ocrx_word' id='word_1_113' title='bbox 1379 4129 1608 4290; x_wconf 28'></span>
      </span>
     </p>
    </div>
