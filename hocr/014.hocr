@@ -33,7 +33,7 @@
       <span class='ocrx_word' id='word_1_11' title='bbox 2144 443 2519 504; x_wconf 91'>Großvater</span>
      </span>
      <span class='ocr_line' id='line_1_3' title="bbox 300 565 2517 627; baseline 0.001 -3; x_size 81.084473; x_descenders 21.084475; x_ascenders 22">
-      <span class='ocrx_word' id='word_1_12' title='bbox 300 565 896 626; x_wconf 89' lang='eng'>mutterlicherseits</span>
+      <span class='ocrx_word' id='word_1_12' title='bbox 300 565 896 626; x_wconf 89' lang='eng'>mütterlicherseits</span>
       <span class='ocrx_word' id='word_1_13' title='bbox 920 566 1221 626; x_wconf 92'>benannt</span>
       <span class='ocrx_word' id='word_1_14' title='bbox 1241 566 1533 627; x_wconf 92' lang='eng'>worden.</span>
       <span class='ocrx_word' id='word_1_15' title='bbox 1561 566 1796 627; x_wconf 92'>Dieser</span>
@@ -94,7 +94,7 @@
       <span class='ocrx_word' id='word_1_60' title='bbox 662 1183 922 1243; x_wconf 89' lang='eng'>Hauses</span>
       <span class='ocrx_word' id='word_1_61' title='bbox 957 1183 1025 1242; x_wconf 91' lang='eng'>in</span>
       <span class='ocrx_word' id='word_1_62' title='bbox 1061 1183 1179 1243; x_wconf 92' lang='eng'>der</span>
-      <span class='ocrx_word' id='word_1_63' title='bbox 1212 1183 1407 1244; x_wconf 90' lang='eng'>Nahe</span>
+      <span class='ocrx_word' id='word_1_63' title='bbox 1212 1183 1407 1244; x_wconf 90' lang='eng'>Nähe</span>
       <span class='ocrx_word' id='word_1_64' title='bbox 1444 1183 1562 1244; x_wconf 91' lang='eng'>der</span>
       <span class='ocrx_word' id='word_1_65' title='bbox 1596 1183 1829 1243; x_wconf 90' lang='eng'>Euclid</span>
       <span class='ocrx_word' id='word_1_66' title='bbox 1861 1184 2149 1258; x_wconf 91' lang='eng'>Avenue,</span>
@@ -103,7 +103,7 @@
      </span>
      <span class='ocr_line' id='line_1_9' title="bbox 299 1306 2519 1398; baseline 0 -33; x_size 81; x_descenders 21; x_ascenders 23">
       <span class='ocrx_word' id='word_1_69' title='bbox 299 1306 405 1366; x_wconf 85' lang='eng'>nie</span>
-      <span class='ocrx_word' id='word_1_70' title='bbox 441 1306 821 1386; x_wconf 91' lang='eng'>aufgeklart.</span>
+      <span class='ocrx_word' id='word_1_70' title='bbox 441 1306 821 1386; x_wconf 91' lang='eng'>aufgeklärt.</span>
       <span class='ocrx_word' id='word_1_71' title='bbox 861 1306 1156 1398; x_wconf 91' lang='eng'>Obwohl</span>
       <span class='ocrx_word' id='word_1_72' title='bbox 1190 1307 1445 1366; x_wconf 92' lang='eng'>damals</span>
       <span class='ocrx_word' id='word_1_73' title='bbox 1479 1307 1546 1365; x_wconf 93'>in</span>
@@ -115,7 +115,7 @@
      <span class='ocr_line' id='line_1_10' title="bbox 298 1429 2516 1505; baseline 0 -15; x_size 76; x_descenders 16; x_ascenders 22">
       <span class='ocrx_word' id='word_1_78' title='bbox 298 1429 395 1490; x_wconf 86' lang='eng'>bis</span>
       <span class='ocrx_word' id='word_1_79' title='bbox 426 1430 667 1490; x_wconf 90' lang='eng'>Alaska</span>
-      <span class='ocrx_word' id='word_1_80' title='bbox 698 1430 866 1490; x_wconf 90' lang='eng'>uber</span>
+      <span class='ocrx_word' id='word_1_80' title='bbox 698 1430 866 1490; x_wconf 90' lang='eng'>über</span>
       <span class='ocrx_word' id='word_1_81' title='bbox 897 1430 1071 1490; x_wconf 90' lang='eng'>diese</span>
       <span class='ocrx_word' id='word_1_82' title='bbox 1108 1430 1504 1490; x_wconf 91' lang='eng'>Geschichte</span>
       <span class='ocrx_word' id='word_1_83' title='bbox 1538 1430 1860 1490; x_wconf 91' lang='eng'>berichtet</span>
@@ -137,11 +137,12 @@
      </span>
      <span class='ocr_line' id='line_1_12' title="bbox 300 1644 2516 1756; baseline 0 -20; x_size 81; x_descenders 21; x_ascenders 22">
       <span class='ocrx_word' id='word_1_97' title='bbox 300 1676 404 1736; x_wconf 89' lang='eng'>die</span>
-      <span class='ocrx_word' id='word_1_98' title='bbox 437 1644 814 1736; x_wconf 81' lang='eng'>6ffentliche</span>
+      <span class='ocrx_word' id='word_1_98' title='bbox 437 1644 814 1736; x_wconf 81' lang='eng'>öffentliche</span>
       <span class='ocrx_word' id='word_1_99' title='bbox 847 1676 1219 1736; x_wconf 87' lang='eng'>Bibliothek</span>
       <span class='ocrx_word' id='word_1_100' title='bbox 1249 1676 1389 1737; x_wconf 92' lang='eng'>und</span>
       <span class='ocrx_word' id='word_1_101' title='bbox 1420 1676 1587 1756; x_wconf 71' lang='eng'>grub</span>
       <span class='ocrx_word' id='word_1_102' title='bbox 1619 1676 1687 1735; x_wconf 78'>in</span>
+      <!-- TODO wtf are "Mikrofiches"? Mikrofilme? -->
       <span class='ocrx_word' id='word_1_103' title='bbox 1718 1676 2145 1737; x_wconf 90' lang='eng'>Mikrofiches</span>
       <span class='ocrx_word' id='word_1_104' title='bbox 2177 1677 2351 1737; x_wconf 92' lang='eng'>nach</span>
       <span class='ocrx_word' id='word_1_105' title='bbox 2383 1677 2516 1737; x_wconf 91' lang='eng'>die-</span>
