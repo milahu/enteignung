@@ -162,7 +162,7 @@
       <span class='ocrx_word' id='word_1_114' title='bbox 2309 2053 2525 2113; x_wconf 92' lang='eng'>Haus-</span>
      </span>
      <span class='ocr_line' id='line_1_16' title="bbox 309 2175 2527 2255; baseline -0 -20; x_size 80; x_descenders 20; x_ascenders 23">
-      <span class='ocrx_word' id='word_1_115' title='bbox 309 2175 557 2235; x_wconf 90' lang='eng'>dacher</span>
+      <span class='ocrx_word' id='word_1_115' title='bbox 309 2175 557 2235; x_wconf 90' lang='eng'>dächer</span>
       <span class='ocrx_word' id='word_1_116' title='bbox 582 2176 812 2235; x_wconf 91' lang='eng'>nachts</span>
       <span class='ocrx_word' id='word_1_117' title='bbox 839 2176 960 2235; x_wconf 92' lang='eng'>mit</span>
       <span class='ocrx_word' id='word_1_118' title='bbox 983 2176 1240 2235; x_wconf 91' lang='eng'>Wasser</span>
@@ -201,7 +201,7 @@
      <span class='ocr_line' id='line_1_19' title="bbox 308 2545 1724 2626; baseline 0 -20; x_size 81; x_descenders 20; x_ascenders 23">
       <span class='ocrx_word' id='word_1_146' title='bbox 308 2559 440 2621; x_wconf 93' lang='eng'>ten,</span>
       <span class='ocrx_word' id='word_1_147' title='bbox 468 2546 694 2606; x_wconf 92'>würde</span>
-      <span class='ocrx_word' id='word_1_148' title='bbox 721 2545 1115 2626; x_wconf 92' lang='eng'>vollstandig</span>
+      <span class='ocrx_word' id='word_1_148' title='bbox 721 2545 1115 2626; x_wconf 92' lang='eng'>vollständig</span>
       <span class='ocrx_word' id='word_1_149' title='bbox 1140 2550 1413 2606; x_wconf 91' lang='eng'>zerstört</span>
       <span class='ocrx_word' id='word_1_150' title='bbox 1437 2546 1724 2606; x_wconf 91' lang='eng'>werden.</span>
      </span>
@@ -276,7 +276,7 @@
       <span class='ocrx_word' id='word_1_206' title='bbox 2319 3280 2527 3359; x_wconf 27'>Kapi-</span>
      </span>
      <span class='ocr_line' id='line_1_26' title="bbox 309 3402 2530 3483; baseline -0.001 -19; x_size 80; x_descenders 20; x_ascenders 23">
-      <span class='ocrx_word' id='word_1_207' title='bbox 309 3409 424 3464; x_wconf 93'>tan</span>
+      <span class='ocrx_word' id='word_1_207' title='bbox 309 3409 424 3464; x_wconf 93'>tän</span>
       <span class='ocrx_word' id='word_1_208' title='bbox 450 3405 563 3465; x_wconf 90'>des</span>
       <span class='ocrx_word' id='word_1_209' title='bbox 591 3404 762 3464; x_wconf 92' lang='deu'>Case</span>
       <span class='ocrx_word' id='word_1_210' title='bbox 787 3405 1087 3464; x_wconf 91'>Western</span>

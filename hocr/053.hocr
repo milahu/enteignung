@@ -76,7 +76,7 @@
       <span class='ocrx_word' id='word_1_44' title='bbox 1173 1089 1278 1150; x_wconf 92' lang='eng'>die</span>
       <span class='ocrx_word' id='word_1_45' title='bbox 1307 1089 1562 1165; x_wconf 88' lang='eng'>Polizei,</span>
       <span class='ocrx_word' id='word_1_46' title='bbox 1593 1089 1697 1150; x_wconf 91' lang='eng'>die</span>
-      <span class='ocrx_word' id='word_1_47' title='bbox 1726 1089 1981 1170; x_wconf 91' lang='eng'>groBen</span>
+      <span class='ocrx_word' id='word_1_47' title='bbox 1726 1089 1981 1170; x_wconf 91' lang='eng'>großen</span>
       <span class='ocrx_word' id='word_1_48' title='bbox 2008 1089 2527 1150; x_wconf 91'>Unternehmen</span>
      </span>
      <span class='ocr_line' id='line_1_8' title="bbox 308 1213 1260 1274; baseline -0.001 0; x_size 80.679482; x_descenders 20.67948; x_ascenders 22">
@@ -117,7 +117,7 @@
       <span class='ocrx_word' id='word_1_74' title='bbox 1591 1606 1673 1643; x_wconf 91'>zu</span>
       <span class='ocrx_word' id='word_1_75' title='bbox 1711 1582 1838 1642; x_wconf 85' lang='deu'>mir</span>
       <span class='ocrx_word' id='word_1_76' title='bbox 1874 1596 2071 1663; x_wconf 91'>sagte:</span>
-      <span class='ocrx_word' id='word_1_77' title='bbox 2113 1582 2257 1656; x_wconf 84'>,,Sie</span>
+      <span class='ocrx_word' id='word_1_77' title='bbox 2113 1582 2257 1656; x_wconf 84'>„Sie</span>
       <span class='ocrx_word' id='word_1_78' title='bbox 2294 1582 2527 1643; x_wconf 91'>wissen</span>
      </span>
      <span class='ocr_line' id='line_1_12' title="bbox 308 1705 2526 1786; baseline 0 -20; x_size 81; x_descenders 20; x_ascenders 23">
@@ -273,7 +273,7 @@
       <span class='ocrx_word' id='word_1_198' title='bbox 307 3184 621 3264; x_wconf 55' lang='eng'>kundigte</span>
       <span class='ocrx_word' id='word_1_199' title='bbox 666 3184 807 3244; x_wconf 88' lang='eng'>und</span>
       <span class='ocrx_word' id='word_1_200' title='bbox 847 3184 1438 3264; x_wconf 91' lang='eng'>vorangetriebene</span>
-      <span class='ocrx_word' id='word_1_201' title='bbox 1483 3184 1751 3257; x_wconf 47' lang='eng'>,,GroBBe</span>
+      <span class='ocrx_word' id='word_1_201' title='bbox 1483 3184 1751 3257; x_wconf 47' lang='eng'>„Große</span>
       <span class='ocrx_word' id='word_1_202' title='bbox 1795 3184 2032 3244; x_wconf 51' lang='eng'>Reset*</span>
       <span class='ocrx_word' id='word_1_203' title='bbox 2076 3185 2247 3264; x_wconf 91' lang='eng'>birgt</span>
       <span class='ocrx_word' id='word_1_204' title='bbox 2276 3185 2528 3265; x_wconf 91' lang='eng'>jedoch</span>

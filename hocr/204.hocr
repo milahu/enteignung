@@ -161,7 +161,7 @@
       <span class='ocrx_word' id='word_1_49' title='bbox 592 1478 741 1534; x_wconf 89'>Vers</span>
       <span class='ocrx_word' id='word_1_50' title='bbox 773 1476 1034 1552; x_wconf 89'>(Romer</span>
       <span class='ocrx_word' id='word_1_51' title='bbox 1072 1477 1248 1552; x_wconf 86'>13:1):</span>
-      <span class='ocrx_word' id='word_1_52' title='bbox 1282 1477 1702 1552; x_wconf 33'>,,Jedermann</span>
+      <span class='ocrx_word' id='word_1_52' title='bbox 1282 1477 1702 1552; x_wconf 33'>„Jedermann</span>
       <span class='ocrx_word' id='word_1_53' title='bbox 1732 1478 1816 1534; x_wconf 91' lang='deu'>sei</span>
       <span class='ocrx_word' id='word_1_54' title='bbox 1845 1491 2142 1535; x_wconf 92'>untertan</span>
       <span class='ocrx_word' id='word_1_55' title='bbox 2171 1478 2284 1535; x_wconf 92'>der</span>
@@ -331,7 +331,7 @@
     <p class='ocr_par' id='par_1_22' lang='eng' title="bbox 471 3674 2506 3870">
      <span class='ocr_line' id='line_1_40' title="bbox 471 3674 2506 3756; baseline -0.001 -22; x_size 72; x_descenders 14; x_ascenders 22">
       <span class='ocrx_word' id='word_1_165' title='bbox 471 3677 652 3756; x_wconf 89'>Engl.</span>
-      <span class='ocrx_word' id='word_1_166' title='bbox 684 3676 900 3748; x_wconf 78'>,,build</span>
+      <span class='ocrx_word' id='word_1_166' title='bbox 684 3676 900 3748; x_wconf 78'>„build</span>
       <span class='ocrx_word' id='word_1_167' title='bbox 926 3675 1089 3734; x_wconf 91'>back</span>
       <span class='ocrx_word' id='word_1_168' title='bbox 1113 3676 1378 3747; x_wconf 79' lang='deu'>better‘“,</span>
       <span class='ocrx_word' id='word_1_169' title='bbox 1407 3676 1508 3734; x_wconf 92'>ein</span>

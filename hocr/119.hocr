@@ -137,7 +137,7 @@
      <span class='ocr_line' id='line_1_13' title="bbox 317 1828 2537 1902; baseline 0 -13; x_size 75; x_descenders 14; x_ascenders 23">
       <span class='ocrx_word' id='word_1_91' title='bbox 317 1829 627 1889; x_wconf 89'>Warum?</span>
       <span class='ocrx_word' id='word_1_92' title='bbox 653 1829 789 1889; x_wconf 90'>Aus</span>
-      <span class='ocrx_word' id='word_1_93' title='bbox 816 1829 1417 1902; x_wconf 0'>,,unerklarlichen*</span>
+      <span class='ocrx_word' id='word_1_93' title='bbox 816 1829 1417 1902; x_wconf 0'>„unerklarlichen*</span>
       <span class='ocrx_word' id='word_1_94' title='bbox 1447 1828 1778 1889; x_wconf 77'>Grunden</span>
       <span class='ocrx_word' id='word_1_95' title='bbox 1804 1829 1962 1889; x_wconf 91'>hielt</span>
       <span class='ocrx_word' id='word_1_96' title='bbox 1987 1829 2091 1889; x_wconf 91'>die</span>
@@ -303,7 +303,7 @@
       <span class='ocrx_word' id='word_1_212' title='bbox 827 3816 959 3854; x_wconf 91'>von</span>
       <span class='ocrx_word' id='word_1_213' title='bbox 999 3794 1335 3855; x_wconf 92'>Schulden</span>
       <span class='ocrx_word' id='word_1_214' title='bbox 1370 3817 1516 3855; x_wconf 87'>war.</span>
-      <span class='ocrx_word' id='word_1_215' title='bbox 1560 3795 1999 3855; x_wconf 88'>GroBmutter</span>
+      <span class='ocrx_word' id='word_1_215' title='bbox 1560 3795 1999 3855; x_wconf 88'>Großmutter</span>
       <span class='ocrx_word' id='word_1_216' title='bbox 2032 3796 2242 3856; x_wconf 91'>Webb</span>
       <span class='ocrx_word' id='word_1_217' title='bbox 2281 3796 2538 3856; x_wconf 91'>schrieb</span>
      </span>
@@ -329,7 +329,7 @@
       <span class='ocrx_word' id='word_1_230' title='bbox 1074 4039 1324 4099; x_wconf 88'>Armee</span>
       <span class='ocrx_word' id='word_1_231' title='bbox 1359 4039 1701 4114; x_wconf 88'>teilnahm,</span>
       <span class='ocrx_word' id='word_1_232' title='bbox 1738 4040 1885 4101; x_wconf 90'>dass</span>
-      <span class='ocrx_word' id='word_1_233' title='bbox 1921 4040 2296 4101; x_wconf 85'>GroBvater</span>
+      <span class='ocrx_word' id='word_1_233' title='bbox 1921 4040 2296 4101; x_wconf 85'>Großvater</span>
       <span class='ocrx_word' id='word_1_234' title='bbox 2326 4041 2537 4102; x_wconf 91'>Webb</span>
      </span>
     </p>

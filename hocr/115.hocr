@@ -161,7 +161,7 @@
      </span>
      <span class='ocr_line' id='line_1_16' title="bbox 277 2197 2495 2278; baseline 0.001 -21; x_size 81; x_descenders 21; x_ascenders 22">
       <span class='ocrx_word' id='word_1_107' title='bbox 277 2219 395 2257; x_wconf 92'>zur</span>
-      <span class='ocrx_word' id='word_1_108' title='bbox 427 2197 921 2277; x_wconf 17'>sechstgroBBten</span>
+      <span class='ocrx_word' id='word_1_108' title='bbox 427 2197 921 2277; x_wconf 17'>sechstgroßten</span>
       <span class='ocrx_word' id='word_1_109' title='bbox 953 2197 1142 2257; x_wconf 92'>Bank</span>
       <span class='ocrx_word' id='word_1_110' title='bbox 1171 2197 1240 2256; x_wconf 50'>in</span>
       <span class='ocrx_word' id='word_1_111' title='bbox 1273 2197 1404 2258; x_wconf 90'>den</span>
@@ -321,7 +321,7 @@
      <span class='ocr_line' id='line_1_31' title="bbox 274 3916 2493 3997; baseline 0.001 -22; x_size 73; x_descenders 13; x_ascenders 23">
       <span class='ocrx_word' id='word_1_225' title='bbox 274 3916 467 3976; x_wconf 74' lang='eng'>Trust</span>
       <span class='ocrx_word' id='word_1_226' title='bbox 502 3917 617 3976; x_wconf 91' lang='eng'>hat</span>
-      <span class='ocrx_word' id='word_1_227' title='bbox 653 3929 805 3996; x_wconf 86' lang='eng'>,,gut</span>
+      <span class='ocrx_word' id='word_1_227' title='bbox 653 3929 805 3996; x_wconf 86' lang='eng'>„gut</span>
       <span class='ocrx_word' id='word_1_228' title='bbox 841 3917 1405 3997; x_wconf 64' lang='eng'>abgeschnitten.</span>
       <span class='ocrx_word' id='word_1_229' title='bbox 1444 3918 1609 3977; x_wconf 91' lang='eng'>Und</span>
       <span class='ocrx_word' id='word_1_230' title='bbox 1643 3918 1872 3978; x_wconf 91' lang='eng'>woher</span>

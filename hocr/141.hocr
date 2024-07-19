@@ -15,7 +15,7 @@
      <span class='ocr_line' id='line_1_1' title="bbox 1664 217 2528 295; baseline -0.002 -15; x_size 78; x_descenders 16; x_ascenders 16">
       <span class='ocrx_word' id='word_1_1' title='bbox 1664 218 1725 280; x_wconf 92'>9.</span>
       <span class='ocrx_word' id='word_1_2' title='bbox 1760 217 1882 279; x_wconf 92'>Die</span>
-      <span class='ocrx_word' id='word_1_3' title='bbox 1913 217 2142 295; x_wconf 91'>groBe</span>
+      <span class='ocrx_word' id='word_1_3' title='bbox 1913 217 2142 295; x_wconf 91'>große</span>
       <span class='ocrx_word' id='word_1_4' title='bbox 2175 217 2528 280; x_wconf 90'>Deflation</span>
      </span>
     </p>
@@ -28,7 +28,7 @@
       <span class='ocrx_word' id='word_1_6' title='bbox 447 467 685 529; x_wconf 91'>Drittel</span>
       <span class='ocrx_word' id='word_1_7' title='bbox 713 467 966 544; x_wconf 87'>dessen,</span>
       <span class='ocrx_word' id='word_1_8' title='bbox 995 489 1127 528; x_wconf 91'>was</span>
-      <span class='ocrx_word' id='word_1_9' title='bbox 1158 466 1533 528; x_wconf 60'>GroBvater</span>
+      <span class='ocrx_word' id='word_1_9' title='bbox 1158 466 1533 528; x_wconf 60'>Großvater</span>
       <span class='ocrx_word' id='word_1_10' title='bbox 1560 466 1811 549; x_wconf 92'>Rogers</span>
       <span class='ocrx_word' id='word_1_11' title='bbox 1851 467 2015 530; x_wconf 93'>1923</span>
       <span class='ocrx_word' id='word_1_12' title='bbox 2047 466 2241 527; x_wconf 79'>dafur</span>
@@ -89,7 +89,7 @@
       <span class='ocrx_word' id='word_1_54' title='bbox 1186 1083 1305 1144; x_wconf 91'>der</span>
       <span class='ocrx_word' id='word_1_55' title='bbox 1334 1082 1736 1143; x_wconf 91'>Kohlenhof</span>
       <span class='ocrx_word' id='word_1_56' title='bbox 1767 1083 2018 1143; x_wconf 90'>meines</span>
-      <span class='ocrx_word' id='word_1_57' title='bbox 2049 1082 2531 1143; x_wconf 56'>Ur-Ur-GroB-</span>
+      <span class='ocrx_word' id='word_1_57' title='bbox 2049 1082 2531 1143; x_wconf 56'>Ur-Ur-Groß-</span>
      </span>
      <span class='ocr_line' id='line_1_8' title="bbox 311 1205 2527 1287; baseline -0 -20; x_size 81; x_descenders 21; x_ascenders 22">
       <span class='ocrx_word' id='word_1_58' title='bbox 311 1220 522 1267; x_wconf 92'>vaters</span>
@@ -206,7 +206,7 @@
       <span class='ocrx_word' id='word_1_146' title='bbox 950 2437 1070 2497; x_wconf 90'>mit</span>
       <span class='ocrx_word' id='word_1_147' title='bbox 1104 2437 1261 2498; x_wconf 90'>dem</span>
       <span class='ocrx_word' id='word_1_148' title='bbox 1295 2437 1468 2497; x_wconf 91'>Titel</span>
-      <span class='ocrx_word' id='word_1_149' title='bbox 1502 2437 2179 2518; x_wconf 46'>,,Immobilienpreise</span>
+      <span class='ocrx_word' id='word_1_149' title='bbox 1502 2437 2179 2518; x_wconf 46'>„Immobilienpreise</span>
       <span class='ocrx_word' id='word_1_150' title='bbox 2213 2437 2535 2497; x_wconf 91'>wahrend</span>
      </span>
     </p>

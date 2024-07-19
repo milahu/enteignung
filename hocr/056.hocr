@@ -117,7 +117,7 @@
       <span class='ocrx_word' id='word_1_69' title='bbox 314 1672 420 1732; x_wconf 92'>len</span>
       <span class='ocrx_word' id='word_1_70' title='bbox 455 1672 1004 1752; x_wconf 91'>Privatpersonen</span>
       <span class='ocrx_word' id='word_1_71' title='bbox 1037 1672 1178 1732; x_wconf 91'>und</span>
-      <span class='ocrx_word' id='word_1_72' title='bbox 1209 1672 1464 1752; x_wconf 71'>groBen</span>
+      <span class='ocrx_word' id='word_1_72' title='bbox 1209 1672 1464 1752; x_wconf 71'>großen</span>
       <span class='ocrx_word' id='word_1_73' title='bbox 1494 1672 1615 1732; x_wconf 92'>wie</span>
       <span class='ocrx_word' id='word_1_74' title='bbox 1648 1672 1909 1733; x_wconf 91'>kleinen</span>
       <span class='ocrx_word' id='word_1_75' title='bbox 1942 1673 2460 1733; x_wconf 91'>Unternehmen</span>
@@ -197,7 +197,7 @@
       <span class='ocrx_word' id='word_1_133' title='bbox 317 2657 881 2732; x_wconf 73'>Geheimdienste,</span>
       <span class='ocrx_word' id='word_1_134' title='bbox 921 2657 1340 2732; x_wconf 86'>Streitkrafte,</span>
       <span class='ocrx_word' id='word_1_135' title='bbox 1378 2657 1632 2732; x_wconf 65'>Polizei,</span>
-      <span class='ocrx_word' id='word_1_136' title='bbox 1671 2657 2360 2718; x_wconf 47'>GroBunternehmen</span>
+      <span class='ocrx_word' id='word_1_136' title='bbox 1671 2657 2360 2718; x_wconf 47'>Großunternehmen</span>
       <span class='ocrx_word' id='word_1_137' title='bbox 2394 2658 2535 2718; x_wconf 92'>und</span>
      </span>
      <span class='ocr_line' id='line_1_21' title="bbox 314 2781 614 2842; baseline 0.003 -1; x_size 81.610123; x_descenders 20.610119; x_ascenders 23">
@@ -249,7 +249,7 @@
       <span class='ocrx_word' id='word_1_170' title='bbox 315 3394 972 3453; x_wconf 87'>Zusammenbruchs</span>
       <span class='ocrx_word' id='word_1_171' title='bbox 1014 3394 1155 3452; x_wconf 87'>und</span>
       <span class='ocrx_word' id='word_1_172' title='bbox 1195 3394 1308 3452; x_wconf 90'>des</span>
-      <span class='ocrx_word' id='word_1_173' title='bbox 1350 3393 1597 3464; x_wconf 75'>,,Great</span>
+      <span class='ocrx_word' id='word_1_173' title='bbox 1350 3393 1597 3464; x_wconf 75'>„Great</span>
       <span class='ocrx_word' id='word_1_174' title='bbox 1636 3393 1873 3452; x_wconf 2'>Reset”</span>
       <span class='ocrx_word' id='word_1_175' title='bbox 1917 3393 2020 3452; x_wconf 89'>die</span>
       <span class='ocrx_word' id='word_1_176' title='bbox 2063 3393 2408 3452; x_wconf 92'>Kontrolle</span>

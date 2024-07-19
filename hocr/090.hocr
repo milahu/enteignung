@@ -105,7 +105,7 @@
       <span class='ocrx_word' id='word_1_64' title='bbox 1112 1423 1232 1483; x_wconf 91'>mit</span>
       <span class='ocrx_word' id='word_1_65' title='bbox 1271 1423 1428 1482; x_wconf 90'>dem</span>
       <span class='ocrx_word' id='word_1_66' title='bbox 1468 1423 1639 1483; x_wconf 91'>Titel</span>
-      <span class='ocrx_word' id='word_1_67' title='bbox 1679 1423 2073 1502; x_wconf 88'>,,Belastung</span>
+      <span class='ocrx_word' id='word_1_67' title='bbox 1679 1423 2073 1502; x_wconf 88'>„Belastung</span>
       <span class='ocrx_word' id='word_1_68' title='bbox 2108 1445 2240 1482; x_wconf 92'>von</span>
       <span class='ocrx_word' id='word_1_69' title='bbox 2279 1423 2555 1482; x_wconf 91'>Vermo-</span>
      </span>
@@ -233,7 +233,7 @@
      </span>
      <span class='ocr_line' id='line_1_22' title="bbox 340 3144 2560 3225; baseline -0.002 -19; x_size 80; x_descenders 21; x_ascenders 22">
       <span class='ocrx_word' id='word_1_154' title='bbox 340 3146 425 3206; x_wconf 92' lang='eng'>tel</span>
-      <span class='ocrx_word' id='word_1_155' title='bbox 464 3146 1047 3225; x_wconf 78' lang='eng'>,,Entwicklungen</span>
+      <span class='ocrx_word' id='word_1_155' title='bbox 464 3146 1047 3225; x_wconf 78' lang='eng'>„Entwicklungen</span>
       <span class='ocrx_word' id='word_1_156' title='bbox 1085 3145 1196 3224; x_wconf 92'>bei</span>
       <span class='ocrx_word' id='word_1_157' title='bbox 1232 3145 1837 3224; x_wconf 90' lang='eng'>Dienstleistungen</span>
       <span class='ocrx_word' id='word_1_158' title='bbox 1877 3166 2032 3204; x_wconf 90' lang='eng'>zum</span>
