@@ -159,7 +159,7 @@
       <span class='ocrx_word' id='word_1_110' title='bbox 2449 1788 2542 1847; x_wconf 85'>im</span>
      </span>
      <span class='ocr_line' id='line_1_14' title="bbox 326 1911 2541 1992; baseline 0 -21; x_size 82; x_descenders 21; x_ascenders 22">
-      <span class='ocrx_word' id='word_1_111' title='bbox 326 1911 850 1992; x_wconf 90'>Schuhgeschaft</span>
+      <span class='ocrx_word' id='word_1_111' title='bbox 326 1911 850 1992; x_wconf 90'>Schuhgeschäft</span>
       <span class='ocrx_word' id='word_1_112' title='bbox 889 1911 1096 1972; x_wconf 91'>seines</span>
       <span class='ocrx_word' id='word_1_113' title='bbox 1134 1912 1362 1972; x_wconf 91'>Vaters</span>
       <span class='ocrx_word' id='word_1_114' title='bbox 1403 1935 1484 1972; x_wconf 93'>zu</span>
@@ -200,7 +200,8 @@
      </span>
      <span class='ocr_line' id='line_1_18' title="bbox 325 2404 2542 2479; baseline 0 -16; x_size 75; x_descenders 15; x_ascenders 22">
       <span class='ocrx_word' id='word_1_143' title='bbox 325 2426 501 2464; x_wconf 89'>men.</span>
-      <span class='ocrx_word' id='word_1_144' title='bbox 543 2404 631 2463; x_wconf 93' lang='deu'>Er</span>
+      <!-- fixed typo: Er -> Es. "das" Operationsbesteck -->
+      <span class='ocrx_word' id='word_1_144' title='bbox 543 2404 631 2463; x_wconf 93' lang='deu'>Es</span>
       <span class='ocrx_word' id='word_1_145' title='bbox 665 2404 743 2464; x_wconf 91' lang='deu'>ist</span>
       <span class='ocrx_word' id='word_1_146' title='bbox 778 2404 1100 2465; x_wconf 80'>identisch</span>
       <span class='ocrx_word' id='word_1_147' title='bbox 1138 2404 1258 2464; x_wconf 90'>mit</span>
@@ -224,7 +225,7 @@
      <span class='ocr_line' id='line_1_20' title="bbox 324 2650 2545 2726; baseline -0 -14; x_size 77; x_descenders 16; x_ascenders 23">
       <span class='ocrx_word' id='word_1_162' title='bbox 324 2651 477 2726; x_wconf 92'>ben,</span>
       <span class='ocrx_word' id='word_1_163' title='bbox 506 2651 612 2712; x_wconf 83'>ein</span>
-      <span class='ocrx_word' id='word_1_164' title='bbox 638 2651 1273 2711; x_wconf 57'>Kavallerieofhzier.</span>
+      <span class='ocrx_word' id='word_1_164' title='bbox 638 2651 1273 2711; x_wconf 57'>Kavallerieoffizier.</span>
       <span class='ocrx_word' id='word_1_165' title='bbox 1303 2651 1390 2710; x_wconf 92' lang='deu'>Er</span>
       <span class='ocrx_word' id='word_1_166' title='bbox 1413 2651 1591 2711; x_wconf 92'>hatte</span>
       <span class='ocrx_word' id='word_1_167' title='bbox 1619 2652 1704 2711; x_wconf 93'>50</span>
@@ -246,7 +247,7 @@
       <span class='ocrx_word' id='word_1_179' title='bbox 326 2898 734 2976; x_wconf 90'>Kopfschuss</span>
       <span class='ocrx_word' id='word_1_180' title='bbox 757 2898 1165 2956; x_wconf 91'>bekommen</span>
       <span class='ocrx_word' id='word_1_181' title='bbox 1189 2898 1386 2955; x_wconf 90'>hatte.</span>
-      <span class='ocrx_word' id='word_1_182' title='bbox 1417 2897 1652 2976; x_wconf 91'>Spater</span>
+      <span class='ocrx_word' id='word_1_182' title='bbox 1417 2897 1652 2976; x_wconf 91'>Später</span>
       <span class='ocrx_word' id='word_1_183' title='bbox 1673 2897 1811 2955; x_wconf 91'>floh</span>
       <span class='ocrx_word' id='word_1_184' title='bbox 1836 2919 1906 2956; x_wconf 93'>er</span>
       <span class='ocrx_word' id='word_1_185' title='bbox 1926 2919 2058 2955; x_wconf 91'>von</span>
@@ -260,16 +261,16 @@
       <span class='ocrx_word' id='word_1_191' title='bbox 979 3018 1229 3098; x_wconf 75' lang='deu'>Sumpf</span>
       <span class='ocrx_word' id='word_1_192' title='bbox 1260 3040 1374 3077; x_wconf 86'>aus</span>
       <span class='ocrx_word' id='word_1_193' title='bbox 1406 3018 1625 3078; x_wconf 92'>einem</span>
-      <span class='ocrx_word' id='word_1_194' title='bbox 1657 3017 2022 3097; x_wconf 43'>Getfangnis</span>
+      <span class='ocrx_word' id='word_1_194' title='bbox 1657 3017 2022 3097; x_wconf 43'>Gefängnis</span>
       <span class='ocrx_word' id='word_1_195' title='bbox 2053 3018 2172 3077; x_wconf 91'>der</span>
-      <span class='ocrx_word' id='word_1_196' title='bbox 2200 3017 2543 3077; x_wconf 36'>Kontfode-</span>
+      <span class='ocrx_word' id='word_1_196' title='bbox 2200 3017 2543 3077; x_wconf 36'>Konföde-</span>
      </span>
      <span class='ocr_line' id='line_1_24' title="bbox 327 3140 2544 3220; baseline 0 -21; x_size 80; x_descenders 21; x_ascenders 22">
       <span class='ocrx_word' id='word_1_197' title='bbox 327 3141 588 3215; x_wconf 89'>rierten,</span>
       <span class='ocrx_word' id='word_1_198' title='bbox 614 3141 681 3199; x_wconf 91'>in</span>
       <span class='ocrx_word' id='word_1_199' title='bbox 706 3141 863 3200; x_wconf 92'>dem</span>
       <span class='ocrx_word' id='word_1_200' title='bbox 887 3141 992 3200; x_wconf 88'>die</span>
-      <span class='ocrx_word' id='word_1_201' title='bbox 1017 3141 1314 3200; x_wconf 90'>Manner</span>
+      <span class='ocrx_word' id='word_1_201' title='bbox 1017 3141 1314 3200; x_wconf 90'>Männer</span>
       <span class='ocrx_word' id='word_1_202' title='bbox 1337 3162 1423 3199; x_wconf 92'>an</span>
       <span class='ocrx_word' id='word_1_203' title='bbox 1448 3141 1731 3220; x_wconf 90'>Hunger</span>
       <span class='ocrx_word' id='word_1_204' title='bbox 1754 3140 1894 3200; x_wconf 90'>und</span>
@@ -322,10 +323,10 @@
       <span class='ocrx_word' id='word_1_238' title='bbox 875 3754 1070 3814; x_wconf 92'>hatte.</span>
       <span class='ocrx_word' id='word_1_239' title='bbox 1101 3753 1216 3814; x_wconf 91'>Ich</span>
       <span class='ocrx_word' id='word_1_240' title='bbox 1241 3753 1484 3813; x_wconf 91'>bekam</span>
-      <span class='ocrx_word' id='word_1_241' title='bbox 1511 3753 1765 3827; x_wconf 91'>erklart,</span>
+      <span class='ocrx_word' id='word_1_241' title='bbox 1511 3753 1765 3827; x_wconf 91'>erklärt,</span>
       <span class='ocrx_word' id='word_1_242' title='bbox 1795 3752 1940 3812; x_wconf 90'>dass</span>
       <span class='ocrx_word' id='word_1_243' title='bbox 1969 3752 2345 3812; x_wconf 91' lang='deu'>Großvater</span>
-      <span class='ocrx_word' id='word_1_244' title='bbox 2367 3752 2546 3811; x_wconf 92'>wah-</span>
+      <span class='ocrx_word' id='word_1_244' title='bbox 2367 3752 2546 3811; x_wconf 92'>wäh-</span>
      </span>
      <span class='ocr_line' id='line_1_30' title="bbox 329 3858 2550 3955; baseline -0.002 -18; x_size 80; x_descenders 20; x_ascenders 23">
       <span class='ocrx_word' id='word_1_245' title='bbox 329 3877 494 3937; x_wconf 91'>rend</span>
@@ -336,7 +337,7 @@
       <span class='ocrx_word' id='word_1_250' title='bbox 2163 3874 2550 3953; x_wconf 92'>Bezahlung</span>
      </span>
      <span class='ocr_line' id='line_1_31' title="bbox 329 3996 2551 4074; baseline -0.003 -13; x_size 75; x_descenders 15; x_ascenders 23">
-      <span class='ocrx_word' id='word_1_251' title='bbox 329 4000 778 4074; x_wconf 91'>durchfuhrte,</span>
+      <span class='ocrx_word' id='word_1_251' title='bbox 329 4000 778 4074; x_wconf 91'>durchführte,</span>
       <span class='ocrx_word' id='word_1_252' title='bbox 803 3999 947 4059; x_wconf 90'>weil</span>
       <span class='ocrx_word' id='word_1_253' title='bbox 972 3998 1293 4059; x_wconf 65'>niemand</span>
       <span class='ocrx_word' id='word_1_254' title='bbox 1317 3999 1509 4058; x_wconf 92'>mehr</span>
