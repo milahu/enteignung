@@ -59,7 +59,7 @@
       <span class='ocrx_word' id='word_1_31' title='bbox 1136 844 1300 905; x_wconf 92'>wird</span>
       <span class='ocrx_word' id='word_1_32' title='bbox 1339 844 1567 917; x_wconf 90'>„Reise</span>
       <span class='ocrx_word' id='word_1_33' title='bbox 1610 844 1784 905; x_wconf 91' lang='eng'>nach</span>
-      <span class='ocrx_word' id='word_1_34' title='bbox 1807 844 2219 924; x_wconf 27'>Jerusalem“‘‘</span>
+      <span class='ocrx_word' id='word_1_34' title='bbox 1807 844 2219 924; x_wconf 27'>Jerusalem“</span>
       <span class='ocrx_word' id='word_1_35' title='bbox 2262 844 2529 925; x_wconf 90' lang='eng'>spielen.</span>
      </span>
      <span class='ocr_line' id='line_1_6' title="bbox 311 954 2535 1048; baseline -0 -20; x_size 81; x_descenders 21; x_ascenders 22">
@@ -87,10 +87,10 @@
     <p class='ocr_par' id='par_1_3' lang='eng' title="bbox 314 1213 2534 1540">
      <span class='ocr_line' id='line_1_8' title="bbox 407 1213 2532 1294; baseline 0 -21; x_size 81; x_descenders 21; x_ascenders 23">
       <span class='ocrx_word' id='word_1_52' title='bbox 407 1214 545 1273; x_wconf 90'>Wir</span>
-      <span class='ocrx_word' id='word_1_53' title='bbox 574 1218 840 1274; x_wconf 88'>mussen</span>
+      <span class='ocrx_word' id='word_1_53' title='bbox 574 1218 840 1274; x_wconf 88'>müssen</span>
       <span class='ocrx_word' id='word_1_54' title='bbox 870 1235 992 1274; x_wconf 91'>uns</span>
       <span class='ocrx_word' id='word_1_55' title='bbox 1022 1214 1271 1294; x_wconf 92'>fragen:</span>
-      <span class='ocrx_word' id='word_1_56' title='bbox 1305 1213 1395 1273; x_wconf 43'>cuz</span>
+      <span class='ocrx_word' id='word_1_56' title='bbox 1305 1213 1395 1273; x_wconf 43'>cui</span>
       <span class='ocrx_word' id='word_1_57' title='bbox 1422 1213 1599 1273; x_wconf 87'>bono?</span>
       <span class='ocrx_word' id='word_1_58' title='bbox 1622 1214 1775 1274; x_wconf 88'>Wer</span>
       <span class='ocrx_word' id='word_1_59' title='bbox 1800 1213 2122 1294; x_wconf 92'>profitiert</span>
@@ -101,7 +101,7 @@
       <span class='ocrx_word' id='word_1_62' title='bbox 314 1336 600 1397; x_wconf 92'>cherlich</span>
       <span class='ocrx_word' id='word_1_63' title='bbox 626 1337 809 1398; x_wconf 92'>nicht</span>
       <span class='ocrx_word' id='word_1_64' title='bbox 834 1336 939 1397; x_wconf 91'>die</span>
-      <span class='ocrx_word' id='word_1_65' title='bbox 966 1336 1226 1417; x_wconf 89'>Burger,</span>
+      <span class='ocrx_word' id='word_1_65' title='bbox 966 1336 1226 1417; x_wconf 89'>Bürger,</span>
       <span class='ocrx_word' id='word_1_66' title='bbox 1256 1336 1360 1398; x_wconf 92'>die</span>
       <span class='ocrx_word' id='word_1_67' title='bbox 1386 1358 1519 1397; x_wconf 91'>von</span>
       <span class='ocrx_word' id='word_1_68' title='bbox 1545 1336 1734 1397; x_wconf 88'>ihren</span>
@@ -139,7 +139,7 @@
       <span class='ocrx_word' id='word_1_91' title='bbox 2323 1706 2534 1766; x_wconf 92'>durch</span>
      </span>
      <span class='ocr_line' id='line_1_13' title="bbox 314 1828 2535 1904; baseline 0.001 -16; x_size 73; x_descenders 13; x_ascenders 22">
-      <span class='ocrx_word' id='word_1_92' title='bbox 314 1828 1033 1901; x_wconf 74' lang='deu'>„Marktteilnehmer‘‘.</span>
+      <span class='ocrx_word' id='word_1_92' title='bbox 314 1828 1033 1901; x_wconf 74' lang='deu'>„Marktteilnehmer“.</span>
       <span class='ocrx_word' id='word_1_93' title='bbox 1078 1828 1311 1889; x_wconf 90'>Damit</span>
       <span class='ocrx_word' id='word_1_94' title='bbox 1351 1829 1497 1889; x_wconf 93'>sind</span>
       <span class='ocrx_word' id='word_1_95' title='bbox 1537 1829 1699 1889; x_wconf 93'>aber</span>
@@ -152,22 +152,21 @@
      <span class='ocr_line' id='line_1_14' title="bbox 314 1941 2532 2032; baseline 0.001 -21; x_size 73; x_descenders 13; x_ascenders 22">
       <span class='ocrx_word' id='word_1_101' title='bbox 314 1951 495 2012; x_wconf 90'>nicht</span>
       <span class='ocrx_word' id='word_1_102' title='bbox 537 1952 642 2012; x_wconf 90'>die</span>
-      <span class='ocrx_word' id='word_1_103' title='bbox 689 1941 1189 2012; x_wconf 91'>Offentlichkeit</span>
+      <span class='ocrx_word' id='word_1_103' title='bbox 689 1941 1189 2012; x_wconf 91'>Öffentlichkeit</span>
       <span class='ocrx_word' id='word_1_104' title='bbox 1230 1952 1540 2032; x_wconf 91'>gemeint.</span>
       <span class='ocrx_word' id='word_1_105' title='bbox 1587 1952 1725 2012; x_wconf 90'>Das</span>
       <span class='ocrx_word' id='word_1_106' title='bbox 1767 1952 1952 2012; x_wconf 86'>Wort</span>
-      <span class='ocrx_word' id='word_1_107' title='bbox 1993 2003 2006 2025; x_wconf 81'>,</span>
-      <span class='ocrx_word' id='word_1_108' title='bbox 2014 1952 2532 2025; x_wconf 81'>Marktteilneh-</span>
+      <span class='ocrx_word' id='word_1_108' title='bbox 2014 1952 2532 2025; x_wconf 81'>„Marktteilneh-</span>
      </span>
      <span class='ocr_line' id='line_1_15' title="bbox 314 2074 2533 2156; baseline 0.001 -22; x_size 81; x_descenders 20; x_ascenders 23">
       <span class='ocrx_word' id='word_1_109' title='bbox 314 2075 496 2135; x_wconf 70' lang='deu'>mer“</span>
       <span class='ocrx_word' id='word_1_110' title='bbox 525 2074 603 2135; x_wconf 77'>ist</span>
       <span class='ocrx_word' id='word_1_111' title='bbox 630 2074 737 2135; x_wconf 90'>ein</span>
       <span class='ocrx_word' id='word_1_112' title='bbox 765 2075 1279 2155; x_wconf 91'>Euphemismus</span>
-      <span class='ocrx_word' id='word_1_113' title='bbox 1306 2074 1410 2135; x_wconf 88'>fur</span>
+      <span class='ocrx_word' id='word_1_113' title='bbox 1306 2074 1410 2135; x_wconf 88'>für</span>
       <span class='ocrx_word' id='word_1_114' title='bbox 1436 2074 1541 2135; x_wconf 91'>die</span>
-      <span class='ocrx_word' id='word_1_115' title='bbox 1570 2075 1951 2155; x_wconf 91'>machtigen</span>
-      <span class='ocrx_word' id='word_1_116' title='bbox 1981 2074 2355 2156; x_wconf 90'>Glaubiger,</span>
+      <span class='ocrx_word' id='word_1_115' title='bbox 1570 2075 1951 2155; x_wconf 91'>mächtigen</span>
+      <span class='ocrx_word' id='word_1_116' title='bbox 1981 2074 2355 2156; x_wconf 90'>Gläubiger,</span>
       <span class='ocrx_word' id='word_1_117' title='bbox 2384 2075 2533 2136; x_wconf 91'>wel-</span>
      </span>
      <span class='ocr_line' id='line_1_16' title="bbox 314 2197 2536 2280; baseline 0 -22; x_size 82; x_descenders 21; x_ascenders 23">
