@@ -101,7 +101,7 @@
       <span class='ocrx_word' id='word_1_65' title='bbox 330 1323 408 1371; x_wconf 92'>te.</span>
       <span class='ocrx_word' id='word_1_66' title='bbox 437 1300 627 1371; x_wconf 92'>Über</span>
       <span class='ocrx_word' id='word_1_67' title='bbox 650 1310 806 1371; x_wconf 92'>dem</span>
-      <span class='ocrx_word' id='word_1_68' title='bbox 831 1310 1247 1391; x_wconf 92' lang='eng'>Biirgersteig</span>
+      <span class='ocrx_word' id='word_1_68' title='bbox 831 1310 1247 1391; x_wconf 92' lang='eng'>Bürgersteig</span>
       <span class='ocrx_word' id='word_1_69' title='bbox 1270 1310 1394 1371; x_wconf 92' lang='eng'>auf</span>
       <span class='ocrx_word' id='word_1_70' title='bbox 1419 1311 1537 1371; x_wconf 90' lang='eng'>der</span>
       <span class='ocrx_word' id='word_1_71' title='bbox 1563 1310 2061 1372; x_wconf 92'>Straßenebene</span>
@@ -278,7 +278,7 @@
      </span>
      <span class='ocr_line' id='line_1_27' title="bbox 331 3504 2180 3603; baseline -0.001 -20; x_size 85; x_descenders 21; x_ascenders 26">
       <span class='ocrx_word' id='word_1_196' title='bbox 331 3546 449 3584; x_wconf 91'>zur</span>
-      <span class='ocrx_word' id='word_1_197' title='bbox 473 3524 858 3603; x_wconf 86'>Verfiigung</span>
+      <span class='ocrx_word' id='word_1_197' title='bbox 473 3524 858 3603; x_wconf 86'>Verfügung</span>
       <span class='ocrx_word' id='word_1_198' title='bbox 882 3524 989 3583; x_wconf 81'>Nr.</span>
       <span class='ocrx_word' id='word_1_199' title='bbox 1024 3525 1197 3586; x_wconf 93'>6102</span>
       <span class='ocrx_word' id='word_1_200' title='bbox 1226 3545 1358 3583; x_wconf 92'>von</span>
@@ -292,7 +292,7 @@
      <span class='ocr_line' id='line_1_28' title="bbox 418 3766 2550 3847; baseline -0.002 -18; x_size 79; x_descenders 19; x_ascenders 23">
       <span class='ocrx_word' id='word_1_203' title='bbox 418 3769 527 3829; x_wconf 91'>Als</span>
       <span class='ocrx_word' id='word_1_204' title='bbox 557 3769 759 3829; x_wconf 87'>Grund</span>
-      <span class='ocrx_word' id='word_1_205' title='bbox 757 3769 870 3847; x_wconf 85'>fiir</span>
+      <span class='ocrx_word' id='word_1_205' title='bbox 757 3769 870 3847; x_wconf 85'>für</span>
       <span class='ocrx_word' id='word_1_206' title='bbox 892 3769 978 3828; x_wconf 90'>die</span>
       <span class='ocrx_word' id='word_1_207' title='bbox 995 3768 1343 3847; x_wconf 89'>Anordnung</span>
       <span class='ocrx_word' id='word_1_208' title='bbox 1367 3768 1552 3827; x_wconf 86'>wurde</span>
@@ -309,7 +309,7 @@
       <span class='ocrx_word' id='word_1_217' title='bbox 799 3892 1158 3969; x_wconf 10'>„Hortung“</span>
       <span class='ocrx_word' id='word_1_218' title='bbox 1175 3913 1277 3949; x_wconf 66'>von</span>
       <span class='ocrx_word' id='word_1_219' title='bbox 1308 3890 1459 3949; x_wconf 92'>Gold</span>
-      <span class='ocrx_word' id='word_1_220' title='bbox 1470 3890 1689 3969; x_wconf 81'>gefiihrt</span>
+      <span class='ocrx_word' id='word_1_220' title='bbox 1470 3890 1689 3969; x_wconf 81'>geführt</span>
       <span class='ocrx_word' id='word_1_221' title='bbox 1710 3890 1909 3948; x_wconf 88' lang='deu'>hätten.</span>
      </span>
     </p>

@@ -100,7 +100,7 @@
       <span class='ocrx_word' id='word_1_52' title='bbox 416 1594 517 1654; x_wconf 91'>Da</span>
       <span class='ocrx_word' id='word_1_53' title='bbox 554 1594 641 1654; x_wconf 88' lang='eng'>die</span>
       <span class='ocrx_word' id='word_1_54' title='bbox 677 1593 973 1663; x_wconf 48' lang='eng'>Szenarien</span>
-      <span class='ocrx_word' id='word_1_55' title='bbox 988 1593 1101 1673; x_wconf 84' lang='eng'>fiir</span>
+      <span class='ocrx_word' id='word_1_55' title='bbox 988 1593 1101 1673; x_wconf 84' lang='eng'>für</span>
       <span class='ocrx_word' id='word_1_56' title='bbox 1113 1593 1245 1673; x_wconf 91' lang='eng'>jede</span>
       <span class='ocrx_word' id='word_1_57' title='bbox 1286 1593 1446 1653; x_wconf 90' lang='eng'>CCP</span>
       <span class='ocrx_word' id='word_1_58' title='bbox 1473 1593 1762 1673; x_wconf 90' lang='eng'>spezifisch</span>
@@ -136,12 +136,12 @@
       <span class='ocrx_word' id='word_1_82' title='bbox 1305 1964 1528 2023; x_wconf 91' lang='eng'>wurden</span>
       <span class='ocrx_word' id='word_1_83' title='bbox 1569 1963 1740 2023; x_wconf 92' lang='eng'>daher</span>
       <span class='ocrx_word' id='word_1_84' title='bbox 1776 1963 1926 2023; x_wconf 91' lang='eng'>nicht</span>
-      <span class='ocrx_word' id='word_1_85' title='bbox 1965 1963 2387 2043; x_wconf 83' lang='eng'>beriicksichtigt.</span>
+      <span class='ocrx_word' id='word_1_85' title='bbox 1965 1963 2387 2043; x_wconf 83' lang='eng'>berücksichtigt.</span>
       <span class='ocrx_word' id='word_1_86' title='bbox 2433 1964 2548 2023; x_wconf 71' lang='eng'>Die</span>
      </span>
      <span class='ocr_line' id='line_1_13' title="bbox 413 2086 2545 2166; baseline 0 -20; x_size 80; x_descenders 20; x_ascenders 22">
       <span class='ocrx_word' id='word_1_87' title='bbox 413 2086 662 2166; x_wconf 90' lang='eng'>Analyse</span>
-      <span class='ocrx_word' id='word_1_88' title='bbox 690 2086 1108 2165; x_wconf 91' lang='eng'>beriicksichtige</span>
+      <span class='ocrx_word' id='word_1_88' title='bbox 690 2086 1108 2165; x_wconf 91' lang='eng'>berücksichtige</span>
       <span class='ocrx_word' id='word_1_89' title='bbox 1134 2086 1313 2146; x_wconf 89' lang='eng'>weder</span>
       <span class='ocrx_word' id='word_1_90' title='bbox 1336 2086 1422 2146; x_wconf 92' lang='eng'>die</span>
       <span class='ocrx_word' id='word_1_91' title='bbox 1448 2086 1734 2165; x_wconf 91' lang='eng'>zugrunde</span>
@@ -215,7 +215,7 @@
      </span>
      <span class='ocr_line' id='line_1_20' title="bbox 423 2949 2545 3029; baseline 0 -19; x_size 80; x_descenders 19; x_ascenders 23">
       <span class='ocrx_word' id='word_1_147' title='bbox 423 2959 554 3029; x_wconf 93' lang='eng'>tung</span>
-      <span class='ocrx_word' id='word_1_148' title='bbox 554 2949 767 3028; x_wconf 84' lang='eng'>fiihren</span>
+      <span class='ocrx_word' id='word_1_148' title='bbox 554 2949 767 3028; x_wconf 84' lang='eng'>führen</span>
       <span class='ocrx_word' id='word_1_149' title='bbox 793 2949 1081 3023; x_wconf 90' lang='eng'>konnnten,</span>
       <span class='ocrx_word' id='word_1_150' title='bbox 1117 2949 1520 3029; x_wconf 90'>einschließlich</span>
       <span class='ocrx_word' id='word_1_151' title='bbox 1537 2950 1843 3029; x_wconf 87' lang='eng'>potenziell</span>

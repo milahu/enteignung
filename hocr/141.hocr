@@ -114,7 +114,7 @@
       <span class='ocrx_word' id='word_1_75' title='bbox 2375 1329 2532 1390; x_wconf 90'>dem</span>
      </span>
      <span class='ocr_line' id='line_1_10' title="bbox 315 1452 2533 1533; baseline -0 -19; x_size 81; x_descenders 20; x_ascenders 22">
-      <span class='ocrx_word' id='word_1_76' title='bbox 315 1453 746 1514; x_wconf 86'>Grundstiick</span>
+      <span class='ocrx_word' id='word_1_76' title='bbox 315 1453 746 1514; x_wconf 86'>Grundstück</span>
       <span class='ocrx_word' id='word_1_77' title='bbox 791 1453 898 1514; x_wconf 91'>ein</span>
       <span class='ocrx_word' id='word_1_78' title='bbox 943 1453 1302 1514; x_wconf 90'>modernes</span>
       <span class='ocrx_word' id='word_1_79' title='bbox 1348 1452 1984 1533; x_wconf 90'>Industriegebaude</span>
@@ -152,7 +152,7 @@
       <span class='ocrx_word' id='word_1_105' title='bbox 1383 1823 1541 1882; x_wconf 93'>1981</span>
       <span class='ocrx_word' id='word_1_106' title='bbox 1589 1822 1815 1882; x_wconf 91'>wurde</span>
       <span class='ocrx_word' id='word_1_107' title='bbox 1856 1822 2063 1882; x_wconf 89'>dieses</span>
-      <span class='ocrx_word' id='word_1_108' title='bbox 2104 1822 2536 1882; x_wconf 45'>Grundstiick</span>
+      <span class='ocrx_word' id='word_1_108' title='bbox 2104 1822 2536 1882; x_wconf 45'>Grundstück</span>
      </span>
      <span class='ocr_line' id='line_1_14' title="bbox 314 1944 2532 2025; baseline -0.001 -19; x_size 80; x_descenders 20; x_ascenders 22">
       <span class='ocrx_word' id='word_1_109' title='bbox 314 1945 608 2006; x_wconf 91'>mitsamt</span>
@@ -247,7 +247,7 @@
      </span>
      <span class='ocr_line' id='line_1_22' title="bbox 408 3053 2534 3131; baseline 0 -19; x_size 69; x_descenders 9; x_ascenders 23">
       <span class='ocrx_word' id='word_1_173' title='bbox 408 3053 776 3121; x_wconf 49'>Preisindizes</span>
-      <span class='ocrx_word' id='word_1_174' title='bbox 784 3053 897 3131; x_wconf 89'>fiir</span>
+      <span class='ocrx_word' id='word_1_174' title='bbox 784 3053 897 3131; x_wconf 89'>für</span>
       <span class='ocrx_word' id='word_1_175' title='bbox 920 3053 1276 3112; x_wconf 90'>Manhattan</span>
       <span class='ocrx_word' id='word_1_176' title='bbox 1309 3075 1411 3112; x_wconf 92'>von</span>
       <span class='ocrx_word' id='word_1_177' title='bbox 1449 3054 1626 3113; x_wconf 93'>1920</span>
@@ -347,7 +347,7 @@
     <p class='ocr_par' id='par_1_7' lang='eng' title="bbox 410 4030 1261 4110">
      <span class='ocr_line' id='line_1_30' title="bbox 410 4030 1261 4110; baseline 0.001 -21; x_size 80; x_descenders 20; x_ascenders 22">
       <span class='ocrx_word' id='word_1_253' title='bbox 410 4030 549 4090; x_wconf 75'>thres</span>
-      <span class='ocrx_word' id='word_1_254' title='bbox 576 4030 1017 4110; x_wconf 91'>urspriinglichen</span>
+      <span class='ocrx_word' id='word_1_254' title='bbox 576 4030 1017 4110; x_wconf 91'>ursprünglichen</span>
       <span class='ocrx_word' id='word_1_255' title='bbox 1055 4031 1261 4090; x_wconf 84'>Wertes.</span>
      </span>
     </p>

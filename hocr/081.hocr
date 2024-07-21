@@ -203,7 +203,7 @@
       <span class='ocrx_word' id='word_1_141' title='bbox 759 2596 892 2634; x_wconf 91'>von</span>
       <span class='ocrx_word' id='word_1_142' title='bbox 934 2574 1341 2635; x_wconf 88'>Geschaften</span>
       <span class='ocrx_word' id='word_1_143' title='bbox 1382 2574 1524 2635; x_wconf 92'>und</span>
-      <span class='ocrx_word' id='word_1_144' title='bbox 1564 2574 1743 2635; x_wconf 67'>fiihrt</span>
+      <span class='ocrx_word' id='word_1_144' title='bbox 1564 2574 1743 2635; x_wconf 67'>führt</span>
       <span class='ocrx_word' id='word_1_145' title='bbox 1783 2575 1891 2635; x_wconf 92'>ein</span>
       <span class='ocrx_word' id='word_1_146' title='bbox 1930 2575 2347 2636; x_wconf 90'>Verzeichnis</span>
       <span class='ocrx_word' id='word_1_147' title='bbox 2390 2575 2509 2636; x_wconf 93'>der</span>
@@ -262,7 +262,7 @@
       <span class='ocrx_word' id='word_1_184' title='bbox 950 3432 1066 3493; x_wconf 91'>eine</span>
       <span class='ocrx_word' id='word_1_185' title='bbox 1093 3433 1334 3501; x_wconf 92' lang='eng'>zentrale</span>
       <span class='ocrx_word' id='word_1_186' title='bbox 1359 3433 1524 3493; x_wconf 92' lang='eng'>Rolle</span>
-      <span class='ocrx_word' id='word_1_187' title='bbox 1530 3432 1643 3511; x_wconf 86' lang='eng'>fiir</span>
+      <span class='ocrx_word' id='word_1_187' title='bbox 1530 3432 1643 3511; x_wconf 86' lang='eng'>für</span>
       <span class='ocrx_word' id='word_1_188' title='bbox 1668 3433 1756 3493; x_wconf 92' lang='eng'>die</span>
       <span class='ocrx_word' id='word_1_189' title='bbox 1780 3433 2182 3513; x_wconf 88' lang='eng'>Bestrebungen</span>
       <span class='ocrx_word' id='word_1_190' title='bbox 2212 3456 2320 3502; x_wconf 90' lang='eng'>zur</span>
@@ -273,7 +273,7 @@
       <span class='ocrx_word' id='word_1_193' title='bbox 795 3555 890 3615; x_wconf 89' lang='eng'>der</span>
       <span class='ocrx_word' id='word_1_194' title='bbox 934 3554 1377 3615; x_wconf 88' lang='eng'>nachborslichen</span>
       <span class='ocrx_word' id='word_1_195' title='bbox 1439 3555 1814 3635; x_wconf 88' lang='eng'>Verarbeitung</span>
-      <span class='ocrx_word' id='word_1_196' title='bbox 1850 3556 2511 3635; x_wconf 72' lang='eng'>grenziiberschreitender</span>
+      <span class='ocrx_word' id='word_1_196' title='bbox 1850 3556 2511 3635; x_wconf 72' lang='eng'>grenzüberschreitender</span>
      </span>
      <span class='ocr_line' id='line_1_27' title="bbox 386 3675 2505 3758; baseline 0.001 -21; x_size 80; x_descenders 20; x_ascenders 22">
       <span class='ocrx_word' id='word_1_197' title='bbox 386 3675 815 3737; x_wconf 44' lang='eng'>Transaktionen</span>
@@ -292,11 +292,11 @@
     <p class='ocr_par' id='par_1_6' lang='eng' title="bbox 375 3799 2504 3982">
      <span class='ocr_line' id='line_1_28' title="bbox 375 3799 2504 3880; baseline 0.001 -21; x_size 80; x_descenders 20; x_ascenders 22">
       <span class='ocrx_word' id='word_1_206' title='bbox 375 3799 766 3879; x_wconf 89'>Bedingungen</span>
-      <span class='ocrx_word' id='word_1_207' title='bbox 774 3799 888 3878; x_wconf 83'>fiir</span>
+      <span class='ocrx_word' id='word_1_207' title='bbox 774 3799 888 3878; x_wconf 83'>für</span>
       <span class='ocrx_word' id='word_1_208' title='bbox 913 3800 999 3860; x_wconf 92'>die</span>
-      <span class='ocrx_word' id='word_1_209' title='bbox 1022 3800 1464 3880; x_wconf 89'>Durchfiihrung</span>
+      <span class='ocrx_word' id='word_1_209' title='bbox 1022 3800 1464 3880; x_wconf 89'>Durchführung</span>
       <span class='ocrx_word' id='word_1_210' title='bbox 1490 3822 1593 3860; x_wconf 91'>von</span>
-      <span class='ocrx_word' id='word_1_211' title='bbox 1614 3801 2301 3880; x_wconf 59'>grenziiberschreitendem</span>
+      <span class='ocrx_word' id='word_1_211' title='bbox 1614 3801 2301 3880; x_wconf 59'>grenzüberschreitendem</span>
       <span class='ocrx_word' id='word_1_212' title='bbox 2329 3802 2504 3862; x_wconf 91'>Han-</span>
      </span>
      <span class='ocr_line' id='line_1_29' title="bbox 377 3921 1131 3982; baseline 0.001 -1; x_size 80.06926; x_descenders 20.069263; x_ascenders 22">

@@ -169,7 +169,7 @@
       <span class='ocrx_word' id='word_1_101' title='bbox 1043 2378 1219 2439; x_wconf 90'>diese</span>
       <span class='ocrx_word' id='word_1_102' title='bbox 1256 2378 1869 2459; x_wconf 90'>Vermogenswerte</span>
       <span class='ocrx_word' id='word_1_103' title='bbox 1909 2379 2081 2439; x_wconf 91'>auch</span>
-      <span class='ocrx_word' id='word_1_104' title='bbox 2119 2379 2515 2459; x_wconf 84'>grenziiber-</span>
+      <span class='ocrx_word' id='word_1_104' title='bbox 2119 2379 2515 2459; x_wconf 84'>grenzüber-</span>
      </span>
      <span class='ocr_line' id='line_1_16' title="bbox 297 2501 2135 2562; baseline -0.001 0; x_size 81.338638; x_descenders 20.33864; x_ascenders 23">
       <span class='ocrx_word' id='word_1_105' title='bbox 297 2501 670 2562; x_wconf 92'>schreitend</span>
@@ -302,10 +302,10 @@
     <p class='ocr_par' id='par_1_10' lang='eng' title="bbox 294 3972 2515 4053">
      <span class='ocr_line' id='line_1_28' title="bbox 294 3972 2515 4053; baseline 0.001 -21; x_size 80; x_descenders 19; x_ascenders 23">
       <span class='ocrx_word' id='word_1_200' title='bbox 294 3972 446 4032; x_wconf 0'>ten“</span>
-      <span class='ocrx_word' id='word_1_201' title='bbox 494 3972 887 4050; x_wconf 60'>eingefiihrt,</span>
+      <span class='ocrx_word' id='word_1_201' title='bbox 494 3972 887 4050; x_wconf 60'>eingeführt,</span>
       <span class='ocrx_word' id='word_1_202' title='bbox 936 3972 1040 4033; x_wconf 88'>die</span>
       <span class='ocrx_word' id='word_1_203' title='bbox 1089 3972 1221 4033; x_wconf 90'>den</span>
-      <span class='ocrx_word' id='word_1_204' title='bbox 1267 3973 2105 4050; x_wconf 86'>grenziiberschreitenden</span>
+      <span class='ocrx_word' id='word_1_204' title='bbox 1267 3973 2105 4050; x_wconf 86'>grenzüberschreitenden</span>
       <span class='ocrx_word' id='word_1_205' title='bbox 2151 3974 2515 4053; x_wconf 89'>Transport</span>
      </span>
     </p>

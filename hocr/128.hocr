@@ -145,7 +145,7 @@
      <span class='ocr_line' id='line_1_13' title="bbox 400 1781 2549 1862; baseline -0 -19; x_size 80; x_descenders 19; x_ascenders 24">
       <span class='ocrx_word' id='word_1_99' title='bbox 400 1782 580 1862; x_wconf 41' lang='deu'>ßigen</span>
       <span class='ocrx_word' id='word_1_100' title='bbox 602 1782 836 1842; x_wconf 42'>Rusiken</span>
-      <span class='ocrx_word' id='word_1_101' title='bbox 860 1782 1136 1862; x_wconf 90'>schiitzen,</span>
+      <span class='ocrx_word' id='word_1_101' title='bbox 860 1782 1136 1862; x_wconf 90'>schützen,</span>
       <span class='ocrx_word' id='word_1_102' title='bbox 1168 1782 1256 1842; x_wconf 92'>die</span>
       <span class='ocrx_word' id='word_1_103' title='bbox 1279 1805 1381 1842; x_wconf 92'>von</span>
       <span class='ocrx_word' id='word_1_104' title='bbox 1406 1782 1552 1843; x_wconf 71'>einer</span>
@@ -174,7 +174,7 @@
       <span class='ocrx_word' id='word_1_118' title='bbox 1022 2151 1158 2213; x_wconf 72'>23A</span>
       <span class='ocrx_word' id='word_1_119' title='bbox 1188 2162 1343 2211; x_wconf 92'>unter</span>
       <span class='ocrx_word' id='word_1_120' title='bbox 1364 2151 1615 2212; x_wconf 91'>anderem</span>
-      <span class='ocrx_word' id='word_1_121' title='bbox 1618 2151 1731 2230; x_wconf 80'>fiir</span>
+      <span class='ocrx_word' id='word_1_121' title='bbox 1618 2151 1731 2230; x_wconf 80'>für</span>
       <span class='ocrx_word' id='word_1_122' title='bbox 1752 2151 1838 2212; x_wconf 88'>die</span>
       <span class='ocrx_word' id='word_1_123' title='bbox 1858 2152 2417 2231; x_wconf 74'>Bank-Abteilungen</span>
       <span class='ocrx_word' id='word_1_124' title='bbox 2443 2174 2545 2212; x_wconf 93'>von</span>
@@ -273,7 +273,7 @@
       <span class='ocrx_word' id='word_1_189' title='bbox 1023 3379 1109 3439; x_wconf 90' lang='eng'>die</span>
       <span class='ocrx_word' id='word_1_190' title='bbox 1141 3374 1727 3438; x_wconf 0' lang='eng'>FDIC-versicherte”’</span>
       <span class='ocrx_word' id='word_1_191' title='bbox 1758 3378 2062 3457; x_wconf 72' lang='eng'>Abteilung</span>
-      <span class='ocrx_word' id='word_1_192' title='bbox 2071 3378 2184 3457; x_wconf 86' lang='eng'>fiir</span>
+      <span class='ocrx_word' id='word_1_192' title='bbox 2071 3378 2184 3457; x_wconf 86' lang='eng'>für</span>
       <span class='ocrx_word' id='word_1_193' title='bbox 2214 3378 2546 3437; x_wconf 76' lang='eng'>Privatkun-</span>
      </span>
      <span class='ocr_line' id='line_1_25' title="bbox 422 3499 2550 3581; baseline -0.001 -19; x_size 79; x_descenders 19; x_ascenders 22">
@@ -287,7 +287,7 @@
       <span class='ocrx_word' id='word_1_201' title='bbox 2463 3499 2550 3559; x_wconf 82' lang='eng'>die</span>
      </span>
      <span class='ocr_line' id='line_1_26' title="bbox 420 3622 2547 3704; baseline -0.001 -19; x_size 80; x_descenders 20; x_ascenders 23">
-      <span class='ocrx_word' id='word_1_202' title='bbox 420 3625 783 3704; x_wconf 86' lang='eng'>Enthiillung,</span>
+      <span class='ocrx_word' id='word_1_202' title='bbox 420 3625 783 3704; x_wconf 86' lang='eng'>Enthüllung,</span>
       <span class='ocrx_word' id='word_1_203' title='bbox 821 3625 953 3684; x_wconf 91' lang='eng'>dass</span>
       <span class='ocrx_word' id='word_1_204' title='bbox 982 3624 1068 3684; x_wconf 87' lang='eng'>die</span>
       <span class='ocrx_word' id='word_1_205' title='bbox 1093 3623 1631 3683; x_wconf 82' lang='eng'>FDIC-versicherte</span>

@@ -37,7 +37,7 @@
    <div class='ocr_carea' id='block_1_4' title="bbox 405 569 2367 650">
     <p class='ocr_par' id='par_1_3' lang='eng' title="bbox 405 569 2367 650">
      <span class='ocr_line' id='line_1_3' title="bbox 405 569 2367 650; baseline 0.001 -21; x_size 79; x_descenders 19; x_ascenders 23">
-      <span class='ocrx_word' id='word_1_12' title='bbox 405 569 779 648; x_wconf 48'>gebiihrenfrer</span>
+      <span class='ocrx_word' id='word_1_12' title='bbox 405 569 779 648; x_wconf 48'>gebührenfrer</span>
       <span class='ocrx_word' id='word_1_13' title='bbox 803 569 969 629; x_wconf 92' lang='deu'>durch</span>
       <span class='ocrx_word' id='word_1_14' title='bbox 996 569 1096 629; x_wconf 91' lang='deu'>den</span>
       <span class='ocrx_word' id='word_1_15' title='bbox 1124 570 1495 630; x_wconf 93' lang='deu'>verbundenen</span>
@@ -144,7 +144,7 @@
       <span class='ocrx_word' id='word_1_83' title='bbox 1299 1926 1542 2006; x_wconf 85' lang='eng'>moglich,</span>
       <span class='ocrx_word' id='word_1_84' title='bbox 1586 1926 1718 1984; x_wconf 92' lang='eng'>dass</span>
       <span class='ocrx_word' id='word_1_85' title='bbox 1751 1926 1837 1985; x_wconf 90' lang='eng'>die</span>
-      <span class='ocrx_word' id='word_1_86' title='bbox 1867 1926 2260 2006; x_wconf 89' lang='eng'>Bemiihungen</span>
+      <span class='ocrx_word' id='word_1_86' title='bbox 1867 1926 2260 2006; x_wconf 89' lang='eng'>Bemühungen</span>
       <span class='ocrx_word' id='word_1_87' title='bbox 2298 1949 2389 1985; x_wconf 89' lang='eng'>um</span>
       <span class='ocrx_word' id='word_1_88' title='bbox 2425 1926 2539 1985; x_wconf 77' lang='eng'>eine</span>
      </span>
@@ -165,17 +165,17 @@
       <span class='ocrx_word' id='word_1_100' title='bbox 1236 2171 1689 2251; x_wconf 90' lang='eng'>Verpflichtungen</span>
       <span class='ocrx_word' id='word_1_101' title='bbox 1723 2171 2055 2250; x_wconf 51' lang='eng'>vollstindig</span>
       <span class='ocrx_word' id='word_1_102' title='bbox 2083 2194 2158 2240; x_wconf 89' lang='eng'>zu</span>
-      <span class='ocrx_word' id='word_1_103' title='bbox 2192 2172 2428 2251; x_wconf 85' lang='eng'>erfiillen.</span>
+      <span class='ocrx_word' id='word_1_103' title='bbox 2192 2172 2428 2251; x_wconf 85' lang='eng'>erfüllen.</span>
       <span class='ocrx_word' id='word_1_104' title='bbox 2468 2172 2537 2231; x_wconf 96'>In</span>
      </span>
      <span class='ocr_line' id='line_1_15' title="bbox 415 2294 2540 2374; baseline 0 -20; x_size 80; x_descenders 20; x_ascenders 23">
       <span class='ocrx_word' id='word_1_105' title='bbox 415 2294 613 2354; x_wconf 87' lang='eng'>diesem</span>
       <span class='ocrx_word' id='word_1_106' title='bbox 636 2294 767 2354; x_wconf 80' lang='eng'>Fall</span>
-      <span class='ocrx_word' id='word_1_107' title='bbox 787 2303 1004 2354; x_wconf 92' lang='eng'>miissen</span>
+      <span class='ocrx_word' id='word_1_107' title='bbox 787 2303 1004 2354; x_wconf 92' lang='eng'>müssen</span>
       <span class='ocrx_word' id='word_1_108' title='bbox 1030 2294 1199 2374; x_wconf 47' lang='eng'>einige</span>
       <span class='ocrx_word' id='word_1_109' title='bbox 1217 2294 1737 2355; x_wconf 51' lang='eng'>Markiteilnehmer</span>
       <span class='ocrx_word' id='word_1_110' title='bbox 1757 2294 2207 2374; x_wconf 16' lang='eng'>moglicherweise</span>
-      <span class='ocrx_word' id='word_1_111' title='bbox 2230 2295 2540 2374; x_wconf 81' lang='eng'>verfiighare</span>
+      <span class='ocrx_word' id='word_1_111' title='bbox 2230 2295 2540 2374; x_wconf 81' lang='eng'>verfüghare</span>
      </span>
      <span class='ocr_line' id='line_1_16' title="bbox 426 2418 2537 2497; baseline 0 -20; x_size 79; x_descenders 19; x_ascenders 22">
       <span class='ocrx_word' id='word_1_112' title='bbox 426 2418 796 2497; x_wconf 0' lang='eng'>Wertpapere,</span>
@@ -212,9 +212,9 @@
      <span class='ocr_line' id='line_1_19' title="bbox 415 2787 2538 2868; baseline 0 -20; x_size 80; x_descenders 20; x_ascenders 23">
       <span class='ocrx_word' id='word_1_138' title='bbox 415 2789 867 2868; x_wconf 89' lang='eng'>verpflichtungen</span>
       <span class='ocrx_word' id='word_1_139' title='bbox 896 2811 970 2857; x_wconf 89' lang='eng'>zu</span>
-      <span class='ocrx_word' id='word_1_140' title='bbox 999 2788 1236 2868; x_wconf 81' lang='eng'>erfiillen.</span>
+      <span class='ocrx_word' id='word_1_140' title='bbox 999 2788 1236 2868; x_wconf 81' lang='eng'>erfüllen.</span>
       <span class='ocrx_word' id='word_1_141' title='bbox 1269 2789 1383 2848; x_wconf 91' lang='eng'>Die</span>
-      <span class='ocrx_word' id='word_1_142' title='bbox 1406 2788 1844 2868; x_wconf 86' lang='eng'>Durchfiihrung</span>
+      <span class='ocrx_word' id='word_1_142' title='bbox 1406 2788 1844 2868; x_wconf 86' lang='eng'>Durchführung</span>
       <span class='ocrx_word' id='word_1_143' title='bbox 1869 2811 1969 2848; x_wconf 90' lang='eng'>von</span>
       <span class='ocrx_word' id='word_1_144' title='bbox 2006 2787 2435 2848; x_wconf 56' lang='eng'>Transaktionen</span>
       <span class='ocrx_word' id='word_1_145' title='bbox 2462 2811 2538 2857; x_wconf 89' lang='eng'>zu</span>

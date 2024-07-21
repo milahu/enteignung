@@ -300,7 +300,7 @@
       <span class='ocrx_word' id='word_1_216' title='bbox 874 3551 992 3611; x_wconf 91' lang='eng'>dem</span>
       <span class='ocrx_word' id='word_1_217' title='bbox 1023 3551 1451 3631; x_wconf 89' lang='eng'>Bankensystem</span>
       <span class='ocrx_word' id='word_1_218' title='bbox 1482 3551 1795 3630; x_wconf 79' lang='eng'>Liquiditit</span>
-      <span class='ocrx_word' id='word_1_219' title='bbox 1823 3552 2180 3631; x_wconf 77' lang='eng'>zuzufiihren,</span>
+      <span class='ocrx_word' id='word_1_219' title='bbox 1823 3552 2180 3631; x_wconf 77' lang='eng'>zuzuführen,</span>
       <span class='ocrx_word' id='word_1_220' title='bbox 2222 3574 2313 3612; x_wconf 91' lang='eng'>um</span>
       <span class='ocrx_word' id='word_1_221' title='bbox 2347 3575 2402 3612; x_wconf 92' lang='eng'>es</span>
       <span class='ocrx_word' id='word_1_222' title='bbox 2432 3575 2527 3612; x_wconf 93' lang='eng'>vor</span>
@@ -342,7 +342,7 @@
       <span class='ocrx_word' id='word_1_249' title='bbox 1995 3920 2521 3988; x_wconf 90' lang='eng'>Bankzusammen-</span>
      </span>
      <span class='ocr_line' id='line_1_30' title="bbox 397 4040 2524 4122; baseline 0.001 -22; x_size 80; x_descenders 20; x_ascenders 22">
-      <span class='ocrx_word' id='word_1_250' title='bbox 397 4040 595 4101; x_wconf 92' lang='eng'>briiche</span>
+      <span class='ocrx_word' id='word_1_250' title='bbox 397 4040 595 4101; x_wconf 92' lang='eng'>brüche</span>
       <span class='ocrx_word' id='word_1_251' title='bbox 624 4063 699 4109; x_wconf 89' lang='eng'>zu</span>
       <span class='ocrx_word' id='word_1_252' title='bbox 728 4071 775 4073; x_wconf 93'>—</span>
       <span class='ocrx_word' id='word_1_253' title='bbox 807 4041 1181 4101; x_wconf 72' lang='eng'>insbesondere</span>

@@ -251,7 +251,7 @@
       <span class='ocrx_word' id='word_1_181' title='bbox 878 3071 1042 3131; x_wconf 90'>Frau</span>
       <span class='ocrx_word' id='word_1_182' title='bbox 1066 3070 1186 3130; x_wconf 91'>mit</span>
       <span class='ocrx_word' id='word_1_183' title='bbox 1207 3070 1421 3131; x_wconf 46'>threm</span>
-      <span class='ocrx_word' id='word_1_184' title='bbox 1443 3071 1761 3150; x_wconf 36'>jliingsten</span>
+      <span class='ocrx_word' id='word_1_184' title='bbox 1443 3071 1761 3150; x_wconf 36'>jlüngsten</span>
       <span class='ocrx_word' id='word_1_185' title='bbox 1786 3071 1972 3132; x_wconf 89'>Sohn</span>
       <span class='ocrx_word' id='word_1_186' title='bbox 1997 3072 2408 3151; x_wconf 84'>eingeladen,</span>
       <span class='ocrx_word' id='word_1_187' title='bbox 2433 3072 2541 3132; x_wconf 90' lang='deu'>bei</span>
@@ -274,7 +274,7 @@
       <span class='ocrx_word' id='word_1_200' title='bbox 935 3315 1233 3394; x_wconf 87'>zugleich</span>
       <span class='ocrx_word' id='word_1_201' title='bbox 1261 3337 1377 3373; x_wconf 91'>um</span>
       <span class='ocrx_word' id='word_1_202' title='bbox 1406 3315 1527 3373; x_wconf 92'>alle</span>
-      <span class='ocrx_word' id='word_1_203' title='bbox 1554 3315 1932 3375; x_wconf 38'>kiimmern.</span>
+      <span class='ocrx_word' id='word_1_203' title='bbox 1554 3315 1932 3375; x_wconf 38'>kümmern.</span>
       <span class='ocrx_word' id='word_1_204' title='bbox 1963 3316 2090 3375; x_wconf 91'>Die</span>
       <span class='ocrx_word' id='word_1_205' title='bbox 2120 3316 2313 3375; x_wconf 88'>Fahrt</span>
       <span class='ocrx_word' id='word_1_206' title='bbox 2338 3317 2407 3374; x_wconf 93' lang='deu'>in</span>
@@ -343,7 +343,7 @@
      </span>
      <span class='ocr_line' id='line_1_31' title="bbox 318 4048 2534 4132; baseline 0.002 -25; x_size 81; x_descenders 21; x_ascenders 22">
       <span class='ocrx_word' id='word_1_256' title='bbox 318 4048 424 4108; x_wconf 89'>fur</span>
-      <span class='ocrx_word' id='word_1_257' title='bbox 456 4048 1286 4109; x_wconf 72'>Geschaftsiibernahmen</span>
+      <span class='ocrx_word' id='word_1_257' title='bbox 456 4048 1286 4109; x_wconf 72'>Geschaftsübernahmen</span>
       <span class='ocrx_word' id='word_1_258' title='bbox 1317 4049 1425 4110; x_wconf 77'>bei</span>
       <span class='ocrx_word' id='word_1_259' title='bbox 1457 4050 1527 4109; x_wconf 91'>L.</span>
       <span class='ocrx_word' id='word_1_260' title='bbox 1549 4050 1601 4109; x_wconf 87'>F.</span>

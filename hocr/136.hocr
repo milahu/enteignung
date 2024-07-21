@@ -35,7 +35,7 @@
      <span class='ocr_line' id='line_1_3' title="bbox 413 559 2542 640; baseline 0 -21; x_size 80; x_descenders 20; x_ascenders 22">
       <span class='ocrx_word' id='word_1_12' title='bbox 413 569 489 619; x_wconf 93' lang='eng'>ter</span>
       <span class='ocrx_word' id='word_1_13' title='bbox 521 559 622 620; x_wconf 85' lang='eng'>den</span>
-      <span class='ocrx_word' id='word_1_14' title='bbox 637 559 954 639; x_wconf 85' lang='eng'>fiihrenden</span>
+      <span class='ocrx_word' id='word_1_14' title='bbox 637 559 954 639; x_wconf 85' lang='eng'>führenden</span>
       <span class='ocrx_word' id='word_1_15' title='bbox 990 560 1476 639; x_wconf 92'>Repräsentanten,</span>
       <span class='ocrx_word' id='word_1_16' title='bbox 1521 560 1607 620; x_wconf 93'>die</span>
       <span class='ocrx_word' id='word_1_17' title='bbox 1642 583 1735 620; x_wconf 93'>am</span>
@@ -123,7 +123,7 @@
       <span class='ocrx_word' id='word_1_80' title='bbox 1114 1545 1232 1624; x_wconf 65'>auf</span>
       <span class='ocrx_word' id='word_1_81' title='bbox 1259 1545 1412 1605; x_wconf 65'>sechs</span>
       <span class='ocrx_word' id='word_1_82' title='bbox 1444 1567 1948 1625; x_wconf 89'>vorangegangenen</span>
-      <span class='ocrx_word' id='word_1_83' title='bbox 1984 1545 2535 1625; x_wconf 82'>linderiibergreifen-</span>
+      <span class='ocrx_word' id='word_1_83' title='bbox 1984 1545 2535 1625; x_wconf 82'>linderübergreifen-</span>
      </span>
      <span class='ocr_line' id='line_1_12' title="bbox 411 1668 2537 1748; baseline 0 -21; x_size 80; x_descenders 20; x_ascenders 22">
       <span class='ocrx_word' id='word_1_84' title='bbox 411 1668 512 1727; x_wconf 91'>den</span>
@@ -248,7 +248,7 @@
       <span class='ocrx_word' id='word_1_178' title='bbox 1224 3020 1405 3080; x_wconf 81'>Leiter</span>
       <span class='ocrx_word' id='word_1_179' title='bbox 1436 3020 1528 3080; x_wconf 90'>des</span>
       <span class='ocrx_word' id='word_1_180' title='bbox 1553 3020 1930 3080; x_wconf 90'>Ausschusses</span>
-      <span class='ocrx_word' id='word_1_181' title='bbox 1940 3020 2053 3099; x_wconf 88'>fiir</span>
+      <span class='ocrx_word' id='word_1_181' title='bbox 1940 3020 2053 3099; x_wconf 88'>für</span>
       <span class='ocrx_word' id='word_1_182' title='bbox 2083 3020 2170 3080; x_wconf 91'>die</span>
       <span class='ocrx_word' id='word_1_183' title='bbox 2203 3020 2539 3080; x_wconf 43'>einheitliche</span>
      </span>
