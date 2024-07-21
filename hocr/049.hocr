@@ -65,12 +65,12 @@
       <span class='ocrx_word' id='word_1_37' title='bbox 1634 850 1704 888; x_wconf 93' lang='deu'>er</span>
       <span class='ocrx_word' id='word_1_38' title='bbox 1741 841 1938 908; x_wconf 92'>sagte:</span>
       <span class='ocrx_word' id='word_1_39' title='bbox 1980 828 2100 901; x_wconf 91' lang='deu'>„Es</span>
-      <span class='ocrx_word' id='word_1_40' title='bbox 2138 828 2357 908; x_wconf 91'>gefallt</span>
+      <span class='ocrx_word' id='word_1_40' title='bbox 2138 828 2357 908; x_wconf 91'>gefällt</span>
       <span class='ocrx_word' id='word_1_41' title='bbox 2392 827 2520 887; x_wconf 76' lang='deu'>mir</span>
      </span>
      <span class='ocr_line' id='line_1_6' title="bbox 298 950 2514 1031; baseline -0 -19; x_size 82; x_descenders 21; x_ascenders 23">
       <span class='ocrx_word' id='word_1_42' title='bbox 298 951 449 1012; x_wconf 92' lang='deu'>dort</span>
-      <span class='ocrx_word' id='word_1_43' title='bbox 475 951 797 1012; x_wconf 32' lang='deu'>einfach‘‘.</span>
+      <span class='ocrx_word' id='word_1_43' title='bbox 475 951 797 1012; x_wconf 32' lang='deu'>einfach“.</span>
       <span class='ocrx_word' id='word_1_44' title='bbox 828 951 1206 1012; x_wconf 92' lang='deu'>Daraufhin</span>
       <span class='ocrx_word' id='word_1_45' title='bbox 1233 964 1410 1031; x_wconf 92' lang='deu'>sagte</span>
       <span class='ocrx_word' id='word_1_46' title='bbox 1437 951 1619 1011; x_wconf 92' lang='deu'>mein</span>
@@ -89,7 +89,7 @@
       <span class='ocrx_word' id='word_1_57' title='bbox 1291 1074 1436 1135; x_wconf 91' lang='deu'>eine</span>
       <span class='ocrx_word' id='word_1_58' title='bbox 1463 1074 1664 1135; x_wconf 91' lang='deu'>Weile</span>
       <span class='ocrx_word' id='word_1_59' title='bbox 1692 1074 2029 1135; x_wconf 92' lang='deu'>herrschte</span>
-      <span class='ocrx_word' id='word_1_60' title='bbox 2055 1074 2287 1155; x_wconf 92'>vollige</span>
+      <span class='ocrx_word' id='word_1_60' title='bbox 2055 1074 2287 1155; x_wconf 92'>völlige</span>
       <span class='ocrx_word' id='word_1_61' title='bbox 2318 1074 2515 1149; x_wconf 91'>Stille;</span>
      </span>
      <span class='ocr_line' id='line_1_8' title="bbox 298 1198 2517 1279; baseline -0 -20; x_size 81; x_descenders 21; x_ascenders 22">
@@ -310,13 +310,13 @@
       <span class='ocrx_word' id='word_1_234' title='bbox 703 3435 768 3473; x_wconf 91' lang='eng'>es</span>
       <span class='ocrx_word' id='word_1_235' title='bbox 795 3413 870 3493; x_wconf 73'>Ja</span>
       <span class='ocrx_word' id='word_1_236' title='bbox 908 3413 1015 3473; x_wconf 91' lang='eng'>ein</span>
-      <span class='ocrx_word' id='word_1_237' title='bbox 1053 3413 1820 3485; x_wconf 4' lang='eng'>„Hoflichkeitsbesuch“</span>
+      <span class='ocrx_word' id='word_1_237' title='bbox 1053 3413 1820 3485; x_wconf 4' lang='eng'>„Höflichkeitsbesuch“</span>
       <span class='ocrx_word' id='word_1_238' title='bbox 1860 3435 2178 3494; x_wconf 91' lang='eng'>gewesen.</span>
       <span class='ocrx_word' id='word_1_239' title='bbox 2219 3414 2359 3474; x_wconf 89' lang='eng'>Wir</span>
       <span class='ocrx_word' id='word_1_240' title='bbox 2396 3414 2517 3475; x_wconf 89' lang='eng'>alle</span>
      </span>
      <span class='ocr_line' id='line_1_27' title="bbox 297 3535 2517 3616; baseline 0.001 -22; x_size 71; x_descenders 10; x_ascenders 23">
-      <span class='ocrx_word' id='word_1_241' title='bbox 297 3540 562 3596; x_wconf 88' lang='eng'>mussen</span>
+      <span class='ocrx_word' id='word_1_241' title='bbox 297 3540 562 3596; x_wconf 88' lang='eng'>müssen</span>
       <span class='ocrx_word' id='word_1_242' title='bbox 602 3535 1038 3616; x_wconf 84' lang='eng'>irgendwann</span>
       <span class='ocrx_word' id='word_1_243' title='bbox 1079 3535 1361 3611; x_wconf 90' lang='eng'>sterben,</span>
       <span class='ocrx_word' id='word_1_244' title='bbox 1404 3535 1546 3596; x_wconf 91' lang='eng'>und</span>
