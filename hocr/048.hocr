@@ -38,7 +38,7 @@
       <span class='ocrx_word' id='word_1_14' title='bbox 633 580 754 641; x_wconf 88'>wie</span>
       <span class='ocrx_word' id='word_1_15' title='bbox 788 581 1007 654; x_wconf 91' lang='deu'>„Lasst</span>
       <span class='ocrx_word' id='word_1_16' title='bbox 1039 581 1155 641; x_wconf 85' lang='deu'>ihn</span>
-      <span class='ocrx_word' id='word_1_17' title='bbox 1185 581 1680 657; x_wconf 32' lang='deu'>weiterreden“‘‘,</span>
+      <span class='ocrx_word' id='word_1_17' title='bbox 1185 581 1680 657; x_wconf 32' lang='deu'>weiterreden“,</span>
       <span class='ocrx_word' id='word_1_18' title='bbox 1715 582 1856 643; x_wconf 92' lang='deu'>und</span>
       <span class='ocrx_word' id='word_1_19' title='bbox 1888 582 1991 642; x_wconf 92' lang='deu'>die</span>
       <span class='ocrx_word' id='word_1_20' title='bbox 2027 581 2554 663; x_wconf 91'>Organisatoren</span>
@@ -136,7 +136,7 @@
       <span class='ocrx_word' id='word_1_93' title='bbox 2318 1568 2557 1628; x_wconf 91'>Services</span>
      </span>
      <span class='ocr_line' id='line_1_12' title="bbox 341 1690 2555 1772; baseline 0 -22; x_size 82; x_descenders 21; x_ascenders 23">
-      <span class='ocrx_word' id='word_1_94' title='bbox 341 1690 548 1770; x_wconf 59' lang='eng'>(0SS),</span>
+      <span class='ocrx_word' id='word_1_94' title='bbox 341 1690 548 1770; x_wconf 59' lang='eng'>(OSS),</span>
       <span class='ocrx_word' id='word_1_95' title='bbox 578 1690 735 1751; x_wconf 90'>dem</span>
       <span class='ocrx_word' id='word_1_96' title='bbox 760 1690 1370 1751; x_wconf 90'>Vorläufer-Dienst</span>
       <span class='ocrx_word' id='word_1_97' title='bbox 1397 1691 1514 1751; x_wconf 92'>der</span>
@@ -201,7 +201,7 @@
      </span>
      <span class='ocr_line' id='line_1_18' title="bbox 324 2431 2555 2512; baseline 0 -21; x_size 80; x_descenders 20; x_ascenders 22">
       <span class='ocrx_word' id='word_1_146' title='bbox 324 2431 748 2512; x_wconf 88' lang='eng'>japanisches</span>
-      <span class='ocrx_word' id='word_1_147' title='bbox 787 2431 1321 2491; x_wconf 90' lang='eng'>Militarschwert</span>
+      <span class='ocrx_word' id='word_1_147' title='bbox 787 2431 1321 2491; x_wconf 90' lang='eng'>Militärschwert</span>
       <span class='ocrx_word' id='word_1_148' title='bbox 1356 2431 1814 2511; x_wconf 92'>vorgefunden</span>
       <span class='ocrx_word' id='word_1_149' title='bbox 1853 2431 2049 2491; x_wconf 91'>hatte.</span>
       <span class='ocrx_word' id='word_1_150' title='bbox 2092 2431 2237 2491; x_wconf 92' lang='eng'>Bob</span>
@@ -211,7 +211,7 @@
      <span class='ocr_line' id='line_1_19' title="bbox 339 2551 2557 2635; baseline 0 -21; x_size 81; x_descenders 21; x_ascenders 22">
       <span class='ocrx_word' id='word_1_153' title='bbox 339 2554 516 2615; x_wconf 91'>Skull</span>
       <span class='ocrx_word' id='word_1_154' title='bbox 546 2555 681 2615; x_wconf 92'>and</span>
-      <span class='ocrx_word' id='word_1_155' title='bbox 710 2551 954 2615; x_wconf 0' lang='eng'>Bones’</span>
+      <span class='ocrx_word' id='word_1_155' title='bbox 710 2551 954 2615; x_wconf 0' lang='eng'>Bones⁶</span>
       <span class='ocrx_word' id='word_1_156' title='bbox 983 2555 1051 2614; x_wconf 93'>in</span>
       <span class='ocrx_word' id='word_1_157' title='bbox 1077 2554 1232 2615; x_wconf 92'>Yale</span>
       <span class='ocrx_word' id='word_1_158' title='bbox 1263 2577 1580 2635; x_wconf 91'>gewesen.</span>
@@ -225,7 +225,7 @@
       <span class='ocrx_word' id='word_1_164' title='bbox 839 2678 1081 2758; x_wconf 91' lang='eng'>Bundy.</span>
       <span class='ocrx_word' id='word_1_165' title='bbox 1117 2678 1352 2738; x_wconf 91'>Dieser</span>
       <span class='ocrx_word' id='word_1_166' title='bbox 1378 2678 1604 2738; x_wconf 92'>wurde</span>
-      <span class='ocrx_word' id='word_1_167' title='bbox 1637 2683 1855 2758; x_wconf 92' lang='eng'>spater</span>
+      <span class='ocrx_word' id='word_1_167' title='bbox 1637 2683 1855 2758; x_wconf 92' lang='eng'>später</span>
       <span class='ocrx_word' id='word_1_168' title='bbox 1886 2677 2554 2738; x_wconf 92'>Geheimdienstana-</span>
      </span>
      <span class='ocr_line' id='line_1_21' title="bbox 336 2800 2558 2881; baseline -0.001 -20; x_size 81; x_descenders 20; x_ascenders 23">
@@ -305,7 +305,7 @@
       <span class='ocrx_word' id='word_1_227' title='bbox 1451 3535 1764 3594; x_wconf 92'>Karriere</span>
       <span class='ocrx_word' id='word_1_228' title='bbox 1793 3534 1901 3594; x_wconf 92'>bei</span>
       <span class='ocrx_word' id='word_1_229' title='bbox 1931 3534 2295 3594; x_wconf 90'>Cleveland</span>
-      <span class='ocrx_word' id='word_1_230' title='bbox 2325 3530 2556 3608; x_wconf 87' lang='deu'>Cliffs’,</span>
+      <span class='ocrx_word' id='word_1_230' title='bbox 2325 3530 2556 3608; x_wconf 87' lang='deu'>Cliffs⁷,</span>
      </span>
      <span class='ocr_line' id='line_1_28' title="bbox 340 3655 2560 3737; baseline -0.001 -19; x_size 81; x_descenders 21; x_ascenders 23">
       <span class='ocrx_word' id='word_1_231' title='bbox 340 3658 521 3718; x_wconf 90'>mein</span>
@@ -322,7 +322,7 @@
       <span class='ocrx_word' id='word_1_240' title='bbox 341 3803 497 3841; x_wconf 90'>zum</span>
       <span class='ocrx_word' id='word_1_241' title='bbox 535 3780 724 3841; x_wconf 88'>CEO</span>
       <span class='ocrx_word' id='word_1_242' title='bbox 764 3802 1110 3841; x_wconf 91'>ernennen</span>
-      <span class='ocrx_word' id='word_1_243' title='bbox 1144 3780 1388 3840; x_wconf 86'>wirde.</span>
+      <span class='ocrx_word' id='word_1_243' title='bbox 1144 3780 1388 3840; x_wconf 86'>würde.</span>
       <span class='ocrx_word' id='word_1_244' title='bbox 1429 3780 1784 3840; x_wconf 90'>Nachdem</span>
       <span class='ocrx_word' id='word_1_245' title='bbox 1822 3779 1982 3839; x_wconf 92'>aber</span>
       <span class='ocrx_word' id='word_1_246' title='bbox 2017 3779 2192 3839; x_wconf 90'>Bobs</span>
