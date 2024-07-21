@@ -48,7 +48,7 @@
       <span class='ocrx_word' id='word_1_22' title='bbox 1237 704 1408 764; x_wconf 91'>Bank</span>
       <span class='ocrx_word' id='word_1_23' title='bbox 1429 704 1750 783; x_wconf 87'>kurzfristig</span>
       <span class='ocrx_word' id='word_1_24' title='bbox 1774 704 2092 773; x_wconf 91' lang='deu'>umsetzbar</span>
-      <span class='ocrx_word' id='word_1_25' title='bbox 2114 703 2196 764; x_wconf 27'>1st.</span>
+      <span class='ocrx_word' id='word_1_25' title='bbox 2114 703 2196 764; x_wconf 27'>ist.</span>
      </span>
     </p>
 
@@ -260,7 +260,7 @@
      <span class='ocr_header' id='line_1_22' title="bbox 325 3046 2543 3126; baseline 0.001 -22; x_size 80; x_descenders 21; x_ascenders 21">
       <span class='ocrx_word' id='word_1_171' title='bbox 325 3046 475 3105; x_wconf 92'>sehr</span>
       <span class='ocrx_word' id='word_1_172' title='bbox 500 3058 679 3105; x_wconf 92'>ernst</span>
-      <span class='ocrx_word' id='word_1_173' title='bbox 703 3046 801 3120; x_wconf 71'>1st,</span>
+      <span class='ocrx_word' id='word_1_173' title='bbox 703 3046 801 3120; x_wconf 71'>ist,</span>
       <span class='ocrx_word' id='word_1_174' title='bbox 829 3046 1038 3105; x_wconf 90'>findet</span>
       <span class='ocrx_word' id='word_1_175' title='bbox 1064 3046 1200 3105; x_wconf 91'>sich</span>
       <span class='ocrx_word' id='word_1_176' title='bbox 1226 3046 1294 3104; x_wconf 36' lang='deu'>in</span>
