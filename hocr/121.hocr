@@ -46,7 +46,8 @@
       <span class='ocrx_word' id='word_1_20' title='bbox 968 724 1167 805; x_wconf 90'>nötig,</span>
       <span class='ocrx_word' id='word_1_21' title='bbox 1203 724 1338 784; x_wconf 92' lang='eng'>sich</span>
       <span class='ocrx_word' id='word_1_22' title='bbox 1370 723 1578 784; x_wconf 91' lang='eng'>dieses</span>
-      <span class='ocrx_word' id='word_1_23' title='bbox 1611 723 1996 804; x_wconf 90'>Eigentums</span>
+      <!-- fixed: added missing "zu" -->
+      <span class='ocrx_word' id='word_1_23' title='bbox 1611 723 1996 804; x_wconf 90'>Eigentums zu</span>
       <span class='ocrx_word' id='word_1_24' title='bbox 2029 723 2533 804; x_wconf 92'>bemächtigen?</span>
      </span>
      <span class='ocr_line' id='line_1_5' title="bbox 313 847 1486 927; baseline 0 -20; x_size 80; x_descenders 20; x_ascenders 22">
@@ -60,7 +61,7 @@
 
     <p class='ocr_par' id='par_1_3' lang='eng' title="bbox 315 969 2538 1784">
      <span class='ocr_line' id='line_1_6' title="bbox 411 969 2534 1045; baseline 0 -16; x_size 76; x_descenders 15; x_ascenders 23">
-      <span class='ocrx_word' id='word_1_30' title='bbox 411 971 706 1030; x_wconf 43'>Konnen</span>
+      <span class='ocrx_word' id='word_1_30' title='bbox 411 971 706 1030; x_wconf 43'>Können</span>
       <span class='ocrx_word' id='word_1_31' title='bbox 738 970 843 1030; x_wconf 87'>Sie</span>
       <span class='ocrx_word' id='word_1_32' title='bbox 874 970 1009 1030; x_wconf 90'>sich</span>
       <span class='ocrx_word' id='word_1_33' title='bbox 1036 992 1169 1030; x_wconf 92'>von</span>
@@ -99,12 +100,13 @@
       <span class='ocrx_word' id='word_1_60' title='bbox 1089 1363 1170 1400; x_wconf 91'>zu</span>
       <span class='ocrx_word' id='word_1_61' title='bbox 1203 1340 1464 1400; x_wconf 91'>kleinen</span>
       <span class='ocrx_word' id='word_1_62' title='bbox 1497 1339 1814 1400; x_wconf 90'>Rahmen</span>
-      <span class='ocrx_word' id='word_1_63' title='bbox 1844 1340 2192 1400; x_wconf 91'>verstehen</span>
+      <!-- fixed: added missing "zu" -->
+      <span class='ocrx_word' id='word_1_63' title='bbox 1844 1340 2192 1400; x_wconf 91'>verstehen zu</span>
       <span class='ocrx_word' id='word_1_64' title='bbox 2222 1340 2461 1400; x_wconf 90'>wollen</span>
       <span class='ocrx_word' id='word_1_65' title='bbox 2491 1370 2538 1373; x_wconf 96' lang='deu'>—</span>
      </span>
      <span class='ocr_line' id='line_1_10' title="bbox 316 1462 2533 1524; baseline 0 -1; x_size 80.247055; x_descenders 20.247053; x_ascenders 22">
-      <span class='ocrx_word' id='word_1_66' title='bbox 316 1463 608 1524; x_wconf 91'>namlich</span>
+      <span class='ocrx_word' id='word_1_66' title='bbox 316 1463 608 1524; x_wconf 91'>nämlich</span>
       <span class='ocrx_word' id='word_1_67' title='bbox 648 1463 795 1524; x_wconf 92'>dass</span>
       <span class='ocrx_word' id='word_1_68' title='bbox 835 1485 900 1523; x_wconf 91'>es</span>
       <span class='ocrx_word' id='word_1_69' title='bbox 938 1463 1181 1523; x_wconf 92'>immer</span>
@@ -181,8 +183,8 @@
       <span class='ocrx_word' id='word_1_125' title='bbox 423 2201 543 2261; x_wconf 91'>der</span>
       <span class='ocrx_word' id='word_1_126' title='bbox 572 2201 739 2261; x_wconf 90'>Sinn</span>
       <span class='ocrx_word' id='word_1_127' title='bbox 769 2201 853 2261; x_wconf 90'>all</span>
-      <span class='ocrx_word' id='word_1_128' title='bbox 881 2201 1060 2262; x_wconf 87'>threr</span>
-      <span class='ocrx_word' id='word_1_129' title='bbox 1088 2201 1621 2282; x_wconf 54'>Bemihungen?</span>
+      <span class='ocrx_word' id='word_1_128' title='bbox 881 2201 1060 2262; x_wconf 87'>ihrer</span>
+      <span class='ocrx_word' id='word_1_129' title='bbox 1088 2201 1621 2282; x_wconf 54'>Bemühungen?</span>
      </span>
     </p>
 
@@ -226,7 +228,7 @@
       <span class='ocrx_word' id='word_1_159' title='bbox 1183 2694 1429 2755; x_wconf 91'>Zweck</span>
       <span class='ocrx_word' id='word_1_160' title='bbox 1467 2695 1658 2755; x_wconf 91'>sollte</span>
       <span class='ocrx_word' id='word_1_161' title='bbox 1700 2695 1808 2755; x_wconf 90'>die</span>
-      <span class='ocrx_word' id='word_1_162' title='bbox 1849 2695 2188 2756; x_wconf 88'>kunstlich</span>
+      <span class='ocrx_word' id='word_1_162' title='bbox 1849 2695 2188 2756; x_wconf 88'>künstlich</span>
       <span class='ocrx_word' id='word_1_163' title='bbox 2228 2695 2533 2776; x_wconf 67'>geschaf-</span>
      </span>
      <span class='ocr_line' id='line_1_21' title="bbox 313 2817 2536 2900; baseline 0.001 -23; x_size 81; x_descenders 21; x_ascenders 22">
@@ -254,7 +256,7 @@
       <span class='ocrx_word' id='word_1_183' title='bbox 2373 2943 2533 3003; x_wconf 90'>viel-</span>
      </span>
      <span class='ocr_line' id='line_1_23' title="bbox 313 3062 2533 3142; baseline 0.001 -20; x_size 80; x_descenders 20; x_ascenders 23">
-      <span class='ocrx_word' id='word_1_184' title='bbox 313 3062 542 3142; x_wconf 90'>faltige</span>
+      <span class='ocrx_word' id='word_1_184' title='bbox 313 3062 542 3142; x_wconf 90'>fältige</span>
       <span class='ocrx_word' id='word_1_185' title='bbox 576 3064 721 3123; x_wconf 90'>und</span>
       <span class='ocrx_word' id='word_1_186' title='bbox 753 3063 1191 3123; x_wconf 85'>umfassende</span>
       <span class='ocrx_word' id='word_1_187' title='bbox 1223 3064 1460 3137; x_wconf 91'>Weise,</span>
