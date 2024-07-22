@@ -89,7 +89,7 @@
       <span class='ocrx_word' id='word_1_52' title='bbox 1394 1209 1615 1269; x_wconf 92'>denen</span>
       <span class='ocrx_word' id='word_1_53' title='bbox 1638 1209 1757 1269; x_wconf 93'>der</span>
       <span class='ocrx_word' id='word_1_54' title='bbox 1778 1209 2283 1289; x_wconf 91' lang='eng'>ungesicherten</span>
-      <span class='ocrx_word' id='word_1_55' title='bbox 2307 1209 2513 1269; x_wconf 91' lang='eng'>Glau-</span>
+      <span class='ocrx_word' id='word_1_55' title='bbox 2307 1209 2513 1269; x_wconf 91' lang='eng'>Gläu-</span>
      </span>
      <span class='ocr_line' id='line_1_9' title="bbox 294 1331 2514 1413; baseline -0 -21; x_size 81; x_descenders 21; x_ascenders 22">
       <span class='ocrx_word' id='word_1_56' title='bbox 294 1332 489 1412; x_wconf 92'>biger,</span>
@@ -142,15 +142,16 @@
       <span class='ocrx_word' id='word_1_95' title='bbox 1081 1825 1158 1886; x_wconf 92'>ist</span>
       <span class='ocrx_word' id='word_1_96' title='bbox 1196 1847 1323 1885; x_wconf 92'>nur</span>
       <span class='ocrx_word' id='word_1_97' title='bbox 1359 1825 1478 1886; x_wconf 91'>der</span>
+      <!-- strict would be "geschützten" but ok -->
       <span class='ocrx_word' id='word_1_98' title='bbox 1515 1825 1928 1905; x_wconf 89'>„geschützte</span>
-      <span class='ocrx_word' id='word_1_99' title='bbox 1969 1825 2241 1886; x_wconf 40'>Klasse‘</span>
+      <span class='ocrx_word' id='word_1_99' title='bbox 1969 1825 2241 1886; x_wconf 40'>Klasse“</span>
       <span class='ocrx_word' id='word_1_100' title='bbox 2280 1826 2513 1886; x_wconf 92'>vorbe-</span>
      </span>
      <span class='ocr_line' id='line_1_14' title="bbox 295 1938 2514 2029; baseline 0.001 -21; x_size 80; x_descenders 20; x_ascenders 22">
       <span class='ocrx_word' id='word_1_101' title='bbox 295 1948 540 2023; x_wconf 92'>halten,</span>
       <span class='ocrx_word' id='word_1_102' title='bbox 574 1948 678 2009; x_wconf 92'>für</span>
       <span class='ocrx_word' id='word_1_103' title='bbox 709 1949 814 2009; x_wconf 92'>die</span>
-      <span class='ocrx_word' id='word_1_104' title='bbox 849 1938 1349 2009; x_wconf 90' lang='eng'>Offentlichkeit</span>
+      <span class='ocrx_word' id='word_1_104' title='bbox 849 1938 1349 2009; x_wconf 90' lang='eng'>Öffentlichkeit</span>
       <span class='ocrx_word' id='word_1_105' title='bbox 1379 1949 1517 2029; x_wconf 92' lang='eng'>gibt</span>
       <span class='ocrx_word' id='word_1_106' title='bbox 1549 1971 1614 2009; x_wconf 93' lang='eng'>es</span>
       <span class='ocrx_word' id='word_1_107' title='bbox 1647 1971 1774 2009; x_wconf 92'>nur</span>
@@ -259,7 +260,7 @@
      <span class='ocr_line' id='line_1_25' title="bbox 292 3297 1063 3380; baseline 0.003 -21; x_size 85; x_descenders 20; x_ascenders 27">
       <span class='ocrx_word' id='word_1_183' title='bbox 292 3300 397 3360; x_wconf 91'>für</span>
       <span class='ocrx_word' id='word_1_184' title='bbox 423 3300 717 3375; x_wconf 92'>Banken,</span>
-      <span class='ocrx_word' id='word_1_185' title='bbox 750 3297 1063 3380; x_wconf 44'>2022)“““;</span>
+      <span class='ocrx_word' id='word_1_185' title='bbox 750 3297 1063 3380; x_wconf 44'>2022)“⁶⁴:</span>
      </span>
     </p>
    </div>
@@ -279,7 +280,6 @@
 
     <p class='ocr_par' id='par_1_7' lang='eng' title="bbox 324 3639 2514 4096">
      <span class='ocr_line' id='line_1_27' title="bbox 324 3639 2511 3750; baseline 0.001 -23; x_size 81; x_descenders 21; x_ascenders 22">
-      <span class='ocrx_word' id='word_1_194' title='bbox 324 3639 329 3643; x_wconf 81'>|</span>
       <span class='ocrx_word' id='word_1_195' title='bbox 385 3668 848 3747; x_wconf 89'>systemrelevante</span>
       <span class='ocrx_word' id='word_1_196' title='bbox 869 3668 1163 3746; x_wconf 65'>Banken)]</span>
       <span class='ocrx_word' id='word_1_197' title='bbox 1189 3668 1336 3728; x_wconf 88'>wird</span>
@@ -298,7 +298,7 @@
       <span class='ocrx_word' id='word_1_208' title='bbox 1344 3791 1711 3865; x_wconf 90'>wind-down,</span>
       <span class='ocrx_word' id='word_1_209' title='bbox 1808 3775 1979 3871; x_wconf 90'>SWD)</span>
       <span class='ocrx_word' id='word_1_210' title='bbox 2004 3792 2092 3852; x_wconf 90'>als</span>
-      <span class='ocrx_word' id='word_1_211' title='bbox 2123 3792 2389 3853; x_wconf 77'>Prioritit</span>
+      <span class='ocrx_word' id='word_1_211' title='bbox 2123 3792 2389 3853; x_wconf 77'>Priorität</span>
       <span class='ocrx_word' id='word_1_212' title='bbox 2419 3793 2514 3853; x_wconf 92'>des</span>
      </span>
      <span class='ocr_line' id='line_1_29' title="bbox 383 3912 2512 3997; baseline 0.002 -25; x_size 80; x_descenders 20; x_ascenders 22">
