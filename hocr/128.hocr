@@ -37,7 +37,7 @@
      <span class='ocr_line' id='line_1_3' title="bbox 420 550 2546 630; baseline 0 -20; x_size 79; x_descenders 19; x_ascenders 22">
       <span class='ocrx_word' id='word_1_14' title='bbox 420 561 749 610; x_wconf 92' lang='deu'>samtmasse</span>
       <span class='ocrx_word' id='word_1_15' title='bbox 782 550 876 609; x_wconf 92'>der</span>
-      <span class='ocrx_word' id='word_1_16' title='bbox 901 550 1174 624; x_wconf 91' lang='deu'>Derwate,</span>
+      <span class='ocrx_word' id='word_1_16' title='bbox 901 550 1174 624; x_wconf 91' lang='deu'>Derivate,</span>
       <span class='ocrx_word' id='word_1_17' title='bbox 1217 551 1371 611; x_wconf 92'>deren</span>
       <span class='ocrx_word' id='word_1_18' title='bbox 1401 551 1816 614; x_wconf 91' lang='deu'>Nominalwert</span>
       <span class='ocrx_word' id='word_1_19' title='bbox 1845 552 1960 611; x_wconf 86'>sich</span>
@@ -73,7 +73,7 @@
       <span class='ocrx_word' id='word_1_40' title='bbox 511 920 643 979; x_wconf 88'>Das</span>
       <span class='ocrx_word' id='word_1_41' title='bbox 696 919 1033 980; x_wconf 75'>Verschieben</span>
       <span class='ocrx_word' id='word_1_42' title='bbox 1076 942 1178 980; x_wconf 89'>von</span>
-      <span class='ocrx_word' id='word_1_43' title='bbox 1216 920 1775 980; x_wconf 63'>Derwatkontrakten</span>
+      <span class='ocrx_word' id='word_1_43' title='bbox 1216 920 1775 980; x_wconf 63'>Derivatkontrakten</span>
       <span class='ocrx_word' id='word_1_44' title='bbox 1818 921 2098 989; x_wconf 90' lang='deu'>zwischen</span>
       <span class='ocrx_word' id='word_1_45' title='bbox 2141 921 2545 981; x_wconf 90'>verschiedenen</span>
      </span>
@@ -250,7 +250,7 @@
       <span class='ocrx_word' id='word_1_170' title='bbox 849 3134 1108 3194; x_wconf 89' lang='eng'>America</span>
       <span class='ocrx_word' id='word_1_171' title='bbox 1146 3184 1216 3194; x_wconf 93' lang='eng'>...</span>
       <span class='ocrx_word' id='word_1_172' title='bbox 1257 3134 1357 3193; x_wconf 90' lang='eng'>hat</span>
-      <span class='ocrx_word' id='word_1_173' title='bbox 1380 3133 2122 3193; x_wconf 60' lang='eng'>Derwatverbindlichkeiten</span>
+      <span class='ocrx_word' id='word_1_173' title='bbox 1380 3133 2122 3193; x_wconf 60' lang='eng'>Derivatverbindlichkeiten</span>
       <span class='ocrx_word' id='word_1_174' title='bbox 2156 3133 2231 3193; x_wconf 35' lang='eng'>im</span>
       <span class='ocrx_word' id='word_1_175' title='bbox 2274 3134 2417 3193; x_wconf 91' lang='eng'>Wert</span>
       <span class='ocrx_word' id='word_1_176' title='bbox 2444 3155 2546 3193; x_wconf 92' lang='eng'>von</span>
