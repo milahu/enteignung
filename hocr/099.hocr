@@ -57,18 +57,17 @@
    <div class='ocr_carea' id='block_1_5' title="bbox 284 942 2500 1156">
     <p class='ocr_par' id='par_1_4' lang='deu' title="bbox 284 942 2500 1156">
      <span class='ocr_line' id='line_1_5' title="bbox 284 942 2497 1033; baseline -0 -20; x_size 80; x_descenders 20; x_ascenders 22">
-      <span class='ocrx_word' id='word_1_24' title='bbox 284 971 307 993; x_wconf 80'>“</span>
+      <span class='ocrx_word' id='word_1_24' title='bbox 284 971 307 993; x_wconf 80'>•</span>
       <span class='ocrx_word' id='word_1_25' title='bbox 377 953 481 1013; x_wconf 80'>die</span>
       <span class='ocrx_word' id='word_1_26' title='bbox 506 942 983 1033; x_wconf 92'>Übertragung</span>
       <span class='ocrx_word' id='word_1_27' title='bbox 1005 952 1315 1026; x_wconf 91'>„faktisch</span>
       <span class='ocrx_word' id='word_1_28' title='bbox 1339 952 1829 1032; x_wconf 67'>betrügerisch“</span>
       <span class='ocrx_word' id='word_1_29' title='bbox 1855 974 2155 1032; x_wconf 92'>gewesen</span>
       <span class='ocrx_word' id='word_1_30' title='bbox 2177 974 2324 1027; x_wconf 92' lang='eng'>war,</span>
-      <span class='ocrx_word' id='word_1_31' title='bbox 2352 952 2413 1012; x_wconf 86' lang='eng'>d.</span>
-      <span class='ocrx_word' id='word_1_32' title='bbox 2434 952 2497 1012; x_wconf 86' lang='eng'>h.</span>
+      <span class='ocrx_word' id='word_1_31' title='bbox 2352 952 2413 1012; x_wconf 86' lang='eng'>d.h.</span>
      </span>
      <span class='ocr_line' id='line_1_6' title="bbox 376 1074 2500 1156; baseline 0 -21; x_size 82; x_descenders 21; x_ascenders 22">
-      <span class='ocrx_word' id='word_1_33' title='bbox 376 1075 480 1136; x_wconf 92' lang='eng'>fur</span>
+      <span class='ocrx_word' id='word_1_33' title='bbox 376 1075 480 1136; x_wconf 92' lang='eng'>für</span>
       <span class='ocrx_word' id='word_1_34' title='bbox 509 1075 735 1136; x_wconf 92'>diesen</span>
       <span class='ocrx_word' id='word_1_35' title='bbox 766 1075 1075 1136; x_wconf 91' lang='eng'>Transfer</span>
       <span class='ocrx_word' id='word_1_36' title='bbox 1102 1074 1391 1156; x_wconf 92' lang='eng'>weniger</span>
@@ -177,7 +176,7 @@
    <div class='ocr_carea' id='block_1_9' title="bbox 284 2790 2500 3004">
     <p class='ocr_par' id='par_1_12' lang='deu' title="bbox 284 2790 2500 3004">
      <span class='ocr_line' id='line_1_17' title="bbox 284 2790 2500 2880; baseline 0 -19; x_size 80; x_descenders 19; x_ascenders 21">
-      <span class='ocrx_word' id='word_1_92' title='bbox 284 2818 307 2840; x_wconf 71'>“</span>
+      <span class='ocrx_word' id='word_1_92' title='bbox 284 2818 307 2840; x_wconf 71'>•</span>
       <span class='ocrx_word' id='word_1_93' title='bbox 377 2800 481 2861; x_wconf 86'>die</span>
       <span class='ocrx_word' id='word_1_94' title='bbox 516 2790 992 2880; x_wconf 92'>Übertragung</span>
       <span class='ocrx_word' id='word_1_95' title='bbox 1023 2800 1374 2862; x_wconf 92'>innerhalb</span>
@@ -229,11 +228,11 @@
       <span class='ocrx_word' id='word_1_125' title='bbox 528 3412 797 3471; x_wconf 92'>werden</span>
       <span class='ocrx_word' id='word_1_126' title='bbox 823 3412 913 3472; x_wconf 92'>als</span>
       <span class='ocrx_word' id='word_1_127' title='bbox 938 3412 1557 3491; x_wconf 83'>„Vorzugsrechte“,</span>
-      <span class='ocrx_word' id='word_1_128' title='bbox 1585 3412 2499 3493; x_wconf 68' lang='eng'>„Vorzugsubertragungen“</span>
+      <span class='ocrx_word' id='word_1_128' title='bbox 1585 3412 2499 3493; x_wconf 68' lang='eng'>„Vorzugsübertragungen“</span>
      </span>
      <span class='ocr_line' id='line_1_22' title="bbox 281 3528 2499 3614; baseline 0 -20; x_size 74; x_descenders 14; x_ascenders 22">
       <span class='ocrx_word' id='word_1_129' title='bbox 281 3534 446 3594; x_wconf 90'>oder</span>
-      <span class='ocrx_word' id='word_1_130' title='bbox 470 3528 1473 3614; x_wconf 44' lang='eng'>„Vorzugsverbindlichkeiten‘</span>
+      <span class='ocrx_word' id='word_1_130' title='bbox 470 3528 1473 3614; x_wconf 44' lang='eng'>„Vorzugsverbindlichkeiten“</span>
       <span class='ocrx_word' id='word_1_131' title='bbox 1501 3534 1908 3595; x_wconf 92' lang='eng'>bezeichnet.</span>
       <span class='ocrx_word' id='word_1_132' title='bbox 1939 3535 2157 3595; x_wconf 92'>Unter</span>
       <span class='ocrx_word' id='word_1_133' title='bbox 2182 3535 2313 3595; x_wconf 92'>den</span>
@@ -244,7 +243,7 @@
       <span class='ocrx_word' id='word_1_136' title='bbox 419 3656 1538 3737; x_wconf 83'>„Safe-Harbor“-Bestimmungen</span>
       <span class='ocrx_word' id='word_1_137' title='bbox 1592 3657 1771 3716; x_wconf 92' lang='eng'>kann</span>
       <span class='ocrx_word' id='word_1_138' title='bbox 1826 3657 1971 3717; x_wconf 92'>eine</span>
-      <span class='ocrx_word' id='word_1_139' title='bbox 2026 3647 2504 3738; x_wconf 92' lang='eng'>Ubertragung</span>
+      <span class='ocrx_word' id='word_1_139' title='bbox 2026 3647 2504 3738; x_wconf 92' lang='eng'>Übertragung</span>
      </span>
      <span class='ocr_line' id='line_1_24' title="bbox 278 3778 2499 3860; baseline 0.001 -22; x_size 80; x_descenders 20; x_ascenders 23">
       <span class='ocrx_word' id='word_1_140' title='bbox 278 3801 411 3838; x_wconf 90'>von</span>
