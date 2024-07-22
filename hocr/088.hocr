@@ -46,7 +46,7 @@
       <span class='ocrx_word' id='word_1_22' title='bbox 1926 584 1995 622; x_wconf 92' lang='eng'>so</span>
       <span class='ocrx_word' id='word_1_23' title='bbox 2034 575 2230 622; x_wconf 92'>etwas</span>
       <span class='ocrx_word' id='word_1_24' title='bbox 2267 566 2439 622; x_wconf 92'>wäre</span>
-      <span class='ocrx_word' id='word_1_25' title='bbox 2477 561 2545 620; x_wconf 58' lang='eng'>1n</span>
+      <span class='ocrx_word' id='word_1_25' title='bbox 2477 561 2545 620; x_wconf 58' lang='eng'>in</span>
      </span>
      <span class='ocr_line' id='line_1_4' title="bbox 326 685 2547 746; baseline 0 -1; x_size 77.375648; x_descenders 16.375648; x_ascenders 23">
       <span class='ocrx_word' id='word_1_26' title='bbox 326 685 621 746; x_wconf 90'>meinem</span>
@@ -85,8 +85,8 @@
       <span class='ocrx_word' id='word_1_53' title='bbox 786 1078 851 1116; x_wconf 92' lang='eng'>es</span>
       <span class='ocrx_word' id='word_1_54' title='bbox 880 1056 1204 1117; x_wconf 91' lang='eng'>vielleicht</span>
       <span class='ocrx_word' id='word_1_55' title='bbox 1234 1056 1412 1116; x_wconf 92' lang='eng'>noch</span>
-      <span class='ocrx_word' id='word_1_56' title='bbox 1442 1056 1733 1136; x_wconf 91' lang='eng'>moglich</span>
-      <span class='ocrx_word' id='word_1_57' title='bbox 1761 1060 1953 1131; x_wconf 88' lang='eng'>ware,</span>
+      <span class='ocrx_word' id='word_1_56' title='bbox 1442 1056 1733 1136; x_wconf 91' lang='eng'>möglich</span>
+      <span class='ocrx_word' id='word_1_57' title='bbox 1761 1060 1953 1131; x_wconf 88' lang='eng'>wäre,</span>
       <span class='ocrx_word' id='word_1_58' title='bbox 1987 1056 2123 1116; x_wconf 91' lang='eng'>dies</span>
       <span class='ocrx_word' id='word_1_59' title='bbox 2154 1079 2236 1116; x_wconf 85' lang='eng'>zu</span>
       <span class='ocrx_word' id='word_1_60' title='bbox 2265 1055 2544 1116; x_wconf 91' lang='eng'>vermei-</span>
@@ -115,8 +115,8 @@
       <span class='ocrx_word' id='word_1_79' title='bbox 2352 1301 2545 1361; x_wconf 85' lang='eng'>allein</span>
      </span>
      <span class='ocr_line' id='line_1_10' title="bbox 327 1425 913 1485; baseline -0.002 0; x_size 76.375648; x_descenders 16.375648; x_ascenders 22">
-      <span class='ocrx_word' id='word_1_80' title='bbox 327 1425 619 1485; x_wconf 45' lang='eng'>schaften</span>
-      <span class='ocrx_word' id='word_1_81' title='bbox 647 1425 913 1485; x_wconf 91' lang='eng'>konnte.</span>
+      <span class='ocrx_word' id='word_1_80' title='bbox 327 1425 619 1485; x_wconf 45' lang='eng'>schaffen</span>
+      <span class='ocrx_word' id='word_1_81' title='bbox 647 1425 913 1485; x_wconf 91' lang='eng'>könnte.</span>
      </span>
     </p>
    </div>
@@ -124,7 +124,7 @@
     <p class='ocr_par' id='par_1_3' lang='eng' title="bbox 421 1547 2488 1628">
      <span class='ocr_line' id='line_1_11' title="bbox 421 1547 2488 1628; baseline 0 -21; x_size 81; x_descenders 21; x_ascenders 23">
       <span class='ocrx_word' id='word_1_82' title='bbox 421 1548 548 1608; x_wconf 91'>Die</span>
-      <span class='ocrx_word' id='word_1_83' title='bbox 577 1547 1036 1628; x_wconf 71'>Damptwalze</span>
+      <span class='ocrx_word' id='word_1_83' title='bbox 577 1547 1036 1628; x_wconf 71'>Dampfwalze</span>
       <span class='ocrx_word' id='word_1_84' title='bbox 1065 1548 1210 1608; x_wconf 92'>rollt</span>
       <span class='ocrx_word' id='word_1_85' title='bbox 1234 1548 1466 1608; x_wconf 91'>weiter.</span>
       <span class='ocrx_word' id='word_1_86' title='bbox 1496 1548 1634 1608; x_wconf 92'>Wir</span>
@@ -139,7 +139,7 @@
    <div class='ocr_carea' id='block_1_5' title="bbox 1396 4259 1484 4318">
     <p class='ocr_par' id='par_1_4' lang='eng' title="bbox 1396 4259 1484 4318">
      <span class='ocr_line' id='line_1_12' title="bbox 1396 4259 1484 4318; baseline -0.011 0; x_size 78.666664; x_descenders 19.666666; x_ascenders 19.666666">
-      <span class='ocrx_word' id='word_1_92' title='bbox 1396 4259 1484 4318; x_wconf 91'>38</span>
+      <span class='ocrx_word' id='word_1_92' title='bbox 1396 4259 1484 4318; x_wconf 91'>88</span>
      </span>
     </p>
    </div>
