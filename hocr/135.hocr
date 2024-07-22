@@ -54,12 +54,12 @@
 
     <p class='ocr_par' id='par_1_3' lang='eng' title="bbox 409 826 2547 1401">
      <span class='ocr_line' id='line_1_5' title="bbox 515 826 2547 907; baseline -0.001 -19; x_size 81; x_descenders 20; x_ascenders 23">
-      <span class='ocrx_word' id='word_1_26' title='bbox 515 827 873 907; x_wconf 65'>Glewchzeitig</span>
+      <span class='ocrx_word' id='word_1_26' title='bbox 515 827 873 907; x_wconf 65'>Gleichzeitig</span>
       <span class='ocrx_word' id='word_1_27' title='bbox 903 850 1057 888; x_wconf 91'>muss</span>
       <span class='ocrx_word' id='word_1_28' title='bbox 1090 827 1176 887; x_wconf 88'>die</span>
       <span class='ocrx_word' id='word_1_29' title='bbox 1207 826 1647 907; x_wconf 73'>Krisenvorsorge</span>
       <span class='ocrx_word' id='word_1_30' title='bbox 1680 827 1865 887; x_wconf 72'>weiter</span>
-      <span class='ocrx_word' id='word_1_31' title='bbox 1885 827 2128 907; x_wconf 64'>gestdrkt</span>
+      <span class='ocrx_word' id='word_1_31' title='bbox 1885 827 2128 907; x_wconf 64'>gestärkt</span>
       <span class='ocrx_word' id='word_1_32' title='bbox 2159 827 2385 887; x_wconf 88'>werden.</span>
       <span class='ocrx_word' id='word_1_33' title='bbox 2423 826 2547 887; x_wconf 92'>Der</span>
      </span>
@@ -76,19 +76,19 @@
       <span class='ocrx_word' id='word_1_41' title='bbox 417 1075 532 1149; x_wconf 91'>den,</span>
       <span class='ocrx_word' id='word_1_42' title='bbox 579 1075 665 1135; x_wconf 88'>die</span>
       <span class='ocrx_word' id='word_1_43' title='bbox 701 1097 758 1134; x_wconf 93' lang='deu'>er</span>
-      <span class='ocrx_word' id='word_1_44' title='bbox 792 1074 1038 1154; x_wconf 56'>benitigt,</span>
+      <span class='ocrx_word' id='word_1_44' title='bbox 792 1074 1038 1154; x_wconf 56'>benötigt,</span>
       <span class='ocrx_word' id='word_1_45' title='bbox 1086 1097 1178 1134; x_wconf 92'>um</span>
       <span class='ocrx_word' id='word_1_46' title='bbox 1217 1074 1335 1153; x_wconf 90'>auf</span>
       <span class='ocrx_word' id='word_1_47' title='bbox 1368 1074 1484 1134; x_wconf 86' lang='deu'>eine</span>
       <span class='ocrx_word' id='word_1_48' title='bbox 1520 1074 1788 1134; x_wconf 91'>drohende</span>
-      <span class='ocrx_word' id='word_1_49' title='bbox 1822 1073 1982 1134; x_wconf 38'>Rrise</span>
+      <span class='ocrx_word' id='word_1_49' title='bbox 1822 1073 1982 1134; x_wconf 38'>Krise</span>
       <span class='ocrx_word' id='word_1_50' title='bbox 2017 1096 2092 1143; x_wconf 88'>zu</span>
       <span class='ocrx_word' id='word_1_51' title='bbox 2132 1074 2410 1153; x_wconf 89'>reagieren,</span>
       <span class='ocrx_word' id='word_1_52' title='bbox 2456 1074 2541 1134; x_wconf 85'>ein</span>
      </span>
      <span class='ocr_line' id='line_1_8' title="bbox 409 1197 2541 1289; baseline -0 -31; x_size 79; x_descenders 19; x_ascenders 22">
       <span class='ocrx_word' id='word_1_53' title='bbox 409 1197 1049 1289; x_wconf 70'>Abwicklungskonzept</span>
-      <span class='ocrx_word' id='word_1_54' title='bbox 1071 1207 1424 1266; x_wconf 35'>umzuseizen</span>
+      <span class='ocrx_word' id='word_1_54' title='bbox 1071 1207 1424 1266; x_wconf 35'>umzusetzen</span>
       <span class='ocrx_word' id='word_1_55' title='bbox 1451 1197 1570 1257; x_wconf 93'>und</span>
       <span class='ocrx_word' id='word_1_56' title='bbox 1588 1197 1704 1257; x_wconf 82' lang='deu'>eine</span>
       <span class='ocrx_word' id='word_1_57' title='bbox 1726 1197 1990 1257; x_wconf 90'>eventuell</span>
@@ -113,11 +113,11 @@
       <span class='ocrx_word' id='word_1_69' title='bbox 1089 1444 1286 1518; x_wconf 89' lang='eng'>Hand,</span>
       <span class='ocrx_word' id='word_1_70' title='bbox 1336 1444 1468 1504; x_wconf 91' lang='eng'>dass</span>
       <span class='ocrx_word' id='word_1_71' title='bbox 1509 1444 1718 1504; x_wconf 55' lang='eng'>weitere</span>
-      <span class='ocrx_word' id='word_1_72' title='bbox 1758 1444 2105 1524; x_wconf 76' lang='eng'>europdische</span>
-      <span class='ocrx_word' id='word_1_73' title='bbox 2143 1444 2542 1504; x_wconf 49' lang='eng'>Harmonusie-</span>
+      <span class='ocrx_word' id='word_1_72' title='bbox 1758 1444 2105 1524; x_wconf 76' lang='eng'>europäische</span>
+      <span class='ocrx_word' id='word_1_73' title='bbox 2143 1444 2542 1504; x_wconf 49' lang='eng'>Harmonisie-</span>
      </span>
      <span class='ocr_line' id='line_1_11' title="bbox 419 1567 2542 1648; baseline -0 -20; x_size 80; x_descenders 20; x_ascenders 22">
-      <span class='ocrx_word' id='word_1_74' title='bbox 419 1567 959 1648; x_wconf 70' lang='eng'>rungsmafsnahmen</span>
+      <span class='ocrx_word' id='word_1_74' title='bbox 419 1567 959 1648; x_wconf 70' lang='eng'>rungsmaßnahmen</span>
       <span class='ocrx_word' id='word_1_75' title='bbox 984 1568 1078 1628; x_wconf 92' lang='eng'>der</span>
       <span class='ocrx_word' id='word_1_76' title='bbox 1097 1567 1316 1647; x_wconf 90' lang='eng'>richtige</span>
       <span class='ocrx_word' id='word_1_77' title='bbox 1348 1567 1479 1647; x_wconf 91' lang='eng'>Weg</span>
@@ -126,11 +126,11 @@
       <span class='ocrx_word' id='word_1_80' title='bbox 1774 1575 1921 1627; x_wconf 92'>wäre</span>
       <span class='ocrx_word' id='word_1_81' title='bbox 1943 1567 2174 1647; x_wconf 87' lang='eng'>verfehlt,</span>
       <span class='ocrx_word' id='word_1_82' title='bbox 2205 1567 2291 1627; x_wconf 91' lang='eng'>die</span>
-      <span class='ocrx_word' id='word_1_83' title='bbox 2312 1575 2542 1647; x_wconf 75' lang='eng'>europd-</span>
+      <span class='ocrx_word' id='word_1_83' title='bbox 2312 1575 2542 1647; x_wconf 75' lang='eng'>europä-</span>
      </span>
      <span class='ocr_line' id='line_1_12' title="bbox 419 1689 2545 1759; baseline 0 -9; x_size 79.685806; x_descenders 19.685802; x_ascenders 22">
-      <span class='ocrx_word' id='word_1_84' title='bbox 419 1690 598 1751; x_wconf 43' lang='eng'>wschen</span>
-      <span class='ocrx_word' id='word_1_85' title='bbox 627 1690 1515 1759; x_wconf 74' lang='eng'>Finanzstabilitdtsinstrumente</span>
+      <span class='ocrx_word' id='word_1_84' title='bbox 419 1690 598 1751; x_wconf 43' lang='eng'>ischen</span>
+      <span class='ocrx_word' id='word_1_85' title='bbox 627 1690 1515 1759; x_wconf 74' lang='eng'>Finanzstabilitätsinstrumente</span>
       <span class='ocrx_word' id='word_1_86' title='bbox 1544 1690 1746 1750; x_wconf 84' lang='eng'>wieder</span>
       <span class='ocrx_word' id='word_1_87' title='bbox 1773 1700 1927 1750; x_wconf 92' lang='eng'>unter</span>
       <span class='ocrx_word' id='word_1_88' title='bbox 1952 1690 2239 1751; x_wconf 91' lang='eng'>staatliche</span>
@@ -140,7 +140,7 @@
       <span class='ocrx_word' id='word_1_90' title='bbox 417 1836 492 1883; x_wconf 88' lang='eng'>zu</span>
       <span class='ocrx_word' id='word_1_91' title='bbox 517 1814 704 1874; x_wconf 88' lang='eng'>stellen</span>
       <span class='ocrx_word' id='word_1_92' title='bbox 733 1813 851 1874; x_wconf 92' lang='eng'>und</span>
-      <span class='ocrx_word' id='word_1_93' title='bbox 871 1813 1050 1874; x_wconf 29' lang='eng'>damat</span>
+      <span class='ocrx_word' id='word_1_93' title='bbox 871 1813 1050 1874; x_wconf 29' lang='eng'>damit</span>
       <span class='ocrx_word' id='word_1_94' title='bbox 1071 1836 1147 1883; x_wconf 89' lang='eng'>zu</span>
       <span class='ocrx_word' id='word_1_95' title='bbox 1172 1813 1509 1874; x_wconf 91'>schwächen.</span>
      </span>
@@ -158,7 +158,7 @@
       <span class='ocrx_word' id='word_1_103' title='bbox 1896 1937 2012 1997; x_wconf 86'>eine</span>
       <span class='ocrx_word' id='word_1_104' title='bbox 2029 1936 2200 1996; x_wconf 92'>Bank</span>
       <span class='ocrx_word' id='word_1_105' title='bbox 2219 1937 2276 1997; x_wconf 72'>in</span>
-      <span class='ocrx_word' id='word_1_106' title='bbox 2299 1936 2542 1998; x_wconf 15'>Schuwie-</span>
+      <span class='ocrx_word' id='word_1_106' title='bbox 2299 1936 2542 1998; x_wconf 15'>Schwie-</span>
      </span>
      <span class='ocr_line' id='line_1_15' title="bbox 419 2048 2549 2140; baseline -0 -19; x_size 80; x_descenders 19; x_ascenders 23">
       <span class='ocrx_word' id='word_1_107' title='bbox 419 2048 670 2140; x_wconf 78'>rigkeiten</span>
@@ -183,8 +183,7 @@
       <span class='ocrx_word' id='word_1_124' title='bbox 1843 2183 2015 2244; x_wconf 66'>Weise</span>
       <span class='ocrx_word' id='word_1_125' title='bbox 2038 2206 2114 2253; x_wconf 87'>zu</span>
       <span class='ocrx_word' id='word_1_126' title='bbox 2140 2183 2385 2244; x_wconf 62'>verteilen</span>
-      <span class='ocrx_word' id='word_1_127' title='bbox 2418 2235 2424 2244; x_wconf 86'>.</span>
-      <span class='ocrx_word' id='word_1_128' title='bbox 2438 2234 2489 2244; x_wconf 86'>..</span>
+      <span class='ocrx_word' id='word_1_127' title='bbox 2418 2235 2489 2244; x_wconf 86'>...</span>
      </span>
     </p>
 
@@ -198,7 +197,7 @@
       <span class='ocrx_word' id='word_1_134' title='bbox 1374 2307 1532 2376; x_wconf 92'>letzte</span>
       <span class='ocrx_word' id='word_1_135' title='bbox 1566 2307 1622 2367; x_wconf 92' lang='deu'>in</span>
       <span class='ocrx_word' id='word_1_136' title='bbox 1657 2307 1802 2367; x_wconf 91'>einer</span>
-      <span class='ocrx_word' id='word_1_137' title='bbox 1840 2296 2375 2387; x_wconf 91'>Ubergangsperiode</span>
+      <span class='ocrx_word' id='word_1_137' title='bbox 1840 2296 2375 2387; x_wconf 91'>Übergangsperiode</span>
       <span class='ocrx_word' id='word_1_138' title='bbox 2406 2307 2536 2381; x_wconf 92'>sein,</span>
      </span>
      <span class='ocr_line' id='line_1_18' title="bbox 419 2429 2546 2510; baseline 0 -20; x_size 81; x_descenders 20; x_ascenders 23">
@@ -251,7 +250,7 @@
       <span class='ocrx_word' id='word_1_167' title='bbox 1772 2945 1836 2982; x_wconf 92' lang='eng'>es</span>
       <span class='ocrx_word' id='word_1_168' title='bbox 1884 2923 2144 2996; x_wconf 91'>„denen</span>
       <span class='ocrx_word' id='word_1_169' title='bbox 2190 2923 2277 2983; x_wconf 92'>da</span>
-      <span class='ocrx_word' id='word_1_170' title='bbox 2324 2923 2542 2983; x_wconf 56' lang='eng'>oben‘</span>
+      <span class='ocrx_word' id='word_1_170' title='bbox 2324 2923 2542 2983; x_wconf 56' lang='eng'>oben“</span>
      </span>
     </p>
    </div>
@@ -279,7 +278,7 @@
       <span class='ocrx_word' id='word_1_187' title='bbox 1292 3166 1464 3227; x_wconf 91'>Titel</span>
       <span class='ocrx_word' id='word_1_188' title='bbox 1500 3167 1755 3240; x_wconf 91' lang='deu'>„Leiter</span>
       <span class='ocrx_word' id='word_1_189' title='bbox 1789 3167 1908 3227; x_wconf 91'>der</span>
-      <span class='ocrx_word' id='word_1_190' title='bbox 1943 3167 2544 3228; x_wconf 74'>Finanzbehorden</span>
+      <span class='ocrx_word' id='word_1_190' title='bbox 1943 3167 2544 3228; x_wconf 74'>Finanzbehörden</span>
      </span>
     </p>
    </div>
@@ -289,7 +288,7 @@
       <span class='ocrx_word' id='word_1_191' title='bbox 325 3289 443 3349; x_wconf 92'>der</span>
       <span class='ocrx_word' id='word_1_192' title='bbox 467 3289 665 3364; x_wconf 87'>USA,</span>
       <span class='ocrx_word' id='word_1_193' title='bbox 695 3289 814 3349; x_wconf 91'>der</span>
-      <span class='ocrx_word' id='word_1_194' title='bbox 838 3289 1337 3370; x_wconf 90'>Europaischen</span>
+      <span class='ocrx_word' id='word_1_194' title='bbox 838 3289 1337 3370; x_wconf 90'>Europäischen</span>
       <span class='ocrx_word' id='word_1_195' title='bbox 1363 3289 1851 3350; x_wconf 90'>Bankenunion</span>
       <span class='ocrx_word' id='word_1_196' title='bbox 1877 3290 2019 3350; x_wconf 89'>und</span>
       <span class='ocrx_word' id='word_1_197' title='bbox 2045 3290 2164 3350; x_wconf 92'>der</span>
@@ -300,12 +299,12 @@
    <div class='ocr_carea' id='block_1_9' title="bbox 325 3412 2543 3492">
     <p class='ocr_par' id='par_1_12' lang='eng' title="bbox 325 3412 2543 3492">
      <span class='ocr_header' id='line_1_25' title="bbox 325 3412 2543 3492; baseline 0 -21; x_size 80; x_descenders 20; x_ascenders 22">
-      <span class='ocrx_word' id='word_1_199' title='bbox 325 3412 924 3472; x_wconf 89'>Finanzbehorden</span>
+      <span class='ocrx_word' id='word_1_199' title='bbox 325 3412 924 3472; x_wconf 89'>Finanzbehörden</span>
       <span class='ocrx_word' id='word_1_200' title='bbox 958 3412 1193 3472; x_wconf 73'>treffen</span>
       <span class='ocrx_word' id='word_1_201' title='bbox 1228 3412 1363 3472; x_wconf 91'>sich</span>
       <span class='ocrx_word' id='word_1_202' title='bbox 1396 3435 1479 3472; x_wconf 91'>zu</span>
       <span class='ocrx_word' id='word_1_203' title='bbox 1514 3412 1697 3472; x_wconf 92'>einer</span>
-      <span class='ocrx_word' id='word_1_204' title='bbox 1729 3412 2222 3492; x_wconf 38'>regelmaßligen</span>
+      <span class='ocrx_word' id='word_1_204' title='bbox 1729 3412 2222 3492; x_wconf 38'>regelmäßigen</span>
       <span class='ocrx_word' id='word_1_205' title='bbox 2256 3413 2543 3473; x_wconf 68'>Koordi-</span>
      </span>
     </p>
@@ -313,7 +312,7 @@
    <div class='ocr_carea' id='block_1_10' title="bbox 324 3534 2543 3616">
     <p class='ocr_par' id='par_1_13' lang='eng' title="bbox 324 3534 2543 3616">
      <span class='ocr_header' id='line_1_26' title="bbox 324 3534 2543 3616; baseline 0.001 -23; x_size 82; x_descenders 22; x_ascenders 22">
-      <span class='ocrx_word' id='word_1_206' title='bbox 324 3534 822 3614; x_wconf 74'>nationsibung</span>
+      <span class='ocrx_word' id='word_1_206' title='bbox 324 3534 822 3614; x_wconf 74'>nationsübung</span>
       <span class='ocrx_word' id='word_1_207' title='bbox 874 3557 992 3595; x_wconf 92'>zur</span>
       <span class='ocrx_word' id='word_1_208' title='bbox 1045 3535 1883 3615; x_wconf 79'>grenzüberschreitenden</span>
       <span class='ocrx_word' id='word_1_209' title='bbox 1936 3535 2543 3616; x_wconf 89'>Abwicklungspla-</span>
@@ -323,14 +322,7 @@
    <div class='ocr_carea' id='block_1_11' title="bbox 324 3679 509 3737">
     <p class='ocr_par' id='par_1_14' lang='eng' title="bbox 324 3679 509 3737">
      <span class='ocr_textfloat' id='line_1_27' title="bbox 324 3679 509 3737; baseline 0 -22; x_size 48.444443; x_descenders 12.111111; x_ascenders 12.111111">
-      <span class='ocrx_word' id='word_1_210' title='bbox 324 3679 509 3737; x_wconf 90'>nung</span>
-     </span>
-    </p>
-   </div>
-   <div class='ocr_carea' id='block_1_12' title="bbox 514 3654 621 3688">
-    <p class='ocr_par' id='par_1_15' lang='deu' title="bbox 514 3654 621 3688">
-     <span class='ocr_line' id='line_1_28' title="bbox 514 3654 621 3688; baseline 0 0; x_size 45.333332; x_descenders 11.333333; x_ascenders 11.333334">
-      <span class='ocrx_word' id='word_1_211' title='bbox 514 3654 621 3688; x_wconf 51'>&lt;c66.</span>
+      <span class='ocrx_word' id='word_1_210' title='bbox 324 3679 621 3737; x_wconf 90'>nung“⁶⁶:</span>
      </span>
     </p>
    </div>
