@@ -128,7 +128,7 @@
      </span>
      <span class='ocr_line' id='line_1_12' title="bbox 291 1694 2512 1776; baseline -0.001 -20; x_size 82; x_descenders 21; x_ascenders 23">
       <span class='ocrx_word' id='word_1_85' title='bbox 291 1695 521 1756; x_wconf 92'>flation</span>
-      <span class='ocrx_word' id='word_1_86' title='bbox 559 1695 753 1756; x_wconf 90'>dafur</span>
+      <span class='ocrx_word' id='word_1_86' title='bbox 559 1695 753 1756; x_wconf 90'>dafür</span>
       <span class='ocrx_word' id='word_1_87' title='bbox 790 1717 1045 1776; x_wconf 91'>sorgen,</span>
       <span class='ocrx_word' id='word_1_88' title='bbox 1086 1695 1233 1755; x_wconf 90'>dass</span>
       <span class='ocrx_word' id='word_1_89' title='bbox 1268 1695 1722 1756; x_wconf 92'>verschuldete</span>
@@ -140,7 +140,7 @@
       <span class='ocrx_word' id='word_1_93' title='bbox 294 1819 524 1879; x_wconf 91'>stande</span>
       <span class='ocrx_word' id='word_1_94' title='bbox 560 1819 698 1879; x_wconf 91'>sein</span>
       <span class='ocrx_word' id='word_1_95' title='bbox 729 1819 1018 1894; x_wconf 90'>werden,</span>
-      <span class='ocrx_word' id='word_1_96' title='bbox 1054 1818 1194 1879; x_wconf 57'>ithre</span>
+      <span class='ocrx_word' id='word_1_96' title='bbox 1054 1818 1194 1879; x_wconf 57'>ihre</span>
       <span class='ocrx_word' id='word_1_97' title='bbox 1232 1818 1569 1879; x_wconf 92'>Schulden</span>
       <span class='ocrx_word' id='word_1_98' title='bbox 1603 1842 1685 1879; x_wconf 92'>zu</span>
       <span class='ocrx_word' id='word_1_99' title='bbox 1719 1818 2073 1893; x_wconf 90'>bedienen,</span>
@@ -151,7 +151,7 @@
       <span class='ocrx_word' id='word_1_102' title='bbox 503 1936 590 2003; x_wconf 91'>sie</span>
       <span class='ocrx_word' id='word_1_103' title='bbox 620 1942 744 2003; x_wconf 90'>auf</span>
       <span class='ocrx_word' id='word_1_104' title='bbox 773 1942 1019 2003; x_wconf 91'>einmal</span>
-      <span class='ocrx_word' id='word_1_105' title='bbox 1047 1942 1640 2003; x_wconf 65'>zurtickzuzahlen.</span>
+      <span class='ocrx_word' id='word_1_105' title='bbox 1047 1942 1640 2003; x_wconf 65'>zurückzuzahlen.</span>
       <span class='ocrx_word' id='word_1_106' title='bbox 1675 1942 1780 2003; x_wconf 90'>Sie</span>
       <span class='ocrx_word' id='word_1_107' title='bbox 1807 1942 2076 2003; x_wconf 89'>werden</span>
       <span class='ocrx_word' id='word_1_108' title='bbox 2104 1942 2172 2001; x_wconf 93' lang='deu'>in</span>
@@ -187,7 +187,7 @@
       <span class='ocrx_word' id='word_1_132' title='bbox 2333 2311 2516 2372; x_wconf 90'>einer</span>
      </span>
      <span class='ocr_line' id='line_1_18' title="bbox 293 2434 1654 2515; baseline 0.001 -22; x_size 81; x_descenders 21; x_ascenders 22">
-      <span class='ocrx_word' id='word_1_133' title='bbox 293 2435 674 2515; x_wconf 92'>machtigen</span>
+      <span class='ocrx_word' id='word_1_133' title='bbox 293 2435 674 2515; x_wconf 92'>mächtigen</span>
       <span class='ocrx_word' id='word_1_134' title='bbox 702 2434 1318 2514; x_wconf 57'>Eroberungswaffe</span>
       <span class='ocrx_word' id='word_1_135' title='bbox 1347 2434 1654 2495; x_wconf 92'>machen.</span>
      </span>
@@ -249,10 +249,11 @@
      <span class='ocr_line' id='line_1_24' title="bbox 294 3171 2509 3250; baseline 0.001 -19; x_size 79; x_descenders 19; x_ascenders 22">
       <span class='ocrx_word' id='word_1_175' title='bbox 294 3171 514 3232; x_wconf 82'>einem</span>
       <span class='ocrx_word' id='word_1_176' title='bbox 545 3172 721 3232; x_wconf 91'>alten</span>
-      <span class='ocrx_word' id='word_1_177' title='bbox 749 3172 1607 3250; x_wconf 88'>proto-indoeuropaisches</span>
+      <!-- fixed: proto-indoeuropäisches -> proto-indoeuropäischen -->
+      <span class='ocrx_word' id='word_1_177' title='bbox 749 3172 1607 3250; x_wconf 88'>proto-indoeuropäischen</span>
       <span class='ocrx_word' id='word_1_178' title='bbox 1636 3173 1820 3233; x_wconf 92'>Wort</span>
       <span class='ocrx_word' id='word_1_179' title='bbox 1850 3173 1953 3245; x_wconf 92'>ab,</span>
-      <span class='ocrx_word' id='word_1_180' title='bbox 1987 3173 2279 3233; x_wconf 91'>namlich</span>
+      <span class='ocrx_word' id='word_1_180' title='bbox 1987 3173 2279 3233; x_wconf 91'>nämlich</span>
       <span class='ocrx_word' id='word_1_181' title='bbox 2300 3173 2509 3250; x_wconf 84'>ghabh.</span>
      </span>
      <span class='ocr_line' id='line_1_25' title="bbox 292 3294 2515 3375; baseline 0.001 -22; x_size 79; x_descenders 20; x_ascenders 21">
@@ -267,8 +268,7 @@
      </span>
      <span class='ocr_line' id='line_1_26' title="bbox 293 3415 2512 3495; baseline 0.001 -20; x_size 80; x_descenders 20; x_ascenders 23">
       <span class='ocrx_word' id='word_1_190' title='bbox 293 3415 429 3475; x_wconf 89'>sich</span>
-      <span class='ocrx_word' id='word_1_191' title='bbox 453 3439 506 3476; x_wconf 89'>z.</span>
-      <span class='ocrx_word' id='word_1_192' title='bbox 526 3416 596 3475; x_wconf 92'>B.</span>
+      <span class='ocrx_word' id='word_1_191' title='bbox 453 3439 506 3476; x_wconf 89'>z.B.</span>
       <span class='ocrx_word' id='word_1_193' title='bbox 624 3416 692 3474; x_wconf 64' lang='deu'>in</span>
       <span class='ocrx_word' id='word_1_194' title='bbox 719 3415 1011 3476; x_wconf 91'>Sanskrit</span>
       <span class='ocrx_word' id='word_1_195' title='bbox 1035 3416 1125 3476; x_wconf 92'>als</span>
@@ -301,7 +301,7 @@
      <span class='ocr_line' id='line_1_29' title="bbox 293 3779 887 3862; baseline 0.002 -21; x_size 83; x_descenders 20; x_ascenders 25">
       <span class='ocrx_word' id='word_1_217' title='bbox 293 3782 493 3842; x_wconf 88'>schen</span>
       <span class='ocrx_word' id='word_1_218' title='bbox 511 3804 609 3861; x_wconf 91'>ger</span>
-      <span class='ocrx_word' id='word_1_219' title='bbox 632 3779 887 3862; x_wconf 69'>(gibt).”</span>
+      <span class='ocrx_word' id='word_1_219' title='bbox 632 3779 887 3862; x_wconf 69'>(gibt).⁷⁵</span>
      </span>
     </p>
 
