@@ -108,7 +108,7 @@
       <span class='ocrx_word' id='word_1_67' title='bbox 520 1455 771 1529; x_wconf 91'>stehen,</span>
       <span class='ocrx_word' id='word_1_68' title='bbox 805 1454 945 1515; x_wconf 91'>ihre</span>
       <span class='ocrx_word' id='word_1_69' title='bbox 977 1454 1483 1535; x_wconf 90' lang='eng'>wahnsinnigen</span>
-      <span class='ocrx_word' id='word_1_70' title='bbox 1516 1454 1715 1514; x_wconf 92' lang='eng'>Plane</span>
+      <span class='ocrx_word' id='word_1_70' title='bbox 1516 1454 1715 1514; x_wconf 92' lang='eng'>Pläne</span>
       <span class='ocrx_word' id='word_1_71' title='bbox 1748 1454 2328 1535; x_wconf 91'>weiterverfolgen,</span>
       <span class='ocrx_word' id='word_1_72' title='bbox 2361 1454 2525 1514; x_wconf 91' lang='eng'>wird</span>
      </span>
@@ -183,7 +183,7 @@
       <span class='ocrx_word' id='word_1_122' title='bbox 1258 2338 1392 2377; x_wconf 91'>wer</span>
       <span class='ocrx_word' id='word_1_123' title='bbox 1433 2316 1538 2377; x_wconf 91'>die</span>
       <span class='ocrx_word' id='word_1_124' title='bbox 1582 2316 1770 2377; x_wconf 93'>Bank</span>
-      <span class='ocrx_word' id='word_1_125' title='bbox 1810 2316 1915 2377; x_wconf 92'>fur</span>
+      <span class='ocrx_word' id='word_1_125' title='bbox 1810 2316 1915 2377; x_wconf 92'>für</span>
       <span class='ocrx_word' id='word_1_126' title='bbox 1955 2316 2525 2377; x_wconf 89'>Internationalen</span>
      </span>
      <span class='ocr_line' id='line_1_18' title="bbox 306 2440 2524 2521; baseline 0 -21; x_size 82; x_descenders 21; x_ascenders 23">
@@ -210,7 +210,7 @@
       <span class='ocrx_word' id='word_1_143' title='bbox 980 2686 1467 2766; x_wconf 90'>Regierungen,</span>
       <span class='ocrx_word' id='word_1_144' title='bbox 1496 2686 1778 2747; x_wconf 88'>Medien</span>
       <span class='ocrx_word' id='word_1_145' title='bbox 1805 2687 1946 2747; x_wconf 90'>und</span>
-      <span class='ocrx_word' id='word_1_146' title='bbox 1975 2686 2393 2747; x_wconf 90'>Streitkrafte.</span>
+      <span class='ocrx_word' id='word_1_146' title='bbox 1975 2686 2393 2747; x_wconf 90'>Streitkräfte.</span>
      </span>
     </p>
 
@@ -256,7 +256,7 @@
       <span class='ocrx_word' id='word_1_172' title='bbox 1395 3176 1668 3237; x_wconf 90'>Worten</span>
       <span class='ocrx_word' id='word_1_173' title='bbox 1709 3198 1841 3237; x_wconf 91'>von</span>
       <span class='ocrx_word' id='word_1_174' title='bbox 1867 3177 2052 3256; x_wconf 92'>John</span>
-      <span class='ocrx_word' id='word_1_175' title='bbox 2095 3177 2147 3237; x_wconf 46' lang='deu'>EK</span>
+      <span class='ocrx_word' id='word_1_175' title='bbox 2095 3177 2147 3237; x_wconf 46' lang='deu'>F.</span>
       <span class='ocrx_word' id='word_1_176' title='bbox 2195 3177 2527 3257; x_wconf 89'>Kennedy</span>
      </span>
     </p>
@@ -307,11 +307,11 @@
     <p class='ocr_par' id='par_1_13' lang='eng' title="bbox 705 4032 2115 4113">
      <span class='ocr_line' id='line_1_29' title="bbox 705 4032 2115 4113; baseline 0.002 -22; x_size 80; x_descenders 20; x_ascenders 22">
       <span class='ocrx_word' id='word_1_195' title='bbox 705 4032 876 4092; x_wconf 92'>daher</span>
-      <span class='ocrx_word' id='word_1_196' title='bbox 896 4032 1108 4092; x_wconf 91'>konnen</span>
+      <span class='ocrx_word' id='word_1_196' title='bbox 896 4032 1108 4092; x_wconf 91'>können</span>
       <span class='ocrx_word' id='word_1_197' title='bbox 1134 4032 1213 4092; x_wconf 91'>sie</span>
       <span class='ocrx_word' id='word_1_198' title='bbox 1237 4054 1339 4092; x_wconf 92'>von</span>
       <span class='ocrx_word' id='word_1_199' title='bbox 1360 4033 1672 4093; x_wconf 92'>Menschen</span>
-      <span class='ocrx_word' id='word_1_200' title='bbox 1690 4033 1866 4113; x_wconf 83'>gelost</span>
+      <span class='ocrx_word' id='word_1_200' title='bbox 1690 4033 1866 4113; x_wconf 83'>gelöst</span>
       <span class='ocrx_word' id='word_1_201' title='bbox 1889 4034 2115 4094; x_wconf 91'>werden.</span>
      </span>
     </p>
