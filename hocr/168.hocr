@@ -262,7 +262,7 @@
       <span class='ocrx_word' id='word_1_190' title='bbox 864 3065 1116 3125; x_wconf 91'>treated</span>
       <span class='ocrx_word' id='word_1_191' title='bbox 1148 3086 1215 3124; x_wconf 91'>as</span>
       <span class='ocrx_word' id='word_1_192' title='bbox 1249 3087 1287 3124; x_wconf 92' lang='deu'>a</span>
-      <span class='ocrx_word' id='word_1_193' title='bbox 1320 3064 1416 3124; x_wconf 0'>sul</span>
+      <span class='ocrx_word' id='word_1_193' title='bbox 1320 3064 1416 3124; x_wconf 0'>sui</span>
       <span class='ocrx_word' id='word_1_194' title='bbox 1447 3064 1701 3144; x_wconf 90'>generis</span>
       <span class='ocrx_word' id='word_1_195' title='bbox 1733 3064 1909 3124; x_wconf 92'>form</span>
       <span class='ocrx_word' id='word_1_196' title='bbox 1942 3064 2020 3124; x_wconf 85'>of</span>
@@ -332,7 +332,7 @@
     <p class='ocr_par' id='par_1_7' lang='eng' title="bbox 341 3856 1204 3936">
      <span class='ocr_line' id='line_1_29' title="bbox 341 3856 1204 3936; baseline -0.003 -18; x_size 81; x_descenders 21; x_ascenders 22">
       <span class='ocrx_word' id='word_1_238' title='bbox 341 3857 670 3918; x_wconf 90'>securities</span>
-      <span class='ocrx_word' id='word_1_239' title='bbox 697 3856 1204 3936; x_wconf 37'>intermediary:.)</span>
+      <span class='ocrx_word' id='word_1_239' title='bbox 697 3856 1204 3936; x_wconf 37'>intermediary.)</span>
      </span>
     </p>
    </div>
