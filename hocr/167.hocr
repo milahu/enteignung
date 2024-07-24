@@ -82,7 +82,6 @@
       <span class='ocrx_word' id='word_1_42' title='bbox 315 1192 612 1252; x_wconf 91'>Nature</span>
       <span class='ocrx_word' id='word_1_43' title='bbox 640 1191 733 1252; x_wconf 91'>of</span>
       <span class='ocrx_word' id='word_1_44' title='bbox 759 1191 1012 1272; x_wconf 91'>rights</span>
-      <span class='ocrx_word' id='word_1_45' title='bbox 2280 1257 2283 1261; x_wconf 74' lang='eng'>|</span>
      </span>
     </p>
 
@@ -307,8 +306,7 @@
      </span>
      <span class='ocr_line' id='line_1_26' title="bbox 316 3706 2534 3785; baseline 0.002 -20; x_size 78; x_descenders 19; x_ascenders 21">
       <span class='ocrx_word' id='word_1_207' title='bbox 316 3727 486 3765; x_wconf 91'>sons.</span>
-      <span class='ocrx_word' id='word_1_208' title='bbox 533 3707 602 3766; x_wconf 92'>8-</span>
-      <span class='ocrx_word' id='word_1_209' title='bbox 656 3706 864 3785; x_wconf 92'>104(c)</span>
+      <span class='ocrx_word' id='word_1_208' title='bbox 533 3707 864 3766; x_wconf 92'>8-104(c)</span>
       <span class='ocrx_word' id='word_1_210' title='bbox 906 3706 1105 3766; x_wconf 56'>limits</span>
       <span class='ocrx_word' id='word_1_211' title='bbox 1148 3728 1236 3765; x_wconf 92' lang='deu'>an</span>
       <span class='ocrx_word' id='word_1_212' title='bbox 1278 3707 1700 3767; x_wconf 87'>entitlement</span>
