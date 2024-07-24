@@ -139,7 +139,7 @@
       <span class='ocrx_word' id='word_1_91' title='bbox 1485 1592 1680 1652; x_wconf 89'>result</span>
       <span class='ocrx_word' id='word_1_92' title='bbox 1715 1592 1793 1652; x_wconf 88'>of</span>
       <span class='ocrx_word' id='word_1_93' title='bbox 1829 1614 1868 1651; x_wconf 91' lang='deu'>a</span>
-      <span class='ocrx_word' id='word_1_94' title='bbox 1899 1591 2223 1672; x_wconf 42'>wrongtul</span>
+      <span class='ocrx_word' id='word_1_94' title='bbox 1899 1591 2223 1672; x_wconf 42'>wrongful</span>
       <span class='ocrx_word' id='word_1_95' title='bbox 2258 1592 2542 1652; x_wconf 92'>transfer.</span>
      </span>
      <span class='ocr_line' id='line_1_12' title="bbox 332 1714 2546 1795; baseline 0 -20; x_size 81; x_descenders 20; x_ascenders 23">
@@ -296,8 +296,7 @@
       <span class='ocrx_word' id='word_1_210' title='bbox 2143 3323 2545 3390; x_wconf 90'>agreement.</span>
      </span>
      <span class='ocr_line' id='line_1_25' title="bbox 333 3432 2547 3514; baseline 0 -19; x_size 80.970589; x_descenders 19.970589; x_ascenders 22.991228">
-      <span class='ocrx_word' id='word_1_211' title='bbox 333 3436 401 3495; x_wconf 88'>8-</span>
-      <span class='ocrx_word' id='word_1_212' title='bbox 456 3435 900 3514; x_wconf 86'>504(c)(1)-(2);</span>
+      <span class='ocrx_word' id='word_1_212' title='bbox 333 3435 900 3514; x_wconf 86'>8-504(c)(1)-(2);</span>
       <span class='ocrx_word' id='word_1_213' title='bbox 956 3434 1478 3513; x_wconf 84'>8-505(a)(1)-(2);</span>
       <span class='ocrx_word' id='word_1_214' title='bbox 1534 3433 1969 3512; x_wconf 87'>8-506(1)-(2);</span>
       <span class='ocrx_word' id='word_1_215' title='bbox 2025 3432 2547 3511; x_wconf 85'>8-507(a)(1)-(2);</span>
