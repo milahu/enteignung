@@ -28,7 +28,7 @@
       <span class='ocrx_word' id='word_1_6' title='bbox 961 479 1000 517; x_wconf 92' lang='deu'>a</span>
       <span class='ocrx_word' id='word_1_7' title='bbox 1034 470 1272 537; x_wconf 92' lang='deu'>system</span>
       <span class='ocrx_word' id='word_1_8' title='bbox 1307 457 1516 518; x_wconf 92' lang='deu'>called</span>
-      <span class='ocrx_word' id='word_1_9' title='bbox 1553 458 1917 537; x_wconf 55'>““Ireasury</span>
+      <span class='ocrx_word' id='word_1_9' title='bbox 1553 458 1917 537; x_wconf 55'>“Treasury</span>
       <span class='ocrx_word' id='word_1_10' title='bbox 1949 458 2215 518; x_wconf 91' lang='deu'>Direct”</span>
       <span class='ocrx_word' id='word_1_11' title='bbox 2250 458 2467 518; x_wconf 92' lang='deu'>which</span>
       <span class='ocrx_word' id='word_1_12' title='bbox 2501 458 2550 518; x_wconf 84' lang='deu'>is</span>
@@ -46,12 +46,12 @@
       <span class='ocrx_word' id='word_1_22' title='bbox 2440 581 2549 641; x_wconf 92'>the</span>
      </span>
      <span class='ocr_line' id='line_1_4' title="bbox 334 704 2411 785; baseline 0.001 -22; x_size 81; x_descenders 21; x_ascenders 22">
-      <span class='ocrx_word' id='word_1_23' title='bbox 334 704 659 784; x_wconf 59' lang='deu'>Ireasury</span>
+      <span class='ocrx_word' id='word_1_23' title='bbox 334 704 659 784; x_wconf 59' lang='deu'>Treasury</span>
       <span class='ocrx_word' id='word_1_24' title='bbox 685 704 1082 785; x_wconf 91' lang='deu'>regulations</span>
       <span class='ocrx_word' id='word_1_25' title='bbox 1109 704 1211 765; x_wconf 93' lang='deu'>for</span>
       <span class='ocrx_word' id='word_1_26' title='bbox 1236 704 1599 765; x_wconf 90'>TRADES</span>
       <span class='ocrx_word' id='word_1_27' title='bbox 1629 727 1705 765; x_wconf 86' lang='deu'>or</span>
-      <span class='ocrx_word' id='word_1_28' title='bbox 1734 705 2098 785; x_wconf 85'>“Ireasury</span>
+      <span class='ocrx_word' id='word_1_28' title='bbox 1734 705 2098 785; x_wconf 85'>“Treasury</span>
       <span class='ocrx_word' id='word_1_29' title='bbox 2123 704 2411 765; x_wconf 90'>Direct.”</span>
      </span>
     </p>
@@ -108,7 +108,7 @@
      <span class='ocr_line' id='line_1_9' title="bbox 335 1291 2552 1406; baseline 0 -26; x_size 81; x_descenders 21; x_ascenders 22">
       <span class='ocrx_word' id='word_1_70' title='bbox 335 1321 472 1381; x_wconf 91'>and</span>
       <span class='ocrx_word' id='word_1_71' title='bbox 510 1343 763 1401; x_wconf 91'>among</span>
-      <span class='ocrx_word' id='word_1_72' title='bbox 800 1293 1092 1401; x_wconf 68' lang='deu'>cleäring</span>
+      <span class='ocrx_word' id='word_1_72' title='bbox 800 1293 1092 1401; x_wconf 68' lang='deu'>clearing</span>
       <span class='ocrx_word' id='word_1_73' title='bbox 1129 1317 1612 1406; x_wconf 88'>corporations,</span>
       <span class='ocrx_word' id='word_1_74' title='bbox 1653 1291 1943 1396; x_wconf 67'>brbkers,</span>
       <span class='ocrx_word' id='word_1_75' title='bbox 1985 1343 2062 1381; x_wconf 92'>or</span>
@@ -262,7 +262,7 @@
       <span class='ocrx_word' id='word_1_178' title='bbox 1385 3100 1645 3181; x_wconf 92'>specific</span>
       <span class='ocrx_word' id='word_1_179' title='bbox 1671 3100 2006 3180; x_wconf 92'>questions</span>
       <span class='ocrx_word' id='word_1_180' title='bbox 2031 3100 2261 3180; x_wconf 92'>posed,</span>
-      <span class='ocrx_word' id='word_1_181' title='bbox 2288 3100 2383 3160; x_wconf 77'>1t’s</span>
+      <span class='ocrx_word' id='word_1_181' title='bbox 2288 3100 2383 3160; x_wconf 77'>it’s</span>
       <span class='ocrx_word' id='word_1_182' title='bbox 2409 3122 2551 3160; x_wconf 91'>use-</span>
      </span>
      <span class='ocr_line' id='line_1_23' title="bbox 335 3209 2552 3304; baseline -0.001 -20; x_size 80; x_descenders 20; x_ascenders 22">
