@@ -106,7 +106,7 @@
      </span>
      <span class='ocr_line' id='line_1_8' title="bbox 332 1240 2547 1320; baseline 0 -20; x_size 80; x_descenders 20; x_ascenders 22">
       <span class='ocrx_word' id='word_1_66' title='bbox 332 1253 617 1300; x_wconf 91'>account</span>
-      <span class='ocrx_word' id='word_1_67' title='bbox 650 1240 718 1299; x_wconf 84'>1n</span>
+      <span class='ocrx_word' id='word_1_67' title='bbox 650 1240 718 1299; x_wconf 84'>in</span>
       <span class='ocrx_word' id='word_1_68' title='bbox 752 1254 1006 1320; x_wconf 90'>respect</span>
       <span class='ocrx_word' id='word_1_69' title='bbox 1039 1253 1105 1300; x_wconf 92'>to</span>
       <span class='ocrx_word' id='word_1_70' title='bbox 1140 1240 1346 1300; x_wconf 90'>credit</span>
@@ -181,7 +181,7 @@
      </span>
      <span class='ocr_line' id='line_1_14' title="bbox 331 2101 2548 2181; baseline -0 -19; x_size 79; x_descenders 19; x_ascenders 23">
       <span class='ocrx_word' id='word_1_117' title='bbox 331 2102 457 2176; x_wconf 92'>and,</span>
-      <span class='ocrx_word' id='word_1_118' title='bbox 495 2102 558 2181; x_wconf 41'>1if</span>
+      <span class='ocrx_word' id='word_1_118' title='bbox 495 2102 558 2181; x_wconf 41'>if</span>
       <span class='ocrx_word' id='word_1_119' title='bbox 582 2124 652 2175; x_wconf 76'>so,</span>
       <span class='ocrx_word' id='word_1_120' title='bbox 690 2101 854 2161; x_wconf 91'>how?</span>
       <span class='ocrx_word' id='word_1_121' title='bbox 876 2102 1030 2161; x_wconf 92'>Does</span>
@@ -199,7 +199,7 @@
      <span class='ocr_line' id='line_1_15' title="bbox 332 2224 2548 2304; baseline -0 -19; x_size 80; x_descenders 20; x_ascenders 22">
       <span class='ocrx_word' id='word_1_132' title='bbox 332 2235 483 2285; x_wconf 92'>court</span>
       <span class='ocrx_word' id='word_1_133' title='bbox 505 2247 565 2285; x_wconf 92' lang='deu'>or</span>
-      <span class='ocrx_word' id='word_1_134' title='bbox 588 2225 920 2304; x_wconf 54'>hiquidator?</span>
+      <span class='ocrx_word' id='word_1_134' title='bbox 588 2225 920 2304; x_wconf 54'>liquidator?</span>
       <span class='ocrx_word' id='word_1_135' title='bbox 938 2225 1007 2285; x_wconf 93' lang='deu'>In</span>
       <span class='ocrx_word' id='word_1_136' title='bbox 1033 2225 1189 2284; x_wconf 91'>what</span>
       <span class='ocrx_word' id='word_1_137' title='bbox 1210 2247 1335 2304; x_wconf 91'>way</span>
@@ -343,7 +343,8 @@
 
     <p class='ocr_par' id='par_1_10' lang='deu' title="bbox 430 3751 2554 3832">
      <span class='ocr_line' id='line_1_27' title="bbox 430 3751 2554 3832; baseline -0.002 -18; x_size 79; x_descenders 20; x_ascenders 22">
-      <span class='ocrx_word' id='word_1_243' title='bbox 430 3755 486 3813; x_wconf 91'>if</span>
+      <!-- fixed: if -> If -->
+      <span class='ocrx_word' id='word_1_243' title='bbox 430 3755 486 3813; x_wconf 91'>If</span>
       <span class='ocrx_word' id='word_1_244' title='bbox 521 3777 559 3814; x_wconf 92'>a</span>
       <span class='ocrx_word' id='word_1_245' title='bbox 593 3754 920 3814; x_wconf 88' lang='eng'>securities</span>
       <span class='ocrx_word' id='word_1_246' title='bbox 954 3753 1431 3832; x_wconf 87' lang='eng'>intermediary</span>
