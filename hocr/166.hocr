@@ -91,7 +91,7 @@
       <span class='ocrx_word' id='word_1_48' title='bbox 576 1193 637 1230; x_wconf 93'>or</span>
       <span class='ocrx_word' id='word_1_49' title='bbox 662 1171 828 1251; x_wconf 91' lang='eng'>entity</span>
       <span class='ocrx_word' id='word_1_50' title='bbox 860 1171 985 1231; x_wconf 92' lang='eng'>who</span>
-      <span class='ocrx_word' id='word_1_51' title='bbox 1017 1171 1066 1231; x_wconf 36' lang='eng'>1s</span>
+      <span class='ocrx_word' id='word_1_51' title='bbox 1017 1171 1066 1231; x_wconf 36' lang='eng'>is</span>
       <span class='ocrx_word' id='word_1_52' title='bbox 1095 1171 1281 1251; x_wconf 91' lang='eng'>acting</span>
       <span class='ocrx_word' id='word_1_53' title='bbox 1309 1194 1377 1231; x_wconf 93'>on</span>
       <span class='ocrx_word' id='word_1_54' title='bbox 1411 1171 1615 1250; x_wconf 88' lang='eng'>behalf</span>
@@ -107,7 +107,7 @@
       <span class='ocrx_word' id='word_1_62' title='bbox 524 1294 598 1373; x_wconf 82' lang='eng'>of</span>
       <span class='ocrx_word' id='word_1_63' title='bbox 620 1294 705 1354; x_wconf 82' lang='eng'>the</span>
       <span class='ocrx_word' id='word_1_64' title='bbox 729 1294 879 1354; x_wconf 92' lang='eng'>other</span>
-      <span class='ocrx_word' id='word_1_65' title='bbox 901 1294 949 1354; x_wconf 71' lang='eng'>1s</span>
+      <span class='ocrx_word' id='word_1_65' title='bbox 901 1294 949 1354; x_wconf 71' lang='eng'>is</span>
       <span class='ocrx_word' id='word_1_66' title='bbox 973 1304 1068 1354; x_wconf 91' lang='eng'>not</span>
       <span class='ocrx_word' id='word_1_67' title='bbox 1090 1294 1372 1355; x_wconf 86' lang='eng'>indicated</span>
       <span class='ocrx_word' id='word_1_68' title='bbox 1392 1295 1510 1355; x_wconf 90' lang='eng'>and</span>
@@ -124,7 +124,7 @@
       <span class='ocrx_word' id='word_1_77' title='bbox 610 1418 684 1498; x_wconf 86' lang='eng'>of</span>
       <span class='ocrx_word' id='word_1_78' title='bbox 711 1418 797 1478; x_wconf 86' lang='eng'>the</span>
       <span class='ocrx_word' id='word_1_79' title='bbox 825 1418 976 1478; x_wconf 90' lang='eng'>other</span>
-      <span class='ocrx_word' id='word_1_80' title='bbox 1002 1418 1050 1478; x_wconf 57' lang='eng'>1s</span>
+      <span class='ocrx_word' id='word_1_80' title='bbox 1002 1418 1050 1478; x_wconf 57' lang='eng'>is</span>
       <span class='ocrx_word' id='word_1_81' title='bbox 1079 1418 1392 1479; x_wconf 87' lang='eng'>indicated?</span>
       <span class='ocrx_word' id='word_1_82' title='bbox 1412 1419 1566 1499; x_wconf 90' lang='eng'>May</span>
       <span class='ocrx_word' id='word_1_83' title='bbox 1598 1419 1683 1479; x_wconf 92' lang='eng'>the</span>
@@ -168,7 +168,7 @@
      <span class='ocr_line' id='line_1_12' title="bbox 353 1787 2575 1868; baseline 0 -21; x_size 79; x_descenders 19; x_ascenders 22">
       <span class='ocrx_word' id='word_1_116' title='bbox 353 1787 519 1868; x_wconf 83' lang='eng'>entity</span>
       <span class='ocrx_word' id='word_1_117' title='bbox 556 1788 681 1848; x_wconf 91' lang='eng'>who</span>
-      <span class='ocrx_word' id='word_1_118' title='bbox 719 1788 768 1848; x_wconf 49' lang='eng'>1s</span>
+      <span class='ocrx_word' id='word_1_118' title='bbox 719 1788 768 1848; x_wconf 49' lang='eng'>is</span>
       <span class='ocrx_word' id='word_1_119' title='bbox 803 1787 990 1867; x_wconf 92' lang='eng'>acting</span>
       <span class='ocrx_word' id='word_1_120' title='bbox 1023 1810 1090 1847; x_wconf 92'>on</span>
       <span class='ocrx_word' id='word_1_121' title='bbox 1130 1788 1336 1867; x_wconf 88' lang='eng'>behalf</span>
@@ -211,7 +211,7 @@
      <span class='ocr_line' id='line_1_15' title="bbox 351 2156 2570 2248; baseline 0 -31; x_size 80; x_descenders 20; x_ascenders 22">
       <span class='ocrx_word' id='word_1_153' title='bbox 351 2157 630 2217; x_wconf 16' lang='eng'>securities</span>
       <span class='ocrx_word' id='word_1_154' title='bbox 653 2167 888 2217; x_wconf 92' lang='eng'>account</span>
-      <span class='ocrx_word' id='word_1_155' title='bbox 910 2157 958 2217; x_wconf 56' lang='eng'>1s</span>
+      <span class='ocrx_word' id='word_1_155' title='bbox 910 2157 958 2217; x_wconf 56' lang='eng'>is</span>
       <span class='ocrx_word' id='word_1_156' title='bbox 982 2157 1218 2217; x_wconf 62' lang='eng'>creduted</span>
       <span class='ocrx_word' id='word_1_157' title='bbox 1243 2157 1329 2236; x_wconf 39' lang='eng'>(if</span>
       <span class='ocrx_word' id='word_1_158' title='bbox 1349 2156 1602 2237; x_wconf 55' lang='eng'>dufferent</span>
@@ -243,7 +243,7 @@
       <span class='ocrx_word' id='word_1_180' title='bbox 867 2404 1096 2464; x_wconf 88' lang='eng'>disclose</span>
       <span class='ocrx_word' id='word_1_181' title='bbox 1121 2404 1363 2464; x_wconf 91' lang='eng'>whether</span>
       <span class='ocrx_word' id='word_1_182' title='bbox 1385 2404 1429 2464; x_wconf 91' lang='eng'>1t</span>
-      <span class='ocrx_word' id='word_1_183' title='bbox 1452 2404 1500 2464; x_wconf 74' lang='eng'>1s</span>
+      <span class='ocrx_word' id='word_1_183' title='bbox 1452 2404 1500 2464; x_wconf 74' lang='eng'>is</span>
       <span class='ocrx_word' id='word_1_184' title='bbox 1524 2404 1711 2484; x_wconf 93' lang='eng'>acting</span>
       <span class='ocrx_word' id='word_1_185' title='bbox 1733 2427 1801 2464; x_wconf 93'>on</span>
       <span class='ocrx_word' id='word_1_186' title='bbox 1829 2404 2034 2484; x_wconf 78' lang='eng'>behalf</span>

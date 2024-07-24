@@ -90,7 +90,7 @@
      </span>
      <span class='ocr_line' id='line_1_8' title="bbox 304 1248 2521 1329; baseline -0 -20; x_size 81; x_descenders 21; x_ascenders 22">
       <span class='ocrx_word' id='word_1_49' title='bbox 304 1249 414 1309; x_wconf 92'>the</span>
-      <span class='ocrx_word' id='word_1_50' title='bbox 440 1249 661 1323; x_wconf 54'>1ssuer;</span>
+      <span class='ocrx_word' id='word_1_50' title='bbox 440 1249 661 1323; x_wconf 54'>issuer;</span>
       <span class='ocrx_word' id='word_1_51' title='bbox 688 1249 1003 1323; x_wconf 90'>however,</span>
       <span class='ocrx_word' id='word_1_52' title='bbox 1030 1249 1140 1309; x_wconf 91'>the</span>
       <span class='ocrx_word' id='word_1_53' title='bbox 1167 1248 1495 1309; x_wconf 91'>securities</span>
@@ -199,7 +199,7 @@
     <p class='ocr_par' id='par_1_5' lang='eng' title="bbox 305 2355 2234 2431">
      <span class='ocr_line' id='line_1_17' title="bbox 305 2355 2234 2431; baseline 0.001 -15; x_size 75; x_descenders 15; x_ascenders 22">
       <span class='ocrx_word' id='word_1_136' title='bbox 305 2356 414 2416; x_wconf 93'>the</span>
-      <span class='ocrx_word' id='word_1_137' title='bbox 442 2356 646 2416; x_wconf 80'>1ssuer</span>
+      <span class='ocrx_word' id='word_1_137' title='bbox 442 2356 646 2416; x_wconf 80'>issuer</span>
       <span class='ocrx_word' id='word_1_138' title='bbox 672 2356 751 2416; x_wconf 82'>of</span>
       <span class='ocrx_word' id='word_1_139' title='bbox 779 2356 888 2416; x_wconf 82'>the</span>
       <span class='ocrx_word' id='word_1_140' title='bbox 915 2355 1227 2416; x_wconf 90'>financial</span>
@@ -236,7 +236,7 @@
       <span class='ocrx_word' id='word_1_163' title='bbox 2357 2675 2523 2721; x_wconf 93'>asset</span>
      </span>
      <span class='ocr_line' id='line_1_20' title="bbox 304 2783 2521 2864; baseline 0.001 -22; x_size 81; x_descenders 21; x_ascenders 22">
-      <span class='ocrx_word' id='word_1_164' title='bbox 304 2783 353 2843; x_wconf 87'>1s</span>
+      <span class='ocrx_word' id='word_1_164' title='bbox 304 2783 353 2843; x_wconf 87'>is</span>
       <span class='ocrx_word' id='word_1_165' title='bbox 385 2805 423 2842; x_wconf 92' lang='deu'>a</span>
       <span class='ocrx_word' id='word_1_166' title='bbox 453 2783 782 2843; x_wconf 76'>securities</span>
       <span class='ocrx_word' id='word_1_167' title='bbox 813 2783 1266 2863; x_wconf 89'>entitlement).</span>

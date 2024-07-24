@@ -47,7 +47,7 @@
      </span>
      <span class='ocr_line' id='line_1_4' title="bbox 278 724 2494 805; baseline -0.001 -20; x_size 81; x_descenders 21; x_ascenders 22">
       <span class='ocrx_word' id='word_1_23' title='bbox 278 726 531 786; x_wconf 88'>counts’</span>
-      <span class='ocrx_word' id='word_1_24' title='bbox 560 725 608 785; x_wconf 80'>1s</span>
+      <span class='ocrx_word' id='word_1_24' title='bbox 560 725 608 785; x_wconf 80'>is</span>
       <span class='ocrx_word' id='word_1_25' title='bbox 636 724 1060 805; x_wconf 91'>accordingly</span>
       <span class='ocrx_word' id='word_1_26' title='bbox 1084 738 1151 784; x_wconf 91'>to</span>
       <span class='ocrx_word' id='word_1_27' title='bbox 1177 724 1260 784; x_wconf 91'>be</span>
@@ -230,7 +230,7 @@
       <span class='ocrx_word' id='word_1_155' title='bbox 279 2754 358 2814; x_wconf 90' lang='deu'>of</span>
       <span class='ocrx_word' id='word_1_156' title='bbox 380 2755 622 2814; x_wconf 91'>Article</span>
       <span class='ocrx_word' id='word_1_157' title='bbox 649 2755 687 2814; x_wconf 79'>9</span>
-      <span class='ocrx_word' id='word_1_158' title='bbox 712 2754 762 2814; x_wconf 65'>1s</span>
+      <span class='ocrx_word' id='word_1_158' title='bbox 712 2754 762 2814; x_wconf 65'>is</span>
       <span class='ocrx_word' id='word_1_159' title='bbox 790 2753 1122 2814; x_wconf 84'>“Secured</span>
       <span class='ocrx_word' id='word_1_160' title='bbox 1145 2754 1671 2814; x_wconf 85'>Transactions.”</span>
       <span class='ocrx_word' id='word_1_161' title='bbox 1696 2755 1939 2815; x_wconf 92'>Article</span>
@@ -253,7 +253,7 @@
      <span class='ocr_line' id='line_1_21' title="bbox 281 2999 2495 3081; baseline 0 -21; x_size 82; x_descenders 21; x_ascenders 23">
       <span class='ocrx_word' id='word_1_175' title='bbox 281 2999 489 3060; x_wconf 92'>States</span>
       <span class='ocrx_word' id='word_1_176' title='bbox 519 3000 844 3080; x_wconf 89'>Treasury</span>
-      <span class='ocrx_word' id='word_1_177' title='bbox 871 2999 1069 3060; x_wconf 60'>1ssues</span>
+      <span class='ocrx_word' id='word_1_177' title='bbox 871 2999 1069 3060; x_wconf 60'>issues</span>
       <span class='ocrx_word' id='word_1_178' title='bbox 1101 3000 1429 3060; x_wconf 92'>securities</span>
       <span class='ocrx_word' id='word_1_179' title='bbox 1459 3000 1748 3081; x_wconf 92'>through</span>
       <span class='ocrx_word' id='word_1_180' title='bbox 1778 3001 1887 3061; x_wconf 91'>the</span>

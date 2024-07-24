@@ -38,7 +38,7 @@
    <div class='ocr_carea' id='block_1_4' title="bbox 329 549 1782 638">
     <p class='ocr_par' id='par_1_3' lang='eng' title="bbox 329 549 1782 638">
      <span class='ocr_line' id='line_1_3' title="bbox 329 549 1782 638; baseline 0.001 -29; x_size 67.402596; x_descenders 7.4025974; x_ascenders 22">
-      <span class='ocrx_word' id='word_1_13' title='bbox 329 549 378 609; x_wconf 68'>1s</span>
+      <span class='ocrx_word' id='word_1_13' title='bbox 329 549 378 609; x_wconf 68'>is</span>
       <span class='ocrx_word' id='word_1_14' title='bbox 406 562 525 609; x_wconf 87'>not</span>
       <span class='ocrx_word' id='word_1_15' title='bbox 552 571 638 609; x_wconf 96' lang='deu'>an</span>
       <span class='ocrx_word' id='word_1_16' title='bbox 665 549 863 638; x_wconf 80'>order</span>

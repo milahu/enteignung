@@ -59,7 +59,7 @@
     <p class='ocr_par' id='par_1_3' lang='eng' title="bbox 334 828 2552 2388">
      <span class='ocr_line' id='line_1_5' title="bbox 429 828 2549 909; baseline 0.001 -22; x_size 80; x_descenders 20; x_ascenders 22">
       <span class='ocrx_word' id='word_1_30' title='bbox 429 828 486 888; x_wconf 92'>It</span>
-      <span class='ocrx_word' id='word_1_31' title='bbox 514 828 563 889; x_wconf 91'>1s</span>
+      <span class='ocrx_word' id='word_1_31' title='bbox 514 828 563 889; x_wconf 91'>is</span>
       <span class='ocrx_word' id='word_1_32' title='bbox 593 828 963 908; x_wconf 90' lang='deu'>important</span>
       <span class='ocrx_word' id='word_1_33' title='bbox 992 841 1060 888; x_wconf 92' lang='deu'>to</span>
       <span class='ocrx_word' id='word_1_34' title='bbox 1090 850 1342 908; x_wconf 92' lang='deu'>convey</span>
@@ -293,7 +293,7 @@
      </span>
      <span class='ocr_line' id='line_1_25' title="bbox 338 3467 2552 3547; baseline -0.001 -19; x_size 79; x_descenders 20; x_ascenders 22">
       <span class='ocrx_word' id='word_1_205' title='bbox 338 3470 661 3529; x_wconf 79'>account”</span>
-      <span class='ocrx_word' id='word_1_206' title='bbox 690 3469 739 3528; x_wconf 83'>1s</span>
+      <span class='ocrx_word' id='word_1_206' title='bbox 690 3469 739 3528; x_wconf 83'>is</span>
       <span class='ocrx_word' id='word_1_207' title='bbox 767 3468 1163 3528; x_wconf 92'>established</span>
       <span class='ocrx_word' id='word_1_208' title='bbox 1187 3468 1273 3547; x_wconf 93'>by</span>
       <span class='ocrx_word' id='word_1_209' title='bbox 1299 3480 1684 3547; x_wconf 92'>agreement</span>

@@ -137,7 +137,7 @@
       <span class='ocrx_word' id='word_1_95' title='bbox 433 1708 519 1746; x_wconf 93'>an</span>
       <span class='ocrx_word' id='word_1_96' title='bbox 549 1686 946 1747; x_wconf 80' lang='eng'>instrument</span>
       <span class='ocrx_word' id='word_1_97' title='bbox 973 1686 1190 1747; x_wconf 92' lang='eng'>which</span>
-      <span class='ocrx_word' id='word_1_98' title='bbox 1220 1686 1269 1746; x_wconf 42' lang='eng'>1s</span>
+      <span class='ocrx_word' id='word_1_98' title='bbox 1220 1686 1269 1746; x_wconf 42' lang='eng'>is</span>
       <span class='ocrx_word' id='word_1_99' title='bbox 1301 1708 1340 1746; x_wconf 93'>a</span>
       <span class='ocrx_word' id='word_1_100' title='bbox 1367 1686 1680 1746; x_wconf 89' lang='eng'>financial</span>
       <span class='ocrx_word' id='word_1_101' title='bbox 1711 1699 1897 1761; x_wconf 92' lang='eng'>asset,</span>
@@ -224,7 +224,7 @@
      </span>
      <span class='ocr_line' id='line_1_20' title="bbox 322 2795 2537 2876; baseline 0.001 -22; x_size 81; x_descenders 21; x_ascenders 22">
       <span class='ocrx_word' id='word_1_160' title='bbox 322 2795 781 2875; x_wconf 91'>requirement</span>
-      <span class='ocrx_word' id='word_1_161' title='bbox 812 2795 863 2855; x_wconf 82'>1s</span>
+      <span class='ocrx_word' id='word_1_161' title='bbox 812 2795 863 2855; x_wconf 82'>is</span>
       <span class='ocrx_word' id='word_1_162' title='bbox 897 2795 1000 2855; x_wconf 90'>for</span>
       <span class='ocrx_word' id='word_1_163' title='bbox 1035 2796 1114 2855; x_wconf 92' lang='deu'>“a</span>
       <span class='ocrx_word' id='word_1_164' title='bbox 1149 2795 1445 2875; x_wconf 91'>clearing</span>

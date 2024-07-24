@@ -109,7 +109,7 @@
      </span>
      <span class='ocr_line' id='line_1_9' title="bbox 302 1527 1758 1608; baseline 0 -20; x_size 81; x_descenders 20; x_ascenders 23">
       <span class='ocrx_word' id='word_1_63' title='bbox 302 1528 478 1588; x_wconf 91'>What</span>
-      <span class='ocrx_word' id='word_1_64' title='bbox 501 1528 549 1588; x_wconf 47'>1s</span>
+      <span class='ocrx_word' id='word_1_64' title='bbox 501 1528 549 1588; x_wconf 47'>is</span>
       <span class='ocrx_word' id='word_1_65' title='bbox 576 1528 661 1589; x_wconf 92'>the</span>
       <span class='ocrx_word' id='word_1_66' title='bbox 685 1528 839 1608; x_wconf 92'>effect</span>
       <span class='ocrx_word' id='word_1_67' title='bbox 862 1528 935 1607; x_wconf 87'>of</span>
@@ -126,7 +126,7 @@
       <span class='ocrx_word' id='word_1_72' title='bbox 290 1709 532 1770; x_wconf 90'>Article</span>
       <span class='ocrx_word' id='word_1_73' title='bbox 563 1710 602 1770; x_wconf 92'>8</span>
       <span class='ocrx_word' id='word_1_74' title='bbox 629 1709 943 1769; x_wconf 90'>validates</span>
-      <span class='ocrx_word' id='word_1_75' title='bbox 971 1709 1223 1769; x_wconf 81'>1ssuer’s</span>
+      <span class='ocrx_word' id='word_1_75' title='bbox 971 1709 1223 1769; x_wconf 81'>issuer’s</span>
       <span class='ocrx_word' id='word_1_76' title='bbox 1252 1708 1648 1769; x_wconf 92'>restrictions</span>
       <span class='ocrx_word' id='word_1_77' title='bbox 1677 1731 1767 1769; x_wconf 93' lang='deu'>on</span>
       <span class='ocrx_word' id='word_1_78' title='bbox 1795 1708 2092 1784; x_wconf 82'>transfer;</span>
@@ -171,7 +171,7 @@
      <span class='ocr_line' id='line_1_14' title="bbox 294 2325 2518 2405; baseline -0 -19; x_size 79; x_descenders 19; x_ascenders 23">
       <span class='ocrx_word' id='word_1_102' title='bbox 294 2326 424 2404; x_wconf 81'>(55)</span>
       <span class='ocrx_word' id='word_1_103' title='bbox 454 2326 616 2386; x_wconf 84' lang='eng'>How</span>
-      <span class='ocrx_word' id='word_1_104' title='bbox 646 2325 696 2385; x_wconf 81' lang='eng'>1s</span>
+      <span class='ocrx_word' id='word_1_104' title='bbox 646 2325 696 2385; x_wconf 81' lang='eng'>is</span>
       <span class='ocrx_word' id='word_1_105' title='bbox 724 2325 769 2385; x_wconf 85' lang='eng'>1t</span>
       <span class='ocrx_word' id='word_1_106' title='bbox 794 2325 1022 2404; x_wconf 91' lang='eng'>effected</span>
       <span class='ocrx_word' id='word_1_107' title='bbox 1047 2325 1169 2385; x_wconf 92' lang='eng'>that</span>

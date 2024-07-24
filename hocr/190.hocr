@@ -36,7 +36,7 @@
      <span class='ocr_line' id='line_1_3' title="bbox 303 687 2523 767; baseline 0.001 -20; x_size 80; x_descenders 20; x_ascenders 22">
       <span class='ocrx_word' id='word_1_9' title='bbox 303 688 431 767; x_wconf 91'>(36)</span>
       <span class='ocrx_word' id='word_1_10' title='bbox 465 688 625 748; x_wconf 90'>How</span>
-      <span class='ocrx_word' id='word_1_11' title='bbox 658 687 706 747; x_wconf 56' lang='eng'>1s</span>
+      <span class='ocrx_word' id='word_1_11' title='bbox 658 687 706 747; x_wconf 56' lang='eng'>is</span>
       <span class='ocrx_word' id='word_1_12' title='bbox 739 688 782 747; x_wconf 82' lang='eng'>1t</span>
       <span class='ocrx_word' id='word_1_13' title='bbox 811 688 1041 748; x_wconf 91' lang='eng'>ensured</span>
       <span class='ocrx_word' id='word_1_14' title='bbox 1070 688 1188 748; x_wconf 91' lang='eng'>that</span>
@@ -190,7 +190,7 @@
     <p class='ocr_par' id='par_1_11' lang='eng' title="bbox 301 2462 2517 2543">
      <span class='ocr_line' id='line_1_14' title="bbox 301 2462 2517 2543; baseline 0 -20; x_size 80; x_descenders 20; x_ascenders 22">
       <span class='ocrx_word' id='word_1_110' title='bbox 301 2463 450 2523; x_wconf 90'>The</span>
-      <span class='ocrx_word' id='word_1_111' title='bbox 474 2463 725 2523; x_wconf 65'>1ssuer’s</span>
+      <span class='ocrx_word' id='word_1_111' title='bbox 474 2463 725 2523; x_wconf 65'>issuer’s</span>
       <span class='ocrx_word' id='word_1_112' title='bbox 737 2463 1156 2543; x_wconf 83'>jurisdiction</span>
       <span class='ocrx_word' id='word_1_113' title='bbox 1179 2463 1228 2523; x_wconf 91' lang='deu'>is</span>
       <span class='ocrx_word' id='word_1_114' title='bbox 1253 2476 1371 2523; x_wconf 92'>not</span>
@@ -252,7 +252,7 @@
       <span class='ocrx_word' id='word_1_145' title='bbox 303 3257 445 3336; x_wconf 56'>rewgn</span>
       <span class='ocrx_word' id='word_1_146' title='bbox 480 3257 593 3316; x_wconf 77'>law</span>
       <span class='ocrx_word' id='word_1_147' title='bbox 631 3256 716 3334; x_wconf 4'>(1)</span>
-      <span class='ocrx_word' id='word_1_148' title='bbox 754 3257 940 3316; x_wconf 43'>1ssued</span>
+      <span class='ocrx_word' id='word_1_148' title='bbox 754 3257 940 3316; x_wconf 43'>issued</span>
       <span class='ocrx_word' id='word_1_149' title='bbox 968 3257 1033 3335; x_wconf 92'>by</span>
       <span class='ocrx_word' id='word_1_150' title='bbox 1066 3279 1100 3316; x_wconf 89'>a</span>
       <span class='ocrx_word' id='word_1_151' title='bbox 1109 3256 1330 3334; x_wconf 88'>foreign</span>

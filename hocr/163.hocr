@@ -23,7 +23,7 @@
     <p class='ocr_par' id='par_1_2' lang='deu' title="bbox 270 482 2489 1797">
      <span class='ocr_line' id='line_1_2' title="bbox 270 482 2487 565; baseline 0 -21; x_size 83; x_descenders 21; x_ascenders 22">
       <span class='ocrx_word' id='word_1_3' title='bbox 270 484 607 565; x_wconf 84'>mediary”</span>
-      <span class='ocrx_word' id='word_1_4' title='bbox 635 483 684 545; x_wconf 53' lang='eng'>1s</span>
+      <span class='ocrx_word' id='word_1_4' title='bbox 635 483 684 545; x_wconf 53' lang='eng'>is</span>
       <span class='ocrx_word' id='word_1_5' title='bbox 710 506 749 545; x_wconf 93'>a</span>
       <span class='ocrx_word' id='word_1_6' title='bbox 771 505 1016 565; x_wconf 93'>person</span>
       <span class='ocrx_word' id='word_1_7' title='bbox 1040 483 1108 543; x_wconf 92'>in</span>
@@ -44,7 +44,7 @@
       <span class='ocrx_word' id='word_1_20' title='bbox 1560 629 1636 667; x_wconf 93'>or</span>
       <span class='ocrx_word' id='word_1_21' title='bbox 1659 607 1907 682; x_wconf 92'>broker,</span>
       <span class='ocrx_word' id='word_1_22' title='bbox 1938 606 2074 667; x_wconf 92' lang='eng'>and</span>
-      <span class='ocrx_word' id='word_1_23' title='bbox 2098 606 2147 667; x_wconf 54' lang='eng'>1s</span>
+      <span class='ocrx_word' id='word_1_23' title='bbox 2098 606 2147 667; x_wconf 54' lang='eng'>is</span>
       <span class='ocrx_word' id='word_1_24' title='bbox 2175 606 2396 687; x_wconf 91' lang='eng'>acting</span>
       <span class='ocrx_word' id='word_1_25' title='bbox 2419 606 2487 665; x_wconf 67' lang='eng'>in</span>
      </span>
@@ -114,7 +114,7 @@
       <span class='ocrx_word' id='word_1_78' title='bbox 271 1369 357 1407; x_wconf 93'>an</span>
       <span class='ocrx_word' id='word_1_79' title='bbox 391 1347 843 1408; x_wconf 84' lang='eng'>“entitlement</span>
       <span class='ocrx_word' id='word_1_80' title='bbox 872 1347 1145 1408; x_wconf 90' lang='eng'>holder”</span>
-      <span class='ocrx_word' id='word_1_81' title='bbox 1178 1347 1227 1407; x_wconf 81' lang='eng'>1s</span>
+      <span class='ocrx_word' id='word_1_81' title='bbox 1178 1347 1227 1407; x_wconf 81' lang='eng'>is</span>
       <span class='ocrx_word' id='word_1_82' title='bbox 1259 1347 1368 1407; x_wconf 92' lang='eng'>the</span>
       <span class='ocrx_word' id='word_1_83' title='bbox 1398 1369 1643 1428; x_wconf 91' lang='eng'>person</span>
       <span class='ocrx_word' id='word_1_84' title='bbox 1674 1347 1918 1427; x_wconf 91' lang='eng'>having</span>
@@ -261,7 +261,7 @@
       <span class='ocrx_word' id='word_1_182' title='bbox 816 3007 876 3081; x_wconf 93'>8,</span>
       <span class='ocrx_word' id='word_1_183' title='bbox 914 3029 952 3066; x_wconf 91' lang='deu'>a</span>
       <span class='ocrx_word' id='word_1_184' title='bbox 986 3006 1266 3086; x_wconf 90'>security</span>
-      <span class='ocrx_word' id='word_1_185' title='bbox 1297 3006 1346 3067; x_wconf 33'>1s</span>
+      <span class='ocrx_word' id='word_1_185' title='bbox 1297 3006 1346 3067; x_wconf 33'>is</span>
       <span class='ocrx_word' id='word_1_186' title='bbox 1383 3007 1510 3067; x_wconf 93' lang='deu'>“an</span>
       <span class='ocrx_word' id='word_1_187' title='bbox 1545 3007 1908 3087; x_wconf 91'>obligation</span>
       <span class='ocrx_word' id='word_1_188' title='bbox 1942 3008 2021 3068; x_wconf 91'>of</span>
@@ -373,7 +373,7 @@
      <span class='ocr_line' id='line_1_29' title="bbox 265 3983 2484 4064; baseline 0.002 -22; x_size 80; x_descenders 20; x_ascenders 22">
       <span class='ocrx_word' id='word_1_275' title='bbox 265 3983 500 4043; x_wconf 87'>which:</span>
       <span class='ocrx_word' id='word_1_276' title='bbox 538 3984 637 4063; x_wconf 92'>(A)</span>
-      <span class='ocrx_word' id='word_1_277' title='bbox 670 3984 739 4058; x_wconf 63'>1s,</span>
+      <span class='ocrx_word' id='word_1_277' title='bbox 670 3984 739 4058; x_wconf 63'>is,</span>
       <span class='ocrx_word' id='word_1_278' title='bbox 775 4006 851 4044; x_wconf 92' lang='deu'>or</span>
       <span class='ocrx_word' id='word_1_279' title='bbox 880 3984 929 4044; x_wconf 86'>is</span>
       <span class='ocrx_word' id='word_1_280' title='bbox 963 3984 1041 4044; x_wconf 91'>of</span>

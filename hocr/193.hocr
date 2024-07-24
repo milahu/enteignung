@@ -24,7 +24,7 @@
      <span class='ocr_line' id='line_1_2' title="bbox 302 463 2527 545; baseline 0 -22; x_size 81; x_descenders 21; x_ascenders 22">
       <span class='ocrx_word' id='word_1_3' title='bbox 302 465 430 545; x_wconf 91'>(43)</span>
       <span class='ocrx_word' id='word_1_4' title='bbox 458 465 618 524; x_wconf 91'>How</span>
-      <span class='ocrx_word' id='word_1_5' title='bbox 646 464 694 524; x_wconf 63'>1s</span>
+      <span class='ocrx_word' id='word_1_5' title='bbox 646 464 694 524; x_wconf 63'>is</span>
       <span class='ocrx_word' id='word_1_6' title='bbox 702 464 934 545; x_wconf 91'>finality</span>
       <span class='ocrx_word' id='word_1_7' title='bbox 968 464 1047 543; x_wconf 90'>(in</span>
       <span class='ocrx_word' id='word_1_8' title='bbox 1077 464 1162 524; x_wconf 92'>the</span>
@@ -141,7 +141,7 @@
     <p class='ocr_par' id='par_1_7' lang='eng' title="bbox 300 1812 1520 1873">
      <span class='ocr_line' id='line_1_11' title="bbox 300 1812 1520 1873; baseline 0.001 -2; x_size 69.376625; x_descenders 9.3766232; x_ascenders 22">
       <span class='ocrx_word' id='word_1_83' title='bbox 300 1812 463 1872; x_wconf 79'>This</span>
-      <span class='ocrx_word' id='word_1_84' title='bbox 490 1812 539 1872; x_wconf 89'>1s</span>
+      <span class='ocrx_word' id='word_1_84' title='bbox 490 1812 539 1872; x_wconf 89'>is</span>
       <span class='ocrx_word' id='word_1_85' title='bbox 568 1826 686 1872; x_wconf 90'>not</span>
       <span class='ocrx_word' id='word_1_86' title='bbox 712 1812 1069 1873; x_wconf 89'>addressed</span>
       <span class='ocrx_word' id='word_1_87' title='bbox 1095 1812 1163 1871; x_wconf 38'>1in</span>
@@ -170,7 +170,7 @@
     <p class='ocr_par' id='par_1_9' lang='eng' title="bbox 301 2238 1521 2300">
      <span class='ocr_line' id='line_1_13' title="bbox 301 2238 1521 2300; baseline 0.002 -2; x_size 70.376625; x_descenders 9.3766232; x_ascenders 23">
       <span class='ocrx_word' id='word_1_100' title='bbox 301 2239 463 2300; x_wconf 53'>This</span>
-      <span class='ocrx_word' id='word_1_101' title='bbox 490 2239 539 2299; x_wconf 90'>1s</span>
+      <span class='ocrx_word' id='word_1_101' title='bbox 490 2239 539 2299; x_wconf 90'>is</span>
       <span class='ocrx_word' id='word_1_102' title='bbox 568 2252 686 2299; x_wconf 90'>not</span>
       <span class='ocrx_word' id='word_1_103' title='bbox 713 2239 1070 2300; x_wconf 91'>addressed</span>
       <span class='ocrx_word' id='word_1_104' title='bbox 1095 2239 1164 2298; x_wconf 51' lang='deu'>in</span>
@@ -205,7 +205,7 @@
     <p class='ocr_par' id='par_1_12' lang='eng' title="bbox 301 2790 2523 3238">
      <span class='ocr_line' id='line_1_16' title="bbox 301 2790 2520 2870; baseline 0.001 -21; x_size 79; x_descenders 19; x_ascenders 22">
       <span class='ocrx_word' id='word_1_117' title='bbox 301 2790 463 2850; x_wconf 28'>This</span>
-      <span class='ocrx_word' id='word_1_118' title='bbox 487 2790 536 2850; x_wconf 84'>1s</span>
+      <span class='ocrx_word' id='word_1_118' title='bbox 487 2790 536 2850; x_wconf 84'>is</span>
       <span class='ocrx_word' id='word_1_119' title='bbox 562 2803 680 2850; x_wconf 89'>not</span>
       <span class='ocrx_word' id='word_1_120' title='bbox 704 2790 1060 2850; x_wconf 89'>addressed</span>
       <span class='ocrx_word' id='word_1_121' title='bbox 1083 2790 1151 2849; x_wconf 41'>in</span>
