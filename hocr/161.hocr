@@ -130,7 +130,7 @@
       <span class='ocrx_word' id='word_1_73' title='bbox 1535 1645 1622 1704; x_wconf 91'>the</span>
       <span class='ocrx_word' id='word_1_74' title='bbox 1626 1645 1943 1724; x_wconf 89'>following</span>
       <span class='ocrx_word' id='word_1_75' title='bbox 1966 1666 2215 1704; x_wconf 91'>answers</span>
-      <span class='ocrx_word' id='word_1_76' title='bbox 2232 1645 2434 1724; x_wconf 89' lang='deu'>gwen?</span>
+      <span class='ocrx_word' id='word_1_76' title='bbox 2232 1645 2434 1724; x_wconf 89' lang='deu'>given?</span>
      </span>
      <span class='ocr_line' id='line_1_11' title="bbox 278 1767 2498 1849; baseline -0 -21; x_size 82; x_descenders 21; x_ascenders 23">
       <span class='ocrx_word' id='word_1_77' title='bbox 278 1768 440 1829; x_wconf 85'>This</span>
@@ -320,7 +320,7 @@
       <span class='ocrx_word' id='word_1_231' title='bbox 2385 3613 2522 3672; x_wconf 68'>the</span>
      </span>
      <span class='ocr_line' id='line_1_27' title="bbox 242 3732 2494 3818; baseline 0.001 -26; x_size 79; x_descenders 19; x_ascenders 22">
-      <span class='ocrx_word' id='word_1_232' title='bbox 242 3732 607 3792; x_wconf 0'>“securities</span>
+      <span class='ocrx_word' id='word_1_232' title='bbox 242 3732 607 3792; x_wconf 0'>securities</span>
       <span class='ocrx_word' id='word_1_233' title='bbox 642 3732 1167 3811; x_wconf 89'>intermediary’s</span>
       <span class='ocrx_word' id='word_1_234' title='bbox 1191 3733 1611 3811; x_wconf 89'>jurisdiction</span>
       <span class='ocrx_word' id='word_1_235' title='bbox 1648 3734 1737 3811; x_wconf 90'>(as</span>
@@ -336,7 +336,7 @@
       <span class='ocrx_word' id='word_1_243' title='bbox 777 3855 879 3914; x_wconf 91'>for</span>
       <span class='ocrx_word' id='word_1_244' title='bbox 907 3856 1210 3935; x_wconf 90'>holdings</span>
       <span class='ocrx_word' id='word_1_245' title='bbox 1242 3856 1321 3915; x_wconf 90'>of</span>
-      <span class='ocrx_word' id='word_1_246' title='bbox 1350 3857 1676 3936; x_wconf 31'>&#39;Ireasury</span>
+      <span class='ocrx_word' id='word_1_246' title='bbox 1350 3857 1676 3936; x_wconf 31'>Treasury</span>
       <span class='ocrx_word' id='word_1_247' title='bbox 1705 3857 2033 3916; x_wconf 92'>securities</span>
       <span class='ocrx_word' id='word_1_248' title='bbox 2064 3870 2129 3916; x_wconf 92'>at</span>
       <span class='ocrx_word' id='word_1_249' title='bbox 2158 3857 2267 3917; x_wconf 92'>the</span>
