@@ -150,7 +150,6 @@
       <span class='ocrx_word' id='word_1_108' title='bbox 598 1716 1007 1797; x_wconf 91' lang='eng'>throughout</span>
       <span class='ocrx_word' id='word_1_109' title='bbox 1033 1716 1157 1776; x_wconf 91' lang='eng'>this</span>
       <span class='ocrx_word' id='word_1_110' title='bbox 1186 1738 1513 1797; x_wconf 93' lang='eng'>response.</span>
-      <span class='ocrx_word' id='word_1_111' title='bbox 1917 1729 2041 1790; x_wconf 26' lang='eng'>.</span>
      </span>
     </p>
 
@@ -230,7 +229,7 @@
       <span class='ocrx_word' id='word_1_165' title='bbox 1586 2580 1732 2640; x_wconf 91'>used.</span>
       <span class='ocrx_word' id='word_1_166' title='bbox 1780 2580 1958 2641; x_wconf 92'>What</span>
       <span class='ocrx_word' id='word_1_167' title='bbox 1982 2580 2338 2641; x_wconf 88'>distinctions</span>
-      <span class='ocrx_word' id='word_1_168' title='bbox 2369 2582 2479 2661; x_wconf 44'>(e.g</span>
+      <span class='ocrx_word' id='word_1_168' title='bbox 2369 2582 2479 2661; x_wconf 44'>(e.g.</span>
      </span>
      <span class='ocr_line' id='line_1_19' title="bbox 270 2702 2494 2784; baseline 0.001 -22; x_size 74; x_descenders 14; x_ascenders 22">
       <span class='ocrx_word' id='word_1_169' title='bbox 270 2702 460 2776; x_wconf 46'>bearer,</span>
@@ -291,7 +290,7 @@
       <span class='ocrx_word' id='word_1_208' title='bbox 1081 3249 1160 3309; x_wconf 92'>of</span>
       <span class='ocrx_word' id='word_1_209' title='bbox 1187 3271 1273 3309; x_wconf 93' lang='deu'>an</span>
       <span class='ocrx_word' id='word_1_210' title='bbox 1298 3249 1519 3310; x_wconf 91'>issuer:</span>
-      <span class='ocrx_word' id='word_1_211' title='bbox 1551 3250 1610 3329; x_wconf 79'>(1)</span>
+      <span class='ocrx_word' id='word_1_211' title='bbox 1551 3250 1610 3329; x_wconf 79'>(i)</span>
       <span class='ocrx_word' id='word_1_212' title='bbox 1635 3250 1852 3311; x_wconf 92'>which</span>
       <span class='ocrx_word' id='word_1_213' title='bbox 1878 3251 1927 3311; x_wconf 91' lang='deu'>is</span>
       <span class='ocrx_word' id='word_1_214' title='bbox 1954 3251 2379 3331; x_wconf 92'>represented</span>
@@ -311,7 +310,7 @@
       <span class='ocrx_word' id='word_1_226' title='bbox 2374 3374 2484 3435; x_wconf 91'>the</span>
      </span>
      <span class='ocr_line' id='line_1_25' title="bbox 268 3494 2487 3576; baseline 0.002 -23; x_size 80; x_descenders 20; x_ascenders 22">
-      <span class='ocrx_word' id='word_1_227' title='bbox 268 3494 546 3554; x_wconf 89'>transter</span>
+      <span class='ocrx_word' id='word_1_227' title='bbox 268 3494 546 3554; x_wconf 89'>transfer</span>
       <span class='ocrx_word' id='word_1_228' title='bbox 576 3494 654 3554; x_wconf 71'>of</span>
       <span class='ocrx_word' id='word_1_229' title='bbox 683 3494 901 3555; x_wconf 86'>which</span>
       <span class='ocrx_word' id='word_1_230' title='bbox 933 3517 1088 3574; x_wconf 91'>may</span>
@@ -332,7 +331,7 @@
       <span class='ocrx_word' id='word_1_243' title='bbox 1453 3618 1532 3678; x_wconf 89'>of</span>
       <span class='ocrx_word' id='word_1_244' title='bbox 1558 3618 1666 3679; x_wconf 92'>the</span>
       <span class='ocrx_word' id='word_1_245' title='bbox 1691 3618 1904 3693; x_wconf 90'>issuer,</span>
-      <span class='ocrx_word' id='word_1_246' title='bbox 1933 3619 2015 3698; x_wconf 76'>(i1)</span>
+      <span class='ocrx_word' id='word_1_246' title='bbox 1933 3619 2015 3698; x_wconf 76'>(ii)</span>
       <span class='ocrx_word' id='word_1_247' title='bbox 2039 3619 2256 3679; x_wconf 91'>which</span>
       <span class='ocrx_word' id='word_1_248' title='bbox 2280 3619 2330 3679; x_wconf 79'>is</span>
       <span class='ocrx_word' id='word_1_249' title='bbox 2355 3641 2484 3680; x_wconf 90'>one</span>
@@ -364,7 +363,7 @@
       <span class='ocrx_word' id='word_1_271' title='bbox 1673 3886 1750 3924; x_wconf 92' lang='deu'>or</span>
       <span class='ocrx_word' id='word_1_272' title='bbox 1774 3865 2188 3944; x_wconf 91'>obligations;</span>
       <span class='ocrx_word' id='word_1_273' title='bbox 2216 3865 2352 3925; x_wconf 90'>and</span>
-      <span class='ocrx_word' id='word_1_274' title='bbox 2378 3865 2483 3944; x_wconf 26'>(üi)</span>
+      <span class='ocrx_word' id='word_1_274' title='bbox 2378 3865 2483 3944; x_wconf 26'>(iii)</span>
      </span>
     </p>
    </div>
