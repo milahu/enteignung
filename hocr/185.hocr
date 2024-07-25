@@ -27,11 +27,11 @@
       <span class='ocrx_word' id='word_1_5' title='bbox 590 468 747 529; x_wconf 91'>what</span>
       <span class='ocrx_word' id='word_1_6' title='bbox 780 467 1197 528; x_wconf 90'>circumstances</span>
       <span class='ocrx_word' id='word_1_7' title='bbox 1233 489 1335 528; x_wconf 91' lang='eng'>can</span>
-      <span class='ocrx_word' id='word_1_8' title='bbox 1378 466 1443 547; x_wconf 90' lang='eng'>(1)</span>
+      <span class='ocrx_word' id='word_1_8' title='bbox 1378 466 1443 547; x_wconf 90' lang='eng'>(i)</span>
       <span class='ocrx_word' id='word_1_9' title='bbox 1484 489 1519 527; x_wconf 92'>a</span>
       <span class='ocrx_word' id='word_1_10' title='bbox 1557 467 1783 527; x_wconf 92' lang='eng'>creditor</span>
       <span class='ocrx_word' id='word_1_11' title='bbox 1815 466 1934 527; x_wconf 90'>and</span>
-      <span class='ocrx_word' id='word_1_12' title='bbox 1971 466 2057 546; x_wconf 20' lang='eng'>(it)</span>
+      <span class='ocrx_word' id='word_1_12' title='bbox 1971 466 2057 546; x_wconf 20' lang='eng'>(ii)</span>
       <span class='ocrx_word' id='word_1_13' title='bbox 2099 489 2134 527; x_wconf 81'>a</span>
       <span class='ocrx_word' id='word_1_14' title='bbox 2171 466 2540 527; x_wconf 90' lang='eng'>non-creditor</span>
      </span>
@@ -95,7 +95,6 @@
       <span class='ocrx_word' id='word_1_55' title='bbox 2048 1140 2531 1221; x_wconf 91'>intermediary.</span>
      </span>
      <span class='ocr_line' id='line_1_8' title="bbox 256 1263 2534 1345; baseline -0.001 -19; x_size 81; x_descenders 21; x_ascenders 22">
-      <span class='ocrx_word' id='word_1_56' title='bbox 256 1267 260 1271; x_wconf 41' lang='deu'>.</span>
       <span class='ocrx_word' id='word_1_57' title='bbox 318 1266 581 1326; x_wconf 70'>Process</span>
       <span class='ocrx_word' id='word_1_58' title='bbox 607 1265 901 1325; x_wconf 92'>directed</span>
       <span class='ocrx_word' id='word_1_59' title='bbox 925 1278 989 1325; x_wconf 92'>at</span>
@@ -217,16 +216,15 @@
       <span class='ocrx_word' id='word_1_149' title='bbox 591 2497 747 2556; x_wconf 90'>what</span>
       <span class='ocrx_word' id='word_1_150' title='bbox 781 2497 1198 2556; x_wconf 15'>circumstances</span>
       <span class='ocrx_word' id='word_1_151' title='bbox 1234 2517 1336 2555; x_wconf 91'>can</span>
-      <span class='ocrx_word' id='word_1_152' title='bbox 1379 2496 1443 2574; x_wconf 80'>(1)</span>
+      <span class='ocrx_word' id='word_1_152' title='bbox 1379 2496 1443 2574; x_wconf 80'>(i)</span>
       <span class='ocrx_word' id='word_1_153' title='bbox 1485 2518 1520 2555; x_wconf 92' lang='deu'>a</span>
       <span class='ocrx_word' id='word_1_154' title='bbox 1557 2497 1784 2555; x_wconf 87'>creditor</span>
       <span class='ocrx_word' id='word_1_155' title='bbox 1816 2497 1935 2555; x_wconf 92'>and</span>
-      <span class='ocrx_word' id='word_1_156' title='bbox 1972 2497 2058 2574; x_wconf 0'>(1)</span>
+      <span class='ocrx_word' id='word_1_156' title='bbox 1972 2497 2058 2574; x_wconf 0'>(ii)</span>
       <span class='ocrx_word' id='word_1_157' title='bbox 2099 2518 2134 2556; x_wconf 87' lang='deu'>a</span>
       <span class='ocrx_word' id='word_1_158' title='bbox 2171 2497 2541 2556; x_wconf 92'>non-creditor</span>
      </span>
      <span class='ocr_line' id='line_1_18' title="bbox 260 2618 2557 2700; baseline 0 -21; x_size 81; x_descenders 20; x_ascenders 23">
-      <span class='ocrx_word' id='word_1_159' title='bbox 260 2625 263 2628; x_wconf 23' lang='deu'>_</span>
       <span class='ocrx_word' id='word_1_160' title='bbox 318 2619 488 2679; x_wconf 17'>third-</span>
       <span class='ocrx_word' id='word_1_161' title='bbox 511 2629 678 2699; x_wconf 90'>party</span>
       <span class='ocrx_word' id='word_1_162' title='bbox 717 2619 870 2697; x_wconf 90'>(such</span>
@@ -244,7 +242,7 @@
    <div class='ocr_carea' id='block_1_8' title="bbox 294 2742 1325 2822">
     <p class='ocr_par' id='par_1_7' lang='deu' title="bbox 294 2742 1325 2822">
      <span class='ocr_line' id='line_1_19' title="bbox 294 2742 1325 2822; baseline 0 -20; x_size 79; x_descenders 19; x_ascenders 22">
-      <span class='ocrx_word' id='word_1_171' title='bbox 294 2742 453 2821; x_wconf 50'>Jrom</span>
+      <span class='ocrx_word' id='word_1_171' title='bbox 294 2742 453 2821; x_wconf 50'>from</span>
       <span class='ocrx_word' id='word_1_172' title='bbox 480 2765 553 2802; x_wconf 93'>an</span>
       <span class='ocrx_word' id='word_1_173' title='bbox 582 2742 880 2821; x_wconf 81' lang='eng'>upper-tier</span>
       <span class='ocrx_word' id='word_1_174' title='bbox 903 2742 1325 2822; x_wconf 32' lang='eng'>intermediary?</span>
