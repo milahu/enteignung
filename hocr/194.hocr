@@ -50,7 +50,7 @@
      <span class='ocr_line' id='line_1_4' title="bbox 316 732 2534 812; baseline 0 -20; x_size 80; x_descenders 20; x_ascenders 23">
       <span class='ocrx_word' id='word_1_21' title='bbox 316 732 492 792; x_wconf 78' lang='eng'>ration</span>
       <span class='ocrx_word' id='word_1_22' title='bbox 533 732 606 812; x_wconf 87' lang='eng'>of</span>
-      <span class='ocrx_word' id='word_1_23' title='bbox 642 732 1071 792; x_wconf 50' lang='eng'>ntermediaries</span>
+      <span class='ocrx_word' id='word_1_23' title='bbox 642 732 1071 792; x_wconf 50' lang='eng'>intermediaries</span>
       <span class='ocrx_word' id='word_1_24' title='bbox 1114 732 1254 811; x_wconf 90' lang='eng'>(and</span>
       <span class='ocrx_word' id='word_1_25' title='bbox 1288 732 1463 793; x_wconf 90' lang='eng'>where</span>
       <span class='ocrx_word' id='word_1_26' title='bbox 1501 733 1736 793; x_wconf 88' lang='eng'>relevant</span>
@@ -117,7 +117,7 @@
    <div class='ocr_carea' id='block_1_8' title="bbox 315 1530 1484 1610">
     <p class='ocr_par' id='par_1_7' lang='eng' title="bbox 315 1530 1484 1610">
      <span class='ocr_line' id='line_1_9' title="bbox 315 1530 1484 1610; baseline 0 -20; x_size 80; x_descenders 20; x_ascenders 23">
-      <span class='ocrx_word' id='word_1_64' title='bbox 315 1530 878 1609; x_wconf 54'>authorisation_from</span>
+      <span class='ocrx_word' id='word_1_64' title='bbox 315 1530 878 1609; x_wconf 54'>authorisation from</span>
       <span class='ocrx_word' id='word_1_65' title='bbox 906 1553 941 1590; x_wconf 93' lang='deu'>a</span>
       <span class='ocrx_word' id='word_1_66' title='bbox 955 1530 1150 1610; x_wconf 90'>public</span>
       <span class='ocrx_word' id='word_1_67' title='bbox 1176 1530 1484 1610; x_wconf 54'>authority?</span>
@@ -236,18 +236,18 @@
       <span class='ocrx_word' id='word_1_130' title='bbox 938 3179 1213 3239; x_wconf 88'>securities</span>
       <span class='ocrx_word' id='word_1_131' title='bbox 1234 3189 1494 3238; x_wconf 91'>accounts</span>
       <span class='ocrx_word' id='word_1_132' title='bbox 1520 3178 1854 3257; x_wconf 90'>(relating-to</span>
-      <span class='ocrx_word' id='word_1_133' title='bbox 1884 3177 1948 3256; x_wconf 93'>(1)</span>
+      <span class='ocrx_word' id='word_1_133' title='bbox 1884 3177 1948 3256; x_wconf 93'>(i)</span>
       <span class='ocrx_word' id='word_1_134' title='bbox 1977 3177 2239 3250; x_wconf 90'>taxation,</span>
-      <span class='ocrx_word' id='word_1_135' title='bbox 2276 3177 2363 3255; x_wconf 60'>(11)</span>
+      <span class='ocrx_word' id='word_1_135' title='bbox 2276 3177 2363 3255; x_wconf 60'>(ii)</span>
       <span class='ocrx_word' id='word_1_136' title='bbox 2390 3199 2537 3237; x_wconf 88'>com-</span>
      </span>
      <span class='ocr_line' id='line_1_19' title="bbox 307 3299 2543 3383; baseline -0.002 -20; x_size 79; x_descenders 19; x_ascenders 22">
       <span class='ocrx_word' id='word_1_137' title='bbox 307 3314 463 3383; x_wconf 91'>pany</span>
       <span class='ocrx_word' id='word_1_138' title='bbox 492 3303 614 3376; x_wconf 92'>law,</span>
-      <span class='ocrx_word' id='word_1_139' title='bbox 654 3302 762 3381; x_wconf 53'>(111)</span>
+      <span class='ocrx_word' id='word_1_139' title='bbox 654 3302 762 3381; x_wconf 53'>(iii)</span>
       <span class='ocrx_word' id='word_1_140' title='bbox 794 3302 1040 3362; x_wconf 92'>takeover</span>
       <span class='ocrx_word' id='word_1_141' title='bbox 1062 3301 1377 3381; x_wconf 92'>regulation,</span>
-      <span class='ocrx_word' id='word_1_142' title='bbox 1417 3301 1513 3380; x_wconf 58'>(1)</span>
+      <span class='ocrx_word' id='word_1_142' title='bbox 1417 3301 1513 3380; x_wconf 58'>(iv)</span>
       <span class='ocrx_word' id='word_1_143' title='bbox 1543 3323 1733 3381; x_wconf 93'>money</span>
       <span class='ocrx_word' id='word_1_144' title='bbox 1762 3300 2096 3380; x_wconf 91'>laundering,</span>
       <span class='ocrx_word' id='word_1_145' title='bbox 2136 3301 2210 3379; x_wconf 92'>(v)</span>
