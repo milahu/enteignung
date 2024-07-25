@@ -40,11 +40,11 @@
       <span class='ocrx_word' id='word_1_16' title='bbox 277 588 384 667; x_wconf 76'>for</span>
       <span class='ocrx_word' id='word_1_17' title='bbox 411 588 775 648; x_wconf 91'>transactions</span>
       <span class='ocrx_word' id='word_1_18' title='bbox 803 587 1080 668; x_wconf 13'>involving</span>
-      <span class='ocrx_word' id='word_1_19' title='bbox 1111 587 1175 667; x_wconf 92'>(1)</span>
+      <span class='ocrx_word' id='word_1_19' title='bbox 1111 587 1175 667; x_wconf 92'>(i)</span>
       <span class='ocrx_word' id='word_1_20' title='bbox 1187 587 1408 667; x_wconf 90'>foreign</span>
       <span class='ocrx_word' id='word_1_21' title='bbox 1439 587 1870 648; x_wconf 89'>intermediaries</span>
       <span class='ocrx_word' id='word_1_22' title='bbox 1898 610 1960 648; x_wconf 91' lang='deu'>or</span>
-      <span class='ocrx_word' id='word_1_23' title='bbox 1991 587 2077 666; x_wconf 43'>(1)</span>
+      <span class='ocrx_word' id='word_1_23' title='bbox 1991 587 2077 666; x_wconf 43'>(ii)</span>
       <span class='ocrx_word' id='word_1_24' title='bbox 2113 587 2256 648; x_wconf 81'>links</span>
       <span class='ocrx_word' id='word_1_25' title='bbox 2286 588 2520 648; x_wconf 90'>between</span>
      </span>
@@ -133,7 +133,7 @@
    <div class='ocr_carea' id='block_1_7' title="bbox 301 1631 765 1692">
     <p class='ocr_par' id='par_1_6' lang='eng' title="bbox 301 1631 765 1692">
      <span class='ocr_line' id='line_1_10' title="bbox 301 1631 765 1692; baseline 0 -1; x_size 66.41333; x_descenders 6.4133334; x_ascenders 23">
-      <span class='ocrx_word' id='word_1_82' title='bbox 301 1631 765 1692; x_wconf 25'>ntermediaries?</span>
+      <span class='ocrx_word' id='word_1_82' title='bbox 301 1631 765 1692; x_wconf 25'>intermediaries?</span>
      </span>
     </p>
    </div>
@@ -144,7 +144,7 @@
       <span class='ocrx_word' id='word_1_84' title='bbox 490 1812 539 1872; x_wconf 89'>is</span>
       <span class='ocrx_word' id='word_1_85' title='bbox 568 1826 686 1872; x_wconf 90'>not</span>
       <span class='ocrx_word' id='word_1_86' title='bbox 712 1812 1069 1873; x_wconf 89'>addressed</span>
-      <span class='ocrx_word' id='word_1_87' title='bbox 1095 1812 1163 1871; x_wconf 38'>1in</span>
+      <span class='ocrx_word' id='word_1_87' title='bbox 1095 1812 1163 1871; x_wconf 38'>in</span>
       <span class='ocrx_word' id='word_1_88' title='bbox 1188 1812 1431 1872; x_wconf 91'>Article</span>
       <span class='ocrx_word' id='word_1_89' title='bbox 1462 1813 1520 1872; x_wconf 96'>8.</span>
      </span>
@@ -189,7 +189,7 @@
       <span class='ocrx_word' id='word_1_111' title='bbox 1052 2508 1180 2566; x_wconf 91'>may</span>
       <span class='ocrx_word' id='word_1_112' title='bbox 1211 2486 1475 2546; x_wconf 91'>domestic</span>
       <span class='ocrx_word' id='word_1_113' title='bbox 1505 2486 1770 2546; x_wconf 67'>investors</span>
-      <span class='ocrx_word' id='word_1_114' title='bbox 1800 2486 2128 2566; x_wconf 63'>use_foreign</span>
+      <span class='ocrx_word' id='word_1_114' title='bbox 1800 2486 2128 2566; x_wconf 63'>use foreign</span>
       <span class='ocrx_word' id='word_1_115' title='bbox 2160 2486 2521 2547; x_wconf 90'>intermedia-</span>
      </span>
     </p>
