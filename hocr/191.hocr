@@ -59,8 +59,7 @@
      <span class='ocr_line' id='line_1_5' title="bbox 284 834 2501 916; baseline 0 -21; x_size 82; x_descenders 21; x_ascenders 23">
       <span class='ocrx_word' id='word_1_32' title='bbox 284 835 632 916; x_wconf 91'>mediary’s</span>
       <span class='ocrx_word' id='word_1_33' title='bbox 652 834 1111 916; x_wconf 89'>jurisdiction”</span>
-      <span class='ocrx_word' id='word_1_34' title='bbox 1147 836 1215 895; x_wconf 93'>8-</span>
-      <span class='ocrx_word' id='word_1_35' title='bbox 1258 834 1490 915; x_wconf 91'>110(b).</span>
+      <span class='ocrx_word' id='word_1_35' title='bbox 1147 834 1490 915; x_wconf 91'>8-110(b).</span>
       <span class='ocrx_word' id='word_1_36' title='bbox 1524 834 1587 893; x_wconf 93'>A</span>
       <span class='ocrx_word' id='word_1_37' title='bbox 1617 834 1945 895; x_wconf 92'>securities</span>
       <span class='ocrx_word' id='word_1_38' title='bbox 1976 834 2501 915; x_wconf 89'>intermediary’s</span>
@@ -234,7 +233,6 @@
       <span class='ocrx_word' id='word_1_176' title='bbox 1906 2683 1985 2744; x_wconf 92'>of</span>
       <span class='ocrx_word' id='word_1_177' title='bbox 2023 2684 2133 2744; x_wconf 92'>the</span>
       <span class='ocrx_word' id='word_1_178' title='bbox 2174 2684 2502 2745; x_wconf 90'>securities</span>
-      <span class='ocrx_word' id='word_1_179' title='bbox 2538 2701 2541 2703; x_wconf 72' lang='deu'>&#39;</span>
      </span>
     </p>
    </div>
@@ -325,6 +323,7 @@
       <span class='ocrx_word' id='word_1_234' title='bbox 1747 3735 2034 3782; x_wconf 91'>account</span>
       <span class='ocrx_word' id='word_1_235' title='bbox 2058 3723 2393 3802; x_wconf 92'>governed</span>
       <span class='ocrx_word' id='word_1_236' title='bbox 2417 3724 2502 3803; x_wconf 95'>by</span>
+      <!-- TODO add "and" or "or"? -->
      </span>
      <span class='ocr_line' id='line_1_28' title="bbox 281 3841 2497 3923; baseline 0.003 -24; x_size 80; x_descenders 20; x_ascenders 23">
       <span class='ocrx_word' id='word_1_237' title='bbox 281 3841 695 3901; x_wconf 89'>maintained</span>
