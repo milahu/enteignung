@@ -20,69 +20,6 @@
     </p>
    </div>
    <div class='ocr_separator' id='block_1_2' title="bbox 311 282 2535 288"></div>
-   <div class='ocr_carea' id='block_1_3' title="bbox 316 671 386 727">
-    <p class='ocr_par' id='par_1_2' lang='deu' title="bbox 316 671 386 727">
-     <span class='ocr_line' id='line_1_2' title="bbox 316 671 386 727; baseline -0.014 0; x_size 74.666664; x_descenders 18.666666; x_ascenders 18.666666">
-      <span class='ocrx_word' id='word_1_4' title='bbox 316 671 386 727; x_wconf 96'>31</span>
-     </span>
-    </p>
-   </div>
-   <div class='ocr_carea' id='block_1_4' title="bbox 316 901 393 960">
-    <p class='ocr_par' id='par_1_3' lang='deu' title="bbox 316 901 393 960">
-     <span class='ocr_line' id='line_1_3' title="bbox 316 901 393 960; baseline 0.026 -2; x_size 77.333336; x_descenders 19.333334; x_ascenders 19.333334">
-      <span class='ocrx_word' id='word_1_5' title='bbox 316 901 393 960; x_wconf 95'>32</span>
-     </span>
-    </p>
-   </div>
-   <div class='ocr_carea' id='block_1_5' title="bbox 316 1247 393 1303">
-    <p class='ocr_par' id='par_1_4' lang='deu' title="bbox 316 1247 393 1303">
-     <span class='ocr_line' id='line_1_4' title="bbox 316 1247 393 1303; baseline 0 0; x_size 75.333336; x_descenders 18.833334; x_ascenders 18.833334">
-      <span class='ocrx_word' id='word_1_6' title='bbox 316 1247 393 1303; x_wconf 96'>33</span>
-     </span>
-    </p>
-   </div>
-   <div class='ocr_carea' id='block_1_6' title="bbox 316 1593 396 1649">
-    <p class='ocr_par' id='par_1_5' lang='deu' title="bbox 316 1593 396 1649">
-     <span class='ocr_line' id='line_1_5' title="bbox 316 1593 396 1649; baseline -0.013 0; x_size 74.666664; x_descenders 18.666666; x_ascenders 18.666666">
-      <span class='ocrx_word' id='word_1_7' title='bbox 316 1593 396 1649; x_wconf 96'>34</span>
-     </span>
-    </p>
-   </div>
-   <div class='ocr_carea' id='block_1_7' title="bbox 315 2170 393 2227">
-    <p class='ocr_par' id='par_1_6' lang='deu' title="bbox 315 2170 393 2227">
-     <span class='ocr_line' id='line_1_6' title="bbox 315 2170 393 2227; baseline 0 0; x_size 76; x_descenders 19; x_ascenders 19">
-      <span class='ocrx_word' id='word_1_8' title='bbox 315 2170 393 2227; x_wconf 95'>35</span>
-     </span>
-    </p>
-   </div>
-   <div class='ocr_carea' id='block_1_8' title="bbox 316 2401 395 2457">
-    <p class='ocr_par' id='par_1_7' lang='deu' title="bbox 316 2401 395 2457">
-     <span class='ocr_line' id='line_1_7' title="bbox 316 2401 395 2457; baseline 0 0; x_size 75.333336; x_descenders 18.833334; x_ascenders 18.833334">
-      <span class='ocrx_word' id='word_1_9' title='bbox 316 2401 395 2457; x_wconf 91'>36</span>
-     </span>
-    </p>
-   </div>
-   <div class='ocr_carea' id='block_1_9' title="bbox 316 2747 392 2803">
-    <p class='ocr_par' id='par_1_8' lang='deu' title="bbox 316 2747 392 2803">
-     <span class='ocr_line' id='line_1_8' title="bbox 316 2747 392 2803; baseline 0 0; x_size 74.666664; x_descenders 18.666666; x_ascenders 18.666666">
-      <span class='ocrx_word' id='word_1_10' title='bbox 316 2747 392 2803; x_wconf 96'>37</span>
-     </span>
-    </p>
-   </div>
-   <div class='ocr_carea' id='block_1_10' title="bbox 316 3205 395 3261">
-    <p class='ocr_par' id='par_1_9' lang='deu' title="bbox 316 3205 395 3261">
-     <span class='ocr_line' id='line_1_9' title="bbox 316 3205 395 3261; baseline 0 0; x_size 75.333336; x_descenders 18.833334; x_ascenders 18.833334">
-      <span class='ocrx_word' id='word_1_11' title='bbox 316 3205 395 3261; x_wconf 96'>38</span>
-     </span>
-    </p>
-   </div>
-   <div class='ocr_carea' id='block_1_11' title="bbox 318 3778 396 3834">
-    <p class='ocr_par' id='par_1_10' lang='deu' title="bbox 318 3778 396 3834">
-     <span class='ocr_line' id='line_1_10' title="bbox 318 3778 396 3834; baseline 0 0; x_size 75.333336; x_descenders 18.833334; x_ascenders 18.833334">
-      <span class='ocrx_word' id='word_1_12' title='bbox 318 3778 396 3834; x_wconf 96'>39</span>
-     </span>
-    </p>
-   </div>
    <div class='ocr_carea' id='block_1_12' title="bbox 439 439 2535 3964">
     <p class='ocr_par' id='par_1_11' lang='eng' title="bbox 455 439 2533 862">
      <span class='ocr_line' id='line_1_11' title="bbox 457 439 2533 517; baseline 0 -21; x_size 77; x_descenders 20; x_ascenders 21">
@@ -96,8 +33,7 @@
       <span class='ocrx_word' id='word_1_20' title='bbox 2349 440 2533 517; x_wconf 92'>lagen</span>
      </span>
      <span class='ocr_line' id='line_1_12' title="bbox 457 533 2232 630; baseline 0 -18; x_size 75; x_descenders 18; x_ascenders 21">
-      <span class='ocrx_word' id='word_1_21' title='bbox 457 555 602 630; x_wconf 92' lang='deu'>(199</span>
-      <span class='ocrx_word' id='word_1_22' title='bbox 619 533 820 630; x_wconf 16' lang='deu'>1.:980)</span>
+      <span class='ocrx_word' id='word_1_21' title='bbox 457 555 820 630; x_wconf 92' lang='deu'>(1991:980)</span>
       <span class='ocrx_word' id='word_1_23' title='bbox 849 575 958 612; x_wconf 92'>om</span>
       <span class='ocrx_word' id='word_1_24' title='bbox 985 554 1219 612; x_wconf 92' lang='deu'>handel</span>
       <span class='ocrx_word' id='word_1_25' title='bbox 1245 555 1397 612; x_wconf 93'>med</span>
@@ -105,23 +41,25 @@
       <span class='ocrx_word' id='word_1_27' title='bbox 1795 555 2232 613; x_wconf 81' lang='deu'>instrument.“</span>
      </span>
      <span class='ocr_line' id='line_1_13' title="bbox 458 670 2533 747; baseline 0 -20; x_size 77; x_descenders 20; x_ascenders 21">
+      <span class='ocrx_word' id='word_1_4' title='bbox 316 671 386 727; x_wconf 96'>31</span>
       <span class='ocrx_word' id='word_1_28' title='bbox 458 670 930 728; x_wconf 92' lang='deu'>Schwedischer</span>
       <span class='ocrx_word' id='word_1_29' title='bbox 978 670 1418 747; x_wconf 90' lang='deu'>Originaltext:</span>
       <span class='ocrx_word' id='word_1_30' title='bbox 1469 671 1945 747; x_wconf 91' lang='deu'>„Förfoganden</span>
-      <span class='ocrx_word' id='word_1_31' title='bbox 1992 675 2140 728; x_wconf 88'>over</span>
+      <span class='ocrx_word' id='word_1_31' title='bbox 1992 675 2140 728; x_wconf 88'>över</span>
       <span class='ocrx_word' id='word_1_32' title='bbox 2184 671 2533 728; x_wconf 91'>finansiella</span>
      </span>
      <span class='ocr_line' id='line_1_14' title="bbox 455 785 1776 862; baseline 0.001 -20; x_size 76; x_descenders 20; x_ascenders 20">
       <span class='ocrx_word' id='word_1_33' title='bbox 455 785 834 842; x_wconf 92' lang='deu'>instrument</span>
       <span class='ocrx_word' id='word_1_34' title='bbox 860 806 997 842; x_wconf 91' lang='deu'>som</span>
       <span class='ocrx_word' id='word_1_35' title='bbox 1025 785 1233 842; x_wconf 90' lang='deu'>tillhör</span>
-      <span class='ocrx_word' id='word_1_36' title='bbox 1258 786 1473 862; x_wconf 90' lang='deu'>nägon</span>
+      <span class='ocrx_word' id='word_1_36' title='bbox 1258 786 1473 862; x_wconf 90' lang='deu'>någon</span>
       <span class='ocrx_word' id='word_1_37' title='bbox 1500 787 1776 843; x_wconf 54'>annan.“</span>
      </span>
     </p>
 
     <p class='ocr_par' id='par_1_12' lang='deu' title="bbox 455 900 2531 1208">
      <span class='ocr_line' id='line_1_15' title="bbox 455 900 2531 973; baseline 0 -16; x_size 73; x_descenders 15; x_ascenders 22">
+      <span class='ocrx_word' id='word_1_5' title='bbox 316 901 393 960; x_wconf 95'>32</span>
       <span class='ocrx_word' id='word_1_38' title='bbox 455 900 635 957; x_wconf 92'>Bank</span>
       <span class='ocrx_word' id='word_1_39' title='bbox 662 900 759 958; x_wconf 91'>for</span>
       <span class='ocrx_word' id='word_1_40' title='bbox 789 900 1247 958; x_wconf 90'>International</span>
@@ -148,6 +86,7 @@
 
     <p class='ocr_par' id='par_1_13' lang='deu' title="bbox 454 1246 2532 1553">
      <span class='ocr_line' id='line_1_18' title="bbox 456 1246 2532 1323; baseline 0 -21; x_size 76; x_descenders 19; x_ascenders 21">
+      <span class='ocrx_word' id='word_1_6' title='bbox 316 1247 393 1303; x_wconf 96'>33</span>
       <span class='ocrx_word' id='word_1_55' title='bbox 456 1246 634 1303; x_wconf 92'>Bank</span>
       <span class='ocrx_word' id='word_1_56' title='bbox 671 1246 768 1303; x_wconf 91'>for</span>
       <span class='ocrx_word' id='word_1_57' title='bbox 807 1246 1265 1304; x_wconf 92'>International</span>
@@ -161,17 +100,15 @@
       <span class='ocrx_word' id='word_1_63' title='bbox 716 1374 1172 1438; x_wconf 91'>management</span>
       <span class='ocrx_word' id='word_1_64' title='bbox 1217 1362 1496 1434; x_wconf 91'>services,</span>
       <span class='ocrx_word' id='word_1_65' title='bbox 1547 1363 1733 1422; x_wconf 89'>2014.</span>
-      <span class='ocrx_word' id='word_1_66' title='bbox 1784 1362 2528 1439; x_wconf 88'>https://www.bis.org/</span>
-     </span>
-     <span class='ocr_line' id='line_1_20' title="bbox 456 1477 1200 1553; baseline 0 -19; x_size 76; x_descenders 19; x_ascenders 21">
-      <span class='ocrx_word' id='word_1_67' title='bbox 456 1477 1200 1553; x_wconf 86'>cpmi/publ/d119.pdf</span>
+      <span class='ocrx_word' id='word_1_66' title='bbox 1784 1362 2528 1439; x_wconf 88'>https://www.bis.org/cpmi/publ/d119.pdf</span>
      </span>
     </p>
 
     <p class='ocr_par' id='par_1_14' lang='deu' title="bbox 455 1591 2532 2111">
      <span class='ocr_line' id='line_1_21' title="bbox 457 1591 2531 1669; baseline 0 -20; x_size 77; x_descenders 19; x_ascenders 22">
+      <span class='ocrx_word' id='word_1_7' title='bbox 316 1593 396 1649; x_wconf 96'>34</span>
       <span class='ocrx_word' id='word_1_68' title='bbox 457 1591 677 1663; x_wconf 90'>Coco,</span>
-      <span class='ocrx_word' id='word_1_69' title='bbox 709 1592 853 1649; x_wconf 85' lang='eng'>N.F</span>
+      <span class='ocrx_word' id='word_1_69' title='bbox 709 1592 853 1649; x_wconf 85' lang='eng'>N.F.</span>
       <span class='ocrx_word' id='word_1_70' title='bbox 887 1604 947 1649; x_wconf 92' lang='eng'>et</span>
       <span class='ocrx_word' id='word_1_71' title='bbox 976 1592 1074 1663; x_wconf 90'>al.,</span>
       <span class='ocrx_word' id='word_1_72' title='bbox 1105 1592 1246 1649; x_wconf 92' lang='eng'>The</span>
@@ -184,32 +121,28 @@
      </span>
      <span class='ocr_line' id='line_1_22' title="bbox 456 1707 2528 1784; baseline 0 -20; x_size 76; x_descenders 19; x_ascenders 21">
       <span class='ocrx_word' id='word_1_79' title='bbox 456 1728 541 1764; x_wconf 93'>on</span>
-      <span class='ocrx_word' id='word_1_80' title='bbox 572 1707 714 1764; x_wconf 88' lang='eng'>Sate</span>
+      <span class='ocrx_word' id='word_1_80' title='bbox 572 1707 714 1764; x_wconf 88' lang='eng'>Safe</span>
       <span class='ocrx_word' id='word_1_81' title='bbox 744 1707 1006 1764; x_wconf 91' lang='eng'>Harbor</span>
       <span class='ocrx_word' id='word_1_82' title='bbox 1032 1707 1495 1779; x_wconf 54' lang='eng'>Transactions,</span>
       <span class='ocrx_word' id='word_1_83' title='bbox 1528 1709 1714 1767; x_wconf 85' lang='eng'>2005.</span>
-      <span class='ocrx_word' id='word_1_84' title='bbox 1747 1708 2528 1784; x_wconf 80' lang='eng'>https://www.mondagq.</span>
-     </span>
-     <span class='ocr_line' id='line_1_23' title="bbox 456 1823 2532 1880; baseline 0 0; x_size 76.372887; x_descenders 19.372885; x_ascenders 21">
-      <span class='ocrx_word' id='word_1_85' title='bbox 456 1823 2532 1880; x_wconf 70' lang='eng'>com/unitedstates/commoditiesderivativesstock-exchan-</span>
-     </span>
-     <span class='ocr_line' id='line_1_24' title="bbox 455 1938 2532 2015; baseline 0 -20; x_size 77; x_descenders 20; x_ascenders 21">
-      <span class='ocrx_word' id='word_1_86' title='bbox 455 1939 602 2015; x_wconf 92' lang='eng'>ges/</span>
-      <span class='ocrx_word' id='word_1_87' title='bbox 613 1939 867 1996; x_wconf 21' lang='eng'>36408/</span>
-      <span class='ocrx_word' id='word_1_88' title='bbox 876 1938 2532 2015; x_wconf 21' lang='eng'>the-effect-of-the-new-bankruptcy-code-on-sate-</span>
-     </span>
-     <span class='ocr_line' id='line_1_25' title="bbox 455 2053 1136 2111; baseline 0.001 -1; x_size 77.911018; x_descenders 19.91102; x_ascenders 21">
-      <span class='ocrx_word' id='word_1_89' title='bbox 455 2053 1136 2111; x_wconf 91' lang='eng'>harbor-transactions</span>
+      <span class='ocrx_word' id='word_1_84' title='bbox 1747 1708 2528 1784; x_wconf 80' lang='eng'>https://www.mondaq.com/unitedstates/commoditiesderivativesstock-exchanges/36408/the-effect-of-the-new-bankruptcy-code-on-safe-harbor-transactions</span>
      </span>
     </p>
 
     <p class='ocr_par' id='par_1_15' lang='eng' title="bbox 455 2169 2533 2372">
      <span class='ocr_line' id='line_1_26' title="bbox 457 2169 2533 2246; baseline 0 -19; x_size 78; x_descenders 20; x_ascenders 22">
+      <!--
+        "Gesetz zur Verhütung von betrügerischem Konkurs und zum Kundenschutz von 2005"
+        übersetzung von
+        "Bankruptcy Abuse Prevention and Consumer Protection Act of 2005"
+        auf seite 98
+      -->
+      <span class='ocrx_word' id='word_1_8' title='bbox 315 2170 393 2227; x_wconf 95'>35</span>
       <span class='ocrx_word' id='word_1_90' title='bbox 457 2169 685 2227; x_wconf 91'>Gesetz</span>
       <span class='ocrx_word' id='word_1_91' title='bbox 732 2191 844 2227; x_wconf 92'>zur</span>
-      <span class='ocrx_word' id='word_1_92' title='bbox 886 2169 1261 2246; x_wconf 43'>Verhutung</span>
+      <span class='ocrx_word' id='word_1_92' title='bbox 886 2169 1261 2246; x_wconf 43'>Verhütung</span>
       <span class='ocrx_word' id='word_1_93' title='bbox 1301 2190 1428 2227; x_wconf 90'>von</span>
-      <span class='ocrx_word' id='word_1_94' title='bbox 1472 2169 2009 2246; x_wconf 88'>betrugerischem</span>
+      <span class='ocrx_word' id='word_1_94' title='bbox 1472 2169 2009 2246; x_wconf 88'>betrügerischem</span>
       <span class='ocrx_word' id='word_1_95' title='bbox 2055 2169 2354 2227; x_wconf 89'>Konkurs</span>
       <span class='ocrx_word' id='word_1_96' title='bbox 2399 2170 2533 2227; x_wconf 91'>und</span>
      </span>
@@ -223,14 +156,21 @@
 
     <p class='ocr_par' id='par_1_16' lang='deu' title="bbox 439 2399 2535 3165">
      <span class='ocr_line' id='line_1_28' title="bbox 455 2399 2532 2476; baseline 0 -20; x_size 77; x_descenders 20; x_ascenders 21">
-      <span class='ocrx_word' id='word_1_101' title='bbox 455 2400 762 2471; x_wconf 90'>LUBBERS,</span>
-      <span class='ocrx_word' id='word_1_102' title='bbox 790 2400 845 2457; x_wconf 90' lang='eng'>S.</span>
-      <span class='ocrx_word' id='word_1_103' title='bbox 873 2400 938 2475; x_wconf 87' lang='eng'>J.,</span>
+      <span class='ocrx_word' id='word_1_9' title='bbox 316 2401 395 2457; x_wconf 91'>36</span>
+      <!--
+        fixed author
+        from
+        S.J. LUBBERS
+        to
+        Stephen J. Lubben
+      -->
+      <span class='ocrx_word' id='word_1_101' title='bbox 455 2400 762 2471; x_wconf 90'>LUBBEN,</span>
+      <span class='ocrx_word' id='word_1_102' title='bbox 790 2400 938 2457; x_wconf 90' lang='eng'>S.J.,</span>
       <span class='ocrx_word' id='word_1_104' title='bbox 964 2400 1105 2456; x_wconf 87' lang='eng'>The</span>
       <span class='ocrx_word' id='word_1_105' title='bbox 1130 2399 1535 2476; x_wconf 88' lang='eng'>Bankruptcy</span>
       <span class='ocrx_word' id='word_1_106' title='bbox 1558 2400 1742 2457; x_wconf 92' lang='eng'>Code</span>
       <span class='ocrx_word' id='word_1_107' title='bbox 1764 2400 2051 2457; x_wconf 90' lang='eng'>Without</span>
-      <span class='ocrx_word' id='word_1_108' title='bbox 2076 2399 2219 2457; x_wconf 91' lang='eng'>Sate</span>
+      <span class='ocrx_word' id='word_1_108' title='bbox 2076 2399 2219 2457; x_wconf 91' lang='eng'>Safe</span>
       <span class='ocrx_word' id='word_1_109' title='bbox 2243 2400 2532 2457; x_wconf 88' lang='eng'>Harbors</span>
      </span>
      <span class='ocr_line' id='line_1_29' title="bbox 457 2514 2530 2591; baseline -0 -19; x_size 78; x_descenders 20; x_ascenders 22">
@@ -245,12 +185,22 @@
      <span class='ocr_line' id='line_1_30' title="bbox 455 2630 2370 2707; baseline 0 -20; x_size 78; x_descenders 20; x_ascenders 22">
       <span class='ocrx_word' id='word_1_117' title='bbox 455 2631 630 2706; x_wconf 92' lang='eng'>Me.),</span>
       <span class='ocrx_word' id='word_1_118' title='bbox 661 2632 847 2691; x_wconf 91' lang='eng'>2010.</span>
-      <span class='ocrx_word' id='word_1_119' title='bbox 881 2631 1109 2707; x_wconf 31' lang='eng'>https:/</span>
-      <span class='ocrx_word' id='word_1_120' title='bbox 1124 2631 1288 2690; x_wconf 31' lang='eng'>/222</span>
-      <span class='ocrx_word' id='word_1_121' title='bbox 1303 2630 1930 2707; x_wconf 0' lang='eng'>.worldcat.org/title</span>
-      <span class='ocrx_word' id='word_1_122' title='bbox 1956 2631 2370 2688; x_wconf 0' lang='eng'>/649573636</span>
+      <!--
+        fixed dead link
+        from
+        https://222.worldcat.org/title/649573636
+        or
+        https://search.worldcat.org/title/649573636
+        to
+        https://papers.ssrn.com/sol3/papers.cfm?abstract_id=1569627
+
+        see also
+        https://www.semanticscholar.org/paper/The-Bankruptcy-Code-Without-Safe-Harbors-Lubben/06fc77849b64f96c005434e228d4016edfc1b554
+      -->
+      <span class='ocrx_word' id='word_1_119' title='bbox 881 2631 2370 2707; x_wconf 31' lang='eng'>https://papers.ssrn.com/sol3/papers.cfm?abstract_id=1569627</span>
      </span>
      <span class='ocr_line' id='line_1_31' title="bbox 453 2745 2532 2821; baseline -0 -19; x_size 75; x_descenders 19; x_ascenders 17">
+      <span class='ocrx_word' id='word_1_10' title='bbox 316 2747 392 2803; x_wconf 96'>37</span>
       <span class='ocrx_word' id='word_1_123' title='bbox 453 2746 842 2817; x_wconf 87' lang='eng'>WACHTELL,</span>
       <span class='ocrx_word' id='word_1_124' title='bbox 871 2746 1130 2817; x_wconf 45' lang='eng'>LIPTON,</span>
       <span class='ocrx_word' id='word_1_125' title='bbox 1159 2745 1388 2802; x_wconf 88' lang='eng'>ROSEN</span>
@@ -278,15 +228,19 @@
       <span class='ocrx_word' id='word_1_143' title='bbox 1081 2973 1278 3044; x_wconf 89' lang='eng'>Bank,</span>
       <span class='ocrx_word' id='word_1_144' title='bbox 1305 2974 1486 3045; x_wconf 50' lang='eng'>N.A.;</span>
       <span class='ocrx_word' id='word_1_145' title='bbox 1516 2974 1702 3033; x_wconf 92' lang='eng'>2010.</span>
-      <span class='ocrx_word' id='word_1_146' title='bbox 1731 2973 2529 3050; x_wconf 64' lang='eng'>https://222.creditshps.</span>
-     </span>
-     <span class='ocr_line' id='line_1_34' title="bbox 456 3085 2184 3165; baseline -0.001 -19; x_size 70; x_descenders 10; x_ascenders 24">
-      <span class='ocrx_word' id='word_1_147' title='bbox 456 3085 2184 3165; x_wconf 88' lang='eng'>org/files/lehman_brothers_holdings_inc._14.pdf</span>
+      <!--
+        fixed link from
+        https://222.creditslips.org/files/lehman_brothers_holdings_inc._14.pdf
+        to
+        https://www.creditslips.org/files/lehman_brothers_holdings_inc.__14.pdf
+      -->
+      <span class='ocrx_word' id='word_1_146' title='bbox 1731 2973 2529 3050; x_wconf 64' lang='eng'>https://www.creditslips.org/files/lehman_brothers_holdings_inc.__14.pdf</span>
      </span>
     </p>
 
     <p class='ocr_par' id='par_1_17' lang='eng' title="bbox 454 3202 2534 3964">
      <span class='ocr_line' id='line_1_35' title="bbox 455 3202 2534 3279; baseline -0 -19; x_size 77; x_descenders 20; x_ascenders 21">
+      <span class='ocrx_word' id='word_1_11' title='bbox 316 3205 395 3261; x_wconf 96'>38</span>
       <span class='ocrx_word' id='word_1_148' title='bbox 455 3204 698 3261; x_wconf 90'>United</span>
       <span class='ocrx_word' id='word_1_149' title='bbox 729 3203 928 3260; x_wconf 92'>States</span>
       <span class='ocrx_word' id='word_1_150' title='bbox 959 3203 1365 3279; x_wconf 91'>Bankruptcy</span>
@@ -309,25 +263,22 @@
      <span class='ocr_line' id='line_1_37' title="bbox 456 3431 2534 3509; baseline -0.001 -20; x_size 77; x_descenders 20; x_ascenders 22">
       <span class='ocrx_word' id='word_1_164' title='bbox 456 3433 648 3509; x_wconf 90'>nying</span>
       <span class='ocrx_word' id='word_1_165' title='bbox 687 3433 752 3489; x_wconf 90' lang='deu'>in</span>
-      <span class='ocrx_word' id='word_1_166' title='bbox 794 3432 1197 3489; x_wconf 91'>PartMotion</span>
+      <span class='ocrx_word' id='word_1_166' title='bbox 794 3432 1197 3489; x_wconf 91'>Part Motion</span>
       <span class='ocrx_word' id='word_1_167' title='bbox 1240 3444 1304 3489; x_wconf 91'>to</span>
       <span class='ocrx_word' id='word_1_168' title='bbox 1346 3431 1610 3489; x_wconf 91'>Dismiss</span>
       <span class='ocrx_word' id='word_1_169' title='bbox 1652 3432 1733 3508; x_wconf 93'>by</span>
       <span class='ocrx_word' id='word_1_170' title='bbox 1774 3431 2143 3489; x_wconf 86'>Defendant</span>
-      <span class='ocrx_word' id='word_1_171' title='bbox 2167 3431 2534 3507; x_wconf 90'>JPmorgan</span>
+      <span class='ocrx_word' id='word_1_171' title='bbox 2167 3431 2534 3507; x_wconf 90'>JPMorgan</span>
      </span>
      <span class='ocr_line' id='line_1_38' title="bbox 458 3546 2530 3623; baseline -0.001 -18; x_size 77; x_descenders 19; x_ascenders 22">
       <span class='ocrx_word' id='word_1_172' title='bbox 458 3548 668 3605; x_wconf 92'>Chase</span>
       <span class='ocrx_word' id='word_1_173' title='bbox 711 3548 908 3619; x_wconf 91'>Bank,</span>
       <span class='ocrx_word' id='word_1_174' title='bbox 951 3548 1130 3618; x_wconf 86' lang='deu'>N.A.,</span>
       <span class='ocrx_word' id='word_1_175' title='bbox 1177 3548 1363 3607; x_wconf 92'>2012.</span>
-      <span class='ocrx_word' id='word_1_176' title='bbox 1408 3546 2530 3623; x_wconf 89'>https://www.nysb.uscourts.gov/</span>
-     </span>
-     <span class='ocr_line' id='line_1_39' title="bbox 458 3660 2356 3738; baseline -0.002 -18; x_size 76; x_descenders 19; x_ascenders 21">
-      <span class='ocrx_word' id='word_1_177' title='bbox 458 3662 1450 3738; x_wconf 38'>sites/default/files/opinions/</span>
-      <span class='ocrx_word' id='word_1_178' title='bbox 1468 3660 2356 3736; x_wconf 38'>198038_134_opinion.pdf</span>
+      <span class='ocrx_word' id='word_1_176' title='bbox 1408 3546 2530 3623; x_wconf 89'>https://www.nysb.uscourts.gov/sites/default/files/opinions/198038_134_opinion.pdf</span>
      </span>
      <span class='ocr_line' id='line_1_40' title="bbox 458 3774 2531 3852; baseline -0.001 -18; x_size 76; x_descenders 19; x_ascenders 21">
+      <span class='ocrx_word' id='word_1_12' title='bbox 318 3778 396 3834; x_wconf 96'>39</span>
       <span class='ocrx_word' id='word_1_179' title='bbox 458 3777 807 3848; x_wconf 91'>Euroclear,</span>
       <span class='ocrx_word' id='word_1_180' title='bbox 857 3776 1236 3852; x_wconf 91'>Regulating</span>
       <span class='ocrx_word' id='word_1_181' title='bbox 1280 3776 1384 3833; x_wconf 88'>the</span>
@@ -335,17 +286,11 @@
       <span class='ocrx_word' id='word_1_183' title='bbox 1627 3775 1701 3832; x_wconf 85'>of</span>
       <span class='ocrx_word' id='word_1_184' title='bbox 1750 3774 1966 3845; x_wconf 83' lang='deu'>CCPs,</span>
       <span class='ocrx_word' id='word_1_185' title='bbox 2017 3776 2203 3834; x_wconf 90'>2020.</span>
-      <span class='ocrx_word' id='word_1_186' title='bbox 2254 3774 2531 3850; x_wconf 90'>https://</span>
-     </span>
-     <span class='ocr_line' id='line_1_41' title="bbox 455 3888 2531 3964; baseline -0.002 -16; x_size 74; x_descenders 18; x_ascenders 21">
-      <span class='ocrx_word' id='word_1_187' title='bbox 455 3888 2531 3964; x_wconf 69'>www.euroclear.com/newsandinsigts/en/Format/Articles/</span>
-     </span>
-    </p>
-   </div>
-   <div class='ocr_carea' id='block_1_13' title="bbox 458 4004 1451 4082">
-    <p class='ocr_par' id='par_1_18' lang='eng' title="bbox 458 4004 1451 4082">
-     <span class='ocr_line' id='line_1_42' title="bbox 458 4004 1451 4082; baseline -0.003 -19; x_size 77; x_descenders 20; x_ascenders 21">
-      <span class='ocrx_word' id='word_1_188' title='bbox 458 4004 1451 4082; x_wconf 91'>regulating-risks-of-cpps.html</span>
+      <!-- fixed link
+        "insigts" -> "insights"
+        "cpps" -> "ccps"
+      -->
+      <span class='ocrx_word' id='word_1_186' title='bbox 2254 3774 2531 3850; x_wconf 90'>https://www.euroclear.com/newsandinsights/en/Format/Articles/regulating-risks-of-ccps.html</span>
      </span>
     </p>
    </div>
