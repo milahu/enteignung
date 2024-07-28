@@ -48,6 +48,32 @@ work in progress...
 
 
 
+### english
+
+- https://danericselliottwaves.org/wp-content/uploads/2024/02/taking-screen-june-17.pdf
+- https://www.freedomsphoenix.com/Media/Media-Files/The-Great-Taking.pdf
+- https://mpalmer.heresy.is/webnotes/TheGreatTaking/
+
+
+
+### german
+
+- https://img1.wsimg.com/blobby/go/1ee786fb-3c78-4903-9701-d614892d09d6/taking-german%20(2).pdf
+
+
+
+### swedish
+
+- https://peterkrabbe.wordpress.com/wp-content/uploads/2024/02/den-gigantiska-stolden-1-1.pdf
+
+
+
+### italian
+
+- https://img1.wsimg.com/blobby/go/1ee786fb-3c78-4903-9701-d614892d09d6/la-grande-stangata-print.pdf
+
+
+
 ## scans
 
 ### enteignung.2024.600dpi.tiff
