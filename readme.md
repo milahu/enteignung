@@ -59,6 +59,7 @@ work in progress...
 ### german
 
 - https://img1.wsimg.com/blobby/go/1ee786fb-3c78-4903-9701-d614892d09d6/taking-german%20(2).pdf
+  - https://library.bz/main/uploads/0303E1A0ACACD1F600B01913C36C3E46
 
 
 
