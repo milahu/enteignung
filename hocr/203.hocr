@@ -20,52 +20,10 @@
      </span>
     </p>
    </div>
-   <div class='ocr_separator' id='block_1_2' title="bbox 302 311 2526 319"></div>
-   <div class='ocr_carea' id='block_1_3' title="bbox 307 473 386 532">
-    <p class='ocr_par' id='par_1_2' lang='deu' title="bbox 307 473 386 532">
-     <span class='ocr_line' id='line_1_2' title="bbox 307 473 386 532; baseline 0.025 -2; x_size 77.333336; x_descenders 19.333334; x_ascenders 19.333334">
-      <span class='ocrx_word' id='word_1_5' title='bbox 307 473 386 532; x_wconf 96'>62</span>
-     </span>
-    </p>
-   </div>
-   <div class='ocr_carea' id='block_1_4' title="bbox 307 588 385 645">
-    <p class='ocr_par' id='par_1_3' lang='deu' title="bbox 307 588 385 645">
-     <span class='ocr_line' id='line_1_3' title="bbox 307 588 385 645; baseline 0 0; x_size 76.666664; x_descenders 19.166666; x_ascenders 19.166666">
-      <span class='ocrx_word' id='word_1_6' title='bbox 307 588 385 645; x_wconf 96'>63</span>
-     </span>
-    </p>
-   </div>
-   <div class='ocr_carea' id='block_1_5' title="bbox 308 935 389 991">
-    <p class='ocr_par' id='par_1_4' lang='deu' title="bbox 308 935 389 991">
-     <span class='ocr_line' id='line_1_4' title="bbox 308 935 389 991; baseline -0.012 0; x_size 74.666664; x_descenders 18.666666; x_ascenders 18.666666">
-      <span class='ocrx_word' id='word_1_7' title='bbox 308 935 389 991; x_wconf 96'>64</span>
-     </span>
-    </p>
-   </div>
-   <div class='ocr_carea' id='block_1_6' title="bbox 308 1396 387 1452">
-    <p class='ocr_par' id='par_1_5' lang='deu' title="bbox 308 1396 387 1452">
-     <span class='ocr_line' id='line_1_5' title="bbox 308 1396 387 1452; baseline 0 0; x_size 75.333336; x_descenders 18.833334; x_ascenders 18.833334">
-      <span class='ocrx_word' id='word_1_8' title='bbox 308 1396 387 1452; x_wconf 96'>65</span>
-     </span>
-    </p>
-   </div>
-   <div class='ocr_carea' id='block_1_7' title="bbox 309 1856 389 1913">
-    <p class='ocr_par' id='par_1_6' lang='deu' title="bbox 309 1856 389 1913">
-     <span class='ocr_line' id='line_1_6' title="bbox 309 1856 389 1913; baseline 0 0; x_size 76.666664; x_descenders 19.166666; x_ascenders 19.166666">
-      <span class='ocrx_word' id='word_1_9' title='bbox 309 1856 389 1913; x_wconf 96'>66</span>
-     </span>
-    </p>
-   </div>
-   <div class='ocr_carea' id='block_1_8' title="bbox 309 2548 387 2604">
-    <p class='ocr_par' id='par_1_7' lang='deu' title="bbox 309 2548 387 2604">
-     <span class='ocr_line' id='line_1_7' title="bbox 309 2548 387 2604; baseline -0.013 0; x_size 74.666664; x_descenders 18.666666; x_ascenders 18.666666">
-      <span class='ocrx_word' id='word_1_10' title='bbox 309 2548 387 2604; x_wconf 96'>67</span>
-     </span>
-    </p>
-   </div>
    <div class='ocr_carea' id='block_1_9' title="bbox 445 470 2529 2623">
     <p class='ocr_par' id='par_1_8' lang='eng' title="bbox 445 470 1952 549">
      <span class='ocr_line' id='line_1_8' title="bbox 445 470 1952 549; baseline 0 -21; x_size 78; x_descenders 19; x_ascenders 22">
+      <span class='ocrx_word' id='word_1_5' title='bbox 307 473 386 532; x_wconf 96'>62</span>
       <span class='ocrx_word' id='word_1_11' title='bbox 445 471 800 549; x_wconf 92'>Wikipedia</span>
       <span class='ocrx_word' id='word_1_12' title='bbox 827 471 1056 547; x_wconf 88' lang='deu'>(2023):</span>
       <span class='ocrx_word' id='word_1_13' title='bbox 1088 470 1952 548; x_wconf 90' lang='deu'>Savings-and-Loan-Krise.</span>
@@ -74,6 +32,7 @@
 
     <p class='ocr_par' id='par_1_9' lang='deu' title="bbox 446 585 2528 1355">
      <span class='ocr_line' id='line_1_9' title="bbox 450 585 2524 664; baseline -0.001 -20; x_size 78; x_descenders 21; x_ascenders 21">
+      <span class='ocrx_word' id='word_1_6' title='bbox 307 588 385 645; x_wconf 96'>63</span>
       <span class='ocrx_word' id='word_1_14' title='bbox 450 587 658 664; x_wconf 92'>Single</span>
       <span class='ocrx_word' id='word_1_15' title='bbox 688 586 1059 644; x_wconf 91'>Resolution</span>
       <span class='ocrx_word' id='word_1_16' title='bbox 1086 568 1317 657; x_wconf 92'>Board,</span>
@@ -88,12 +47,10 @@
       <span class='ocrx_word' id='word_1_23' title='bbox 446 703 618 761; x_wconf 90' lang='eng'>work</span>
       <span class='ocrx_word' id='word_1_24' title='bbox 644 703 877 774; x_wconf 89' lang='eng'>review,</span>
       <span class='ocrx_word' id='word_1_25' title='bbox 910 703 1096 763; x_wconf 88' lang='eng'>2021.</span>
-      <span class='ocrx_word' id='word_1_26' title='bbox 1128 701 2524 779; x_wconf 86' lang='eng'>https://srb.europa.eu/system/files/me-</span>
-     </span>
-     <span class='ocr_line' id='line_1_11' title="bbox 449 816 2375 893; baseline -0.002 -17; x_size 68; x_descenders 10; x_ascenders 22">
-      <span class='ocrx_word' id='word_1_27' title='bbox 449 816 2375 893; x_wconf 62' lang='eng'>dia/document/2021-05-18_srb_views_on_cmdi_1.pdf</span>
+      <span class='ocrx_word' id='word_1_26' title='bbox 1128 701 2524 779; x_wconf 86' lang='eng'>https://srb.europa.eu/system/files/media/document/2021-05-18_srb_views_on_cmdi_1.pdf</span>
      </span>
      <span class='ocr_line' id='line_1_12' title="bbox 450 931 2528 1010; baseline -0.001 -19; x_size 78; x_descenders 20; x_ascenders 22">
+      <span class='ocrx_word' id='word_1_7' title='bbox 308 935 389 991; x_wconf 96'>64</span>
       <span class='ocrx_word' id='word_1_28' title='bbox 450 933 659 1010; x_wconf 90' lang='eng'>Single</span>
       <span class='ocrx_word' id='word_1_29' title='bbox 697 933 1068 991; x_wconf 90' lang='eng'>Resolution</span>
       <span class='ocrx_word' id='word_1_30' title='bbox 1104 932 1335 1004; x_wconf 91' lang='eng'>Board,</span>
@@ -109,18 +66,15 @@
       <span class='ocrx_word' id='word_1_38' title='bbox 1203 1048 1426 1119; x_wconf 91' lang='eng'>Banks,</span>
       <span class='ocrx_word' id='word_1_39' title='bbox 1463 1048 1672 1123; x_wconf 90'>2022),</span>
       <span class='ocrx_word' id='word_1_40' title='bbox 1708 1048 1894 1108; x_wconf 91' lang='eng'>2021.</span>
-      <span class='ocrx_word' id='word_1_41' title='bbox 1929 1047 2521 1124; x_wconf 85' lang='eng'>https://www.srb.</span>
-     </span>
-     <span class='ocr_line' id='line_1_14' title="bbox 449 1162 2524 1241; baseline -0.001 -20; x_size 78; x_descenders 20; x_ascenders 22">
-      <span class='ocrx_word' id='word_1_42' title='bbox 449 1162 2524 1241; x_wconf 79' lang='eng'>europa.eu/system/files/media/document/202112-01_Sol-</span>
-     </span>
-     <span class='ocr_line' id='line_1_15' title="bbox 447 1278 1862 1355; baseline -0.001 -19; x_size 77; x_descenders 20; x_ascenders 21">
-      <span class='ocrx_word' id='word_1_43' title='bbox 447 1278 1862 1355; x_wconf 90' lang='eng'>vent-wind-down-guidance-for-banks.pdf</span>
+      <!-- fixed link: 202112-01 -> 2021-12-01 -->
+      <span class='ocrx_word' id='word_1_41' title='bbox 1929 1047 2521 1124; x_wconf 85' lang='eng'>https://www.srb.europa.eu/system/files/media/document/2021-12-01_Solvent-wind-down-guidance-for-banks.pdf
+      </span>
      </span>
     </p>
 
     <p class='ocr_par' id='par_1_10' lang='eng' title="bbox 449 1393 2529 1816">
      <span class='ocr_line' id='line_1_16' title="bbox 451 1393 2522 1471; baseline -0 -20; x_size 79; x_descenders 20; x_ascenders 23">
+      <span class='ocrx_word' id='word_1_8' title='bbox 308 1396 387 1452; x_wconf 96'>65</span>
       <span class='ocrx_word' id='word_1_44' title='bbox 451 1394 659 1471; x_wconf 91'>Single</span>
       <span class='ocrx_word' id='word_1_45' title='bbox 707 1394 1078 1452; x_wconf 90'>Resolution</span>
       <span class='ocrx_word' id='word_1_46' title='bbox 1124 1393 1354 1465; x_wconf 91'>Board,</span>
@@ -130,19 +84,13 @@
       <span class='ocrx_word' id='word_1_50' title='bbox 2336 1393 2522 1453; x_wconf 92'>2022.</span>
      </span>
      <span class='ocr_line' id='line_1_17' title="bbox 449 1508 2526 1586; baseline -0.001 -19; x_size 76; x_descenders 19; x_ascenders 21">
-      <span class='ocrx_word' id='word_1_51' title='bbox 449 1508 2526 1586; x_wconf 55'>https://www.srb.europa.eu/system/files/media/do-</span>
-     </span>
-     <span class='ocr_line' id='line_1_18' title="bbox 450 1623 2529 1700; baseline -0 -18; x_size 68; x_descenders 9; x_ascenders 23">
-      <span class='ocrx_word' id='word_1_52' title='bbox 450 1623 2529 1700; x_wconf 0'>cument/2022.3702_Work%20Programme?0202023</span>
-      <span class='ocrx_word' id='word_1_53' title='bbox 2490 1617 2534 1704; x_wconf 21'>_</span>
-     </span>
-     <span class='ocr_line' id='line_1_19' title="bbox 450 1739 1462 1816; baseline -0.001 -20; x_size 68; x_descenders 10; x_ascenders 21">
-      <span class='ocrx_word' id='word_1_54' title='bbox 450 1739 1462 1816; x_wconf 8'>Final%20version_web_0.pdf</span>
+      <span class='ocrx_word' id='word_1_51' title='bbox 449 1508 2526 1586; x_wconf 55'>https://www.srb.europa.eu/system/files/media/document/2022.3702_Work%20Programme%202023_Final%20version_web_0.pdf</span>
      </span>
     </p>
 
     <p class='ocr_par' id='par_1_11' lang='eng' title="bbox 448 1854 2527 2508">
      <span class='ocr_line' id='line_1_20' title="bbox 452 1854 2526 1932; baseline -0 -20; x_size 77; x_descenders 20; x_ascenders 21">
+      <span class='ocrx_word' id='word_1_9' title='bbox 309 1856 389 1913; x_wconf 96'>66</span>
       <span class='ocrx_word' id='word_1_55' title='bbox 452 1855 660 1932; x_wconf 92'>Single</span>
       <span class='ocrx_word' id='word_1_56' title='bbox 687 1855 1058 1913; x_wconf 91'>Resolution</span>
       <span class='ocrx_word' id='word_1_57' title='bbox 1082 1855 1313 1926; x_wconf 92'>Board,</span>
@@ -174,21 +122,16 @@
      <span class='ocr_line' id='line_1_23' title="bbox 450 2200 2523 2278; baseline 0 -21; x_size 77; x_descenders 19; x_ascenders 21">
       <span class='ocrx_word' id='word_1_78' title='bbox 450 2201 775 2278; x_wconf 91'>Planning,</span>
       <span class='ocrx_word' id='word_1_79' title='bbox 842 2201 1028 2261; x_wconf 92'>2022.</span>
-      <span class='ocrx_word' id='word_1_80' title='bbox 1094 2200 2523 2277; x_wconf 89'>https://www.srb.europa.eu/en/content/</span>
-     </span>
-     <span class='ocr_line' id='line_1_24' title="bbox 448 2315 2526 2393; baseline 0 -21; x_size 77; x_descenders 20; x_ascenders 21">
-      <span class='ocrx_word' id='word_1_81' title='bbox 448 2315 2526 2393; x_wconf 87'>principals-us-european-banking-union-and-uk-financi-</span>
-     </span>
-     <span class='ocr_line' id='line_1_25' title="bbox 450 2431 1858 2508; baseline -0.001 -19; x_size 76; x_descenders 19; x_ascenders 21">
-      <span class='ocrx_word' id='word_1_82' title='bbox 450 2431 1858 2508; x_wconf 89'>al-authorities-meet-regular-coordination</span>
+      <span class='ocrx_word' id='word_1_80' title='bbox 1094 2200 2523 2277; x_wconf 89'>https://www.srb.europa.eu/en/content/principals-us-european-banking-union-and-uk-financial-authorities-meet-regular-coordination</span>
      </span>
     </p>
 
     <p class='ocr_par' id='par_1_12' lang='eng' title="bbox 448 2546 2527 2623">
      <span class='ocr_line' id='line_1_26' title="bbox 448 2546 2527 2623; baseline 0 -21; x_size 77; x_descenders 20; x_ascenders 21">
+      <span class='ocrx_word' id='word_1_10' title='bbox 309 2548 387 2604; x_wconf 96'>67</span>
       <span class='ocrx_word' id='word_1_83' title='bbox 448 2547 794 2604; x_wconf 92'>Ausschuss</span>
       <span class='ocrx_word' id='word_1_84' title='bbox 822 2546 935 2603; x_wconf 93'>der</span>
-      <span class='ocrx_word' id='word_1_85' title='bbox 962 2546 1371 2603; x_wconf 92'>Prasidenten</span>
+      <span class='ocrx_word' id='word_1_85' title='bbox 962 2546 1371 2603; x_wconf 92'>Präsidenten</span>
       <span class='ocrx_word' id='word_1_86' title='bbox 1400 2546 1549 2603; x_wconf 91'>aller</span>
       <span class='ocrx_word' id='word_1_87' title='bbox 1576 2546 1942 2623; x_wconf 92'>regionalen</span>
       <span class='ocrx_word' id='word_1_88' title='bbox 1969 2546 2527 2604; x_wconf 91'>US-Bundesban-</span>
@@ -207,48 +150,19 @@
      <span class='ocr_header' id='line_1_28' title="bbox 309 2777 2007 2853; baseline -0.001 -19; x_size 76; x_descenders 19; x_ascenders 21">
       <span class='ocrx_word' id='word_1_90' title='bbox 309 2778 389 2834; x_wconf 93'>68</span>
       <span class='ocrx_word' id='word_1_91' title='bbox 415 2777 761 2834; x_wconf 90'>Ausschuss</span>
-      <span class='ocrx_word' id='word_1_92' title='bbox 787 2777 887 2834; x_wconf 90'>fur</span>
+      <span class='ocrx_word' id='word_1_92' title='bbox 787 2777 887 2834; x_wconf 90'>für</span>
       <span class='ocrx_word' id='word_1_93' title='bbox 909 2777 1339 2853; x_wconf 88'>Wertpapiere</span>
       <span class='ocrx_word' id='word_1_94' title='bbox 1366 2777 1501 2834; x_wconf 91'>und</span>
-      <span class='ocrx_word' id='word_1_95' title='bbox 1527 2777 2007 2835; x_wconf 91'>Borsenhandel</span>
-     </span>
-    </p>
-   </div>
-   <div class='ocr_carea' id='block_1_12' title="bbox 309 2893 390 3295">
-    <p class='ocr_par' id='par_1_15' lang='eng' title="bbox 309 2893 390 3295">
-     <span class='ocr_line' id='line_1_29' title="bbox 309 2893 389 2949; baseline 0 0; x_size 75; x_descenders 18.75; x_ascenders 18.75">
-      <span class='ocrx_word' id='word_1_96' title='bbox 309 2893 389 2949; x_wconf 96'>69</span>
-     </span>
-     <span class='ocr_line' id='line_1_30' title="bbox 312 3009 390 3065; baseline 0 0; x_size 75; x_descenders 18.75; x_ascenders 18.75">
-      <span class='ocrx_word' id='word_1_97' title='bbox 312 3009 390 3065; x_wconf 96'>70</span>
-     </span>
-     <span class='ocr_line' id='line_1_31' title="bbox 312 3123 381 3178; baseline -0.029 0; x_size 75; x_descenders 18.75; x_ascenders 18.75">
-      <span class='ocrx_word' id='word_1_98' title='bbox 312 3123 381 3178; x_wconf 96'>71</span>
-     </span>
-     <span class='ocr_line' id='line_1_32' title="bbox 312 3237 387 3295; baseline 0.04 -3; x_size 75; x_descenders 18.75; x_ascenders 18.75">
-      <span class='ocrx_word' id='word_1_99' title='bbox 312 3237 387 3295; x_wconf 96'>72</span>
-     </span>
-    </p>
-   </div>
-   <div class='ocr_carea' id='block_1_13' title="bbox 311 3465 387 3521">
-    <p class='ocr_par' id='par_1_16' lang='eng' title="bbox 311 3465 387 3521">
-     <span class='ocr_line' id='line_1_33' title="bbox 311 3465 387 3521; baseline 0 0; x_size 75.333336; x_descenders 18.833334; x_ascenders 18.833334">
-      <span class='ocrx_word' id='word_1_100' title='bbox 311 3465 387 3521; x_wconf 95'>73</span>
-     </span>
-    </p>
-   </div>
-   <div class='ocr_carea' id='block_1_14' title="bbox 311 3922 390 3978">
-    <p class='ocr_par' id='par_1_17' lang='eng' title="bbox 311 3922 390 3978">
-     <span class='ocr_line' id='line_1_34' title="bbox 311 3922 390 3978; baseline -0.013 0; x_size 74; x_descenders 18.5; x_ascenders 18.5">
-      <span class='ocrx_word' id='word_1_101' title='bbox 311 3922 390 3978; x_wconf 96'>74</span>
+      <span class='ocrx_word' id='word_1_95' title='bbox 1527 2777 2007 2835; x_wconf 91'>Börsenhandel</span>
      </span>
     </p>
    </div>
    <div class='ocr_carea' id='block_1_15' title="bbox 446 2892 2530 3994">
     <p class='ocr_par' id='par_1_18' lang='eng' title="bbox 450 2892 1615 2969">
      <span class='ocr_line' id='line_1_35' title="bbox 450 2892 1615 2969; baseline 0.001 -21; x_size 78; x_descenders 21; x_ascenders 22">
-      <span class='ocrx_word' id='word_1_102' title='bbox 450 2892 887 2969; x_wconf 85'>Bilanzprufer</span>
-      <span class='ocrx_word' id='word_1_103' title='bbox 910 2892 1010 2949; x_wconf 88'>fur</span>
+      <span class='ocrx_word' id='word_1_96' title='bbox 309 2893 389 2949; x_wconf 96'>69</span>
+      <span class='ocrx_word' id='word_1_102' title='bbox 450 2892 887 2969; x_wconf 85'>Bilanzprüfer</span>
+      <span class='ocrx_word' id='word_1_103' title='bbox 910 2892 1010 2949; x_wconf 88'>für</span>
       <span class='ocrx_word' id='word_1_104' title='bbox 1026 2892 1160 2949; x_wconf 88'>den</span>
       <span class='ocrx_word' id='word_1_105' title='bbox 1188 2892 1615 2949; x_wconf 46'>Geldumlauf</span>
      </span>
@@ -256,24 +170,26 @@
 
     <p class='ocr_par' id='par_1_19' lang='eng' title="bbox 448 3007 1720 3065">
      <span class='ocr_line' id='line_1_36' title="bbox 448 3007 1720 3065; baseline 0.001 -1; x_size 76.373856; x_descenders 19.373859; x_ascenders 21">
+      <span class='ocrx_word' id='word_1_97' title='bbox 312 3009 390 3065; x_wconf 96'>70</span>
       <span class='ocrx_word' id='word_1_106' title='bbox 448 3008 602 3065; x_wconf 90'>Amt</span>
-      <span class='ocrx_word' id='word_1_107' title='bbox 626 3007 725 3065; x_wconf 82'>fur</span>
+      <span class='ocrx_word' id='word_1_107' title='bbox 626 3007 725 3065; x_wconf 82'>für</span>
       <span class='ocrx_word' id='word_1_108' title='bbox 749 3007 1149 3065; x_wconf 86'>finanziellen</span>
       <span class='ocrx_word' id='word_1_109' title='bbox 1176 3007 1677 3065; x_wconf 85'>Kundenschutz</span>
-      <span class='ocrx_word' id='word_1_110' title='bbox 1717 3014 1720 3016; x_wconf 57' lang='deu'>&#39;</span>
      </span>
     </p>
 
     <p class='ocr_par' id='par_1_20' lang='eng' title="bbox 447 3121 1730 3197">
      <span class='ocr_line' id='line_1_37' title="bbox 447 3121 1730 3197; baseline 0 -19; x_size 76; x_descenders 19; x_ascenders 21">
+      <span class='ocrx_word' id='word_1_98' title='bbox 312 3123 381 3178; x_wconf 96'>71</span>
       <span class='ocrx_word' id='word_1_111' title='bbox 447 3122 793 3178; x_wconf 84'>Ausschuss</span>
-      <span class='ocrx_word' id='word_1_112' title='bbox 819 3121 918 3178; x_wconf 90'>fur</span>
-      <span class='ocrx_word' id='word_1_113' title='bbox 941 3122 1730 3197; x_wconf 89'>Warentermingeschafte</span>
+      <span class='ocrx_word' id='word_1_112' title='bbox 819 3121 918 3178; x_wconf 90'>für</span>
+      <span class='ocrx_word' id='word_1_113' title='bbox 941 3122 1730 3197; x_wconf 89'>Warentermingeschäfte</span>
      </span>
     </p>
 
     <p class='ocr_par' id='par_1_21' lang='eng' title="bbox 446 3235 2530 3883">
      <span class='ocr_line' id='line_1_38' title="bbox 447 3235 2525 3312; baseline 0.001 -21; x_size 71; x_descenders 15; x_ascenders 21">
+      <span class='ocrx_word' id='word_1_99' title='bbox 312 3237 387 3295; x_wconf 96'>72</span>
       <span class='ocrx_word' id='word_1_114' title='bbox 447 3236 723 3293; x_wconf 92'>Atlantic</span>
       <span class='ocrx_word' id='word_1_115' title='bbox 761 3235 1053 3307; x_wconf 92'>Council,</span>
       <span class='ocrx_word' id='word_1_116' title='bbox 1094 3236 1356 3293; x_wconf 92'>Central</span>
@@ -287,6 +203,7 @@
       <span class='ocrx_word' id='word_1_122' title='bbox 668 3350 2290 3427; x_wconf 71'>https://www.atlanticcouncil.org/cbdctracker/</span>
      </span>
      <span class='ocr_line' id='line_1_40' title="bbox 449 3464 2530 3542; baseline 0.001 -22; x_size 77; x_descenders 20; x_ascenders 21">
+      <span class='ocrx_word' id='word_1_100' title='bbox 311 3465 387 3521; x_wconf 95'>73</span>
       <span class='ocrx_word' id='word_1_123' title='bbox 449 3464 907 3521; x_wconf 92'>International</span>
       <span class='ocrx_word' id='word_1_124' title='bbox 953 3465 1301 3541; x_wconf 90'>Monetary</span>
       <span class='ocrx_word' id='word_1_125' title='bbox 1346 3465 1547 3536; x_wconf 90'>Fund,</span>
@@ -301,22 +218,17 @@
       <span class='ocrx_word' id='word_1_132' title='bbox 942 3579 1046 3636; x_wconf 92'>the</span>
       <span class='ocrx_word' id='word_1_133' title='bbox 1090 3580 1337 3650; x_wconf 92'>Future,</span>
       <span class='ocrx_word' id='word_1_134' title='bbox 1383 3580 1569 3639; x_wconf 89'>2020.</span>
-      <span class='ocrx_word' id='word_1_135' title='bbox 1616 3580 2523 3657; x_wconf 89'>https://meetings.imf.org/</span>
-     </span>
-     <span class='ocr_line' id='line_1_42' title="bbox 450 3665 2526 3754; baseline 0 -4; x_size 75.835693; x_descenders 18.835697; x_ascenders 22">
-      <span class='ocrx_word' id='word_1_136' title='bbox 450 3665 2526 3754; x_wconf 71'>en/2020/Annual/Schedule/2020/10/19/imf-cross-bor-</span>
-     </span>
-     <span class='ocr_line' id='line_1_43' title="bbox 449 3807 1720 3883; baseline 0.001 -19; x_size 76; x_descenders 19; x_ascenders 21">
-      <span class='ocrx_word' id='word_1_137' title='bbox 449 3807 1720 3883; x_wconf 89'>der-payments-a-vision-for-the-future</span>
+      <span class='ocrx_word' id='word_1_135' title='bbox 1616 3580 2523 3657; x_wconf 89'>https://meetings.imf.org/en/2020/Annual/Schedule/2020/10/19/imf-cross-border-payments-a-vision-for-the-future</span>
      </span>
     </p>
 
     <p class='ocr_par' id='par_1_22' lang='eng' title="bbox 448 3922 2525 3994">
      <span class='ocr_line' id='line_1_44' title="bbox 448 3922 2525 3994; baseline 0.001 -16; x_size 72; x_descenders 15; x_ascenders 21">
-      <span class='ocrx_word' id='word_1_138' title='bbox 448 3922 806 3993; x_wconf 82'>NicHoLAS,</span>
+      <span class='ocrx_word' id='word_1_101' title='bbox 311 3922 390 3978; x_wconf 96'>74</span>
+      <span class='ocrx_word' id='word_1_138' title='bbox 448 3922 806 3993; x_wconf 82'>Nicholas,</span>
       <span class='ocrx_word' id='word_1_139' title='bbox 849 3922 911 3979; x_wconf 73'>T.</span>
       <span class='ocrx_word' id='word_1_140' title='bbox 956 3922 1090 3979; x_wconf 89'>und</span>
-      <span class='ocrx_word' id='word_1_141' title='bbox 1133 3922 1515 3993; x_wconf 73'>ScHERBINA,</span>
+      <span class='ocrx_word' id='word_1_141' title='bbox 1133 3922 1515 3993; x_wconf 73'>Scherbina,</span>
       <span class='ocrx_word' id='word_1_142' title='bbox 1557 3923 1655 3994; x_wconf 87'>A.,</span>
       <span class='ocrx_word' id='word_1_143' title='bbox 1699 3923 1855 3980; x_wconf 90'>Real</span>
       <span class='ocrx_word' id='word_1_144' title='bbox 1897 3924 2104 3981; x_wconf 92'>Estate</span>
