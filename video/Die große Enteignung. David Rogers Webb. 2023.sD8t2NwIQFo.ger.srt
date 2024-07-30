@@ -2992,7 +2992,7 @@ sie schufen ein monolitisches Risiko
 
 749
 00:30:26,200 --> 00:30:28,669
-weil sie das zentrale clearing zwangen
+weil sie das zentrale clearing erzwangen,
 
 750
 00:30:28,679 --> 00:30:31,230
@@ -3000,15 +3000,15 @@ sodass die CCP die Gegenpartei aller
 
 751
 00:30:31,240 --> 00:30:33,430
-derivatverträge ist die zentralen
+derivatverträge ist. Die zentralen
 
 752
 00:30:33,440 --> 00:30:36,389
-clearing Parteien sind die Gegenparteien
+clearing Parteien sind die Gegenparteien.
 
 753
 00:30:36,399 --> 00:30:38,350
-was bedeutet das nun wenn die zentrale
+Was bedeutet das nun wenn die zentrale
 
 754
 00:30:38,360 --> 00:30:40,269
@@ -3016,11 +3016,11 @@ Clearingstelle selbst
 
 755
 00:30:40,279 --> 00:30:42,830
-ausfällt das bedeutet dass es keine
+ausfällt? Das bedeutet dass es keine
 
 756
 00:30:42,840 --> 00:30:44,669
-Gegenpartei gibt die die
+Gegenpartei gibt, die die
 
 757
 00:30:44,679 --> 00:30:46,509
@@ -3028,7 +3028,7 @@ Derivatkontrakte für alle möglichen
 
 758
 00:30:46,519 --> 00:30:48,870
-Dinge einlöst vor allem aber für Leute
+Dinge einlöst, vor allem aber für Leute
 
 759
 00:30:48,880 --> 00:30:50,830
@@ -3040,15 +3040,15 @@ bei einem Zusammenbruch abgesichert
 
 761
 00:30:53,440 --> 00:30:56,470
-haben es gibt keine Gegenpartei und die
+haben. Es gibt keine Gegenpartei, und die
 
 762
 00:30:56,480 --> 00:30:58,389
-zentralen clearing Partei sind
+zentralen clearing Parteien sind
 
 763
 00:30:58,399 --> 00:31:00,509
-absichtlich unterkapitalisiert worden
+absichtlich unterkapitalisiert worden,
 
 764
 00:31:00,519 --> 00:31:03,269
@@ -3068,7 +3068,7 @@ clearing
 
 768
 00:31:09,360 --> 00:31:11,710
-Parteien in den letzten Jahren gab es
+Parteien. In den letzten Jahren gab es
 
 769
 00:31:11,720 --> 00:31:14,909
@@ -3076,15 +3076,15 @@ diesbezügliche
 
 770
 00:31:17,149 --> 00:31:17,159
-Diskussionen wenn man sich die DTC
+Diskussionen. Wenn man sich die DTC
 
 771
 00:31:17,159 --> 00:31:19,669
-selbst anschaut die alle Wertpapiere im
+selbst anschaut, die alle Wertpapiere im
 
 772
 00:31:19,679 --> 00:31:21,950
-wertpapierkomplex beherbergt und die
+wertpapierkomplex beherbergt, und die
 
 773
 00:31:21,960 --> 00:31:23,990
@@ -3092,23 +3092,23 @@ zentrale Clearingstelle für die meisten
 
 774
 00:31:24,000 --> 00:31:27,190
-Derivate ist hat man darüber diskutiert
+Derivate ist, hat man darüber diskutiert,
 
 775
 00:31:27,200 --> 00:31:29,029
-wie man ne anfangen wird wenn die
+wie man ne anfangen wird, wenn die
 
 776
 00:31:29,039 --> 00:31:31,269
-zentrale Clearingstelle zusammenbricht
+zentrale Clearingstelle zusammenbricht,
 
 777
 00:31:31,279 --> 00:31:33,389
-und ausdrücklich gesagt dass man nicht
+und ausdrücklich gesagt, dass man nicht
 
 778
 00:31:33,399 --> 00:31:35,590
-mehr Kapital bereitstellen wird sondern
+mehr Kapital bereitstellen wird, sondern
 
 779
 00:31:35,600 --> 00:31:37,590
@@ -3116,7 +3116,7 @@ dass man den Staat einer neuen zentralen
 
 780
 00:31:37,600 --> 00:31:39,750
-Clearingstelle vorfinanziert hat wenn
+Clearingstelle vorfinanziert hat, wenn
 
 781
 00:31:39,760 --> 00:31:42,909
@@ -3144,7 +3144,7 @@ US-amerikanische wertepapierkomplex in
 
 787
 00:31:53,600 --> 00:31:57,029
-allen Derivaten dort untergebracht ist
+allen Derivaten dort untergebracht ist.
 
 788
 00:31:57,039 --> 00:31:59,909
@@ -3152,7 +3152,7 @@ das gesamte beträgt 3,5 Milliarden
 
 789
 00:31:59,919 --> 00:32:02,110
-Dollar einzelne Banken haben
+Dollar. Einzelne Banken haben
 
 790
 00:32:02,120 --> 00:32:04,190
@@ -3164,15 +3164,15 @@ des globalen
 
 792
 00:32:10,350 --> 00:32:10,360
-BIP irgendetwas wird also passieren um
+BIP. Irgendetwas wird also passieren, um
 
 793
 00:32:10,360 --> 00:32:13,029
-diese kollapsimplosion auszulösen ich
+diese Kollaps-Implosion auszulösen. Ich
 
 794
 00:32:13,039 --> 00:32:15,070
-würde sagen der Kuchen ist zu diesem
+würde sagen, der Kuchen ist zu diesem
 
 795
 00:32:15,080 --> 00:32:17,870
@@ -3180,7 +3180,7 @@ Zeitpunkt bereits
 
 796
 00:32:17,880 --> 00:32:20,909
-gebacken er wurde herbeigeführt weil die
+gebacken. Er wurde herbeigeführt weil die
 
 797
 00:32:20,919 --> 00:32:22,990
@@ -3208,7 +3208,7 @@ innerhalb eines Jahres wieder auf über
 
 803
 00:32:34,960 --> 00:32:37,669
-5% zu erhöhen und wenn Sie bemerken dass
+5% zu erhöhen, und wenn Sie bemerken dass
 
 804
 00:32:37,679 --> 00:32:41,789
@@ -3216,15 +3216,15 @@ sie nicht aufhören steigen die Zinsen
 
 805
 00:32:41,799 --> 00:32:44,590
-weiter ich werde Ihnen erklären was das
+weiter. Ich werde Ihnen erklären, was das
 
 806
 00:32:44,600 --> 00:32:46,909
-für das globale Finanzsystem bedeutet
+für das globale Finanzsystem bedeutet.
 
 807
 00:32:46,919 --> 00:32:49,909
-als die Zinssätze bei 5% lagen zahlte
+Als die Zinssätze bei 5% lagen, zahlte
 
 808
 00:32:49,919 --> 00:32:52,789
@@ -3240,19 +3240,19 @@ dann ist das vereinfacht hat gesagt eine
 
 811
 00:32:58,600 --> 00:33:01,310
-ewige Rente was bedeutet dass man kein
+ewige Rente, was bedeutet dass man kein
 
 812
 00:33:01,320 --> 00:33:03,470
-Fälligkeitsdatum berücksichtigen muss
+Fälligkeitsdatum berücksichtigen muss.
 
 813
 00:33:03,480 --> 00:33:06,389
-wenn eine Anleihe also 5$ einbringt ist
+Wenn eine Anleihe also 5$ einbringt, ist
 
 814
 00:33:06,399 --> 00:33:09,549
-sie 100$ Wert und man würde 100$ dafür
+sie 100$ wert, und man würde 100$ dafür
 
 815
 00:33:09,559 --> 00:33:12,430
@@ -3264,43 +3264,43 @@ wenn nun die Zinsen von der Zentralbank
 
 817
 00:33:14,639 --> 00:33:17,230
-auf 1% gesenkt werden und die Anleihe
+auf 1% gesenkt werden, und die Anleihe
 
 818
 00:33:17,240 --> 00:33:21,230
-immer noch 5$ wert ist dann ist 5 1% von
+immer noch 5$ wert ist, dann ist 5 1% von
 
 819
 00:33:21,240 --> 00:33:23,870
-500$ der Wert der Anleihe steigt also um
+500$ der Wert. Der Anleihe steigt also um
 
 820
 00:33:23,880 --> 00:33:26,070
-das Fünffache wenn die Zinssätze auf
+das Fünffache, wenn die Zinssätze auf
 
 821
 00:33:26,080 --> 00:33:28,870
-diese Weise gesenkt werden
+diese Weise gesenkt werden,
 
 822
 00:33:28,880 --> 00:33:30,909
-und er steigt sogar noch weiter wenn sie
+und er steigt sogar noch weiter, wenn sie
 
 823
 00:33:30,919 --> 00:33:33,190
-auf Null gesenkt werden das ist also die
+auf Null gesenkt werden. Das ist also die
 
 824
 00:33:33,200 --> 00:33:35,830
-Quelle der Blase der Finanzblase die wir
+Quelle der Blase der Finanzblase, die wir
 
 825
 00:33:35,840 --> 00:33:38,710
-erlebt haben der allesblase wie manche
+erlebt haben der "Alles Blase" wie manche
 
 826
 00:33:38,720 --> 00:33:40,549
-Leute sie nennen und das gesamte
+Leute sie nennen, und das gesamte
 
 827
 00:33:40,559 --> 00:33:43,629
@@ -3340,15 +3340,15 @@ Zinssätze von einem Prozent auf über 5%
 
 836
 00:34:06,799 --> 00:34:08,990
-anhebt was hier geschehen ist dann kehrt
+anhebt, was hier geschehen ist, dann kehrt
 
 837
 00:34:09,000 --> 00:34:10,909
-man die ganze Sache um und hat einen
+man die ganze Sache um, und hat einen
 
 838
 00:34:10,919 --> 00:34:13,349
-80przentigen Wertverlust von allem von
+80-prozentigen Wertverlust von allem, von
 
 839
 00:34:13,359 --> 00:34:15,510
@@ -3368,11 +3368,11 @@ ihnen passiert wenn Sie diese Dinge mit
 
 843
 00:34:23,720 --> 00:34:25,669
-Hebelwirkung besitzen wenn Sie diese
+Hebelwirkung besitzen, wenn Sie diese
 
 844
 00:34:25,679 --> 00:34:28,310
-Dinge besitzen das ist das Problem also
+Dinge besitzen, das ist das Problem, also
 
 845
 00:34:28,320 --> 00:34:30,389
@@ -3380,11 +3380,11 @@ war der gesamte Anstieg die gesamte
 
 846
 00:34:30,399 --> 00:34:32,550
-Blase künstlich und der Rückgang wird so
+Blase künstlich, und der Rückgang wird so
 
 847
 00:34:32,560 --> 00:34:34,790
-etwas wie eine Dezimierung sein bei der
+etwas wie eine Dezimierung sein, bei der
 
 848
 00:34:34,800 --> 00:34:37,190
@@ -3392,35 +3392,35 @@ die Indizes auf vielleicht 10% des
 
 849
 00:34:37,200 --> 00:34:40,190
-höchstandes sinken
+Höchstandes sinken
 
 850
 00:34:40,200 --> 00:34:42,629
-werden weil viele Dinge einfach aus dem
+werden, weil viele Dinge einfach aus dem
 
 851
 00:34:42,639 --> 00:34:44,869
-Geschäft gehen werden und das ist das
+Geschäft gehen werden. Und das ist das
 
 852
 00:34:44,879 --> 00:34:46,829
-was mit dem gesamten docom Sektor
+was mit dem gesamten Dotcom Sektor
 
 853
 00:34:46,839 --> 00:34:48,389
-passiert ist als diese Blase
+passiert ist, als diese Blase
 
 854
 00:34:48,399 --> 00:34:50,270
-zusammenbrach das ist das was in den
+zusammenbrach, das ist das was in den
 
 855
 00:34:50,280 --> 00:34:52,909
-1930er Jahren passiert ist das ist mit
+1930er Jahren passiert ist, das ist mit
 
 856
 00:34:52,919 --> 00:34:55,750
-dem nikai in Japan passiert alle Blasen
+dem Nikkei in Japan passiert alle Blasen
 
 857
 00:34:55,760 --> 00:34:58,069
@@ -3460,7 +3460,7 @@ sind wenn man einen Schritt zurücktritt
 
 866
 00:35:16,760 --> 00:35:18,710
-und sich etwas wie den nasdack Index
+und sich etwas wie den Nasdaq Index
 
 867
 00:35:18,720 --> 00:35:20,710
@@ -3508,7 +3508,7 @@ gegen Parteien übertragen
 
 878
 00:35:50,150 --> 00:35:50,160
-werden aber die zentralen clearing
+werden. Aber die zentralen clearing
 
 879
 00:35:50,160 --> 00:35:52,069
@@ -3520,7 +3520,7 @@ dem Zusammenbruch
 
 881
 00:35:54,960 --> 00:35:57,750
-ausgesetzt denn ich sage den Leuten dass
+ausgesetzt. Und ich sage den Leuten, dass
 
 882
 00:35:57,760 --> 00:35:59,109
@@ -3540,19 +3540,19 @@ derivatekomplex
 
 886
 00:36:04,200 --> 00:36:07,230
-getan das Risiko liegt also im
+getan. Das Risiko liegt also im
 
 887
 00:36:07,240 --> 00:36:09,710
-derivatekomplex es verschwindet nicht es
+derivatekomplex. Es verschwindet nicht, es
 
 888
 00:36:09,720 --> 00:36:11,950
-geht nicht weg es ist alles
+geht nicht weg, es ist alles
 
 889
 00:36:11,960 --> 00:36:14,829
-da und dieser Schmerz wird sich bei den
+da, und dieser Schmerz wird sich bei den
 
 890
 00:36:14,839 --> 00:36:16,710
@@ -3588,7 +3588,7 @@ Pensionsfonds
 
 898
 00:36:37,470 --> 00:36:37,480
-einschließen und die gesicherten
+einschließen. Und die gesicherten
 
 899
 00:36:37,480 --> 00:36:39,309
@@ -3600,7 +3600,7 @@ liegenden Aktien und Anleihen
 
 901
 00:36:45,670 --> 00:36:45,680
-aneignen was ihnen dann die Kontrolle
+aneignen, was ihnen dann die Kontrolle
 
 902
 00:36:45,680 --> 00:36:50,030
@@ -3608,7 +3608,7 @@ aneignen was ihnen dann die Kontrolle
 
 903
 00:36:53,349 --> 00:36:53,359
-gibt das ist also so etwas wie das was
+gibt. Das ist also so etwas wie das, was
 
 904
 00:36:53,359 --> 00:36:56,510
@@ -3616,7 +3616,7 @@ in den 1930er Jahren passiert
 
 905
 00:36:56,520 --> 00:36:59,069
-ist schuldung überall auf der Welt zu
+ist, wo es aufgrund der hohen Überschuldung überall auf der Welt zu
 
 906
 00:36:59,079 --> 00:37:00,990
@@ -3640,11 +3640,10 @@ Federal Reserve kontrolliert wurden
 
 911
 00:37:10,560 --> 00:37:13,260
-sollten überleben
+sollten überleben.
 
 912
 00:37:13,270 --> 00:37:14,510
-[Musik]
 
 913
 00:37:14,520 --> 00:37:16,910
@@ -3656,11 +3655,11 @@ wurden in den Konkurs
 
 915
 00:37:19,240 --> 00:37:21,230
-getrieben die Menschen die Geld in
+getrieben. Die Menschen die Geld in
 
 916
 00:37:21,240 --> 00:37:23,109
-diesem Banken hatten verloren ihr
+diesem Banken hatten, verloren ihr
 
 917
 00:37:23,119 --> 00:37:24,230
@@ -3668,11 +3667,11 @@ gesamtes
 
 918
 00:37:24,240 --> 00:37:26,630
-Bargeld aber ihre Schulden wurden nicht
+Bargeld, aber ihre Schulden wurden nicht
 
 919
 00:37:26,640 --> 00:37:28,670
-erlassen ihre Schulden wurden dann im
+erlassen, ihre Schulden wurden dann im
 
 920
 00:37:28,680 --> 00:37:30,950
@@ -3684,15 +3683,15 @@ und
 
 922
 00:37:32,079 --> 00:37:34,069
-vollstreckt die Leute die Schulden
+vollstreckt. Die Leute die Schulden
 
 923
 00:37:34,079 --> 00:37:36,069
-hatten waren also in Schwierigkeiten
+hatten waren also in Schwierigkeiten,
 
 924
 00:37:36,079 --> 00:37:39,190
-selbst reiche Leute verloren alles der
+selbst reiche Leute verloren alles. Der
 
 925
 00:37:39,200 --> 00:37:40,950
@@ -3724,15 +3723,15 @@ Schulden gegen sie
 
 932
 00:37:54,800 --> 00:37:57,829
-haben sie besitzen sie klar und deut
+haben. Sie besitzen sie, klar und deutlich.
 
 933
 00:37:57,839 --> 00:37:59,550
-lassen Sie mich ihen ein Beispiel als
+Lassen Sie mich ihen ein Beispiel als
 
 934
 00:37:59,560 --> 00:38:01,630
-Analogie geben um den Schrecken dieser
+Analogie geben, um den Schrecken dieser
 
 935
 00:38:01,640 --> 00:38:04,069
@@ -3740,7 +3739,7 @@ Entwicklung zu
 
 936
 00:38:04,079 --> 00:38:06,950
-erklären sie haben also ein Auto gekauft
+erklären. Sie haben also ein Auto gekauft
 
 937
 00:38:06,960 --> 00:38:09,230
@@ -3764,7 +3763,7 @@ Händler weiterhin ihr Auto als
 
 942
 00:38:17,599 --> 00:38:19,829
-Sicherheiten kontrolliert das wird ihnen
+Sicherheiten kontrolliert, das wird ihnen
 
 943
 00:38:19,839 --> 00:38:21,870
@@ -3772,7 +3771,7 @@ nicht
 
 944
 00:38:21,880 --> 00:38:24,950
-gesagt der Händler benutzt ihr Auto und
+gesagt. Der Händler benutzt ihr Auto und
 
 945
 00:38:24,960 --> 00:38:26,950
@@ -3780,7 +3779,7 @@ alle anderen von ihm verkauften Autos
 
 946
 00:38:26,960 --> 00:38:29,910
-als für seine Kredite und sein
+als für seine Kredite, und sein
 
 947
 00:38:29,920 --> 00:38:32,230
@@ -3788,7 +3787,7 @@ Geschäft jetzt geht der Händler in
 
 948
 00:38:32,240 --> 00:38:34,430
-Konkurs und nur bestimmte gesicherte
+Konkurs, und nur bestimmte gesicherte
 
 949
 00:38:34,440 --> 00:38:38,150
@@ -3808,7 +3807,7 @@ zu
 
 953
 00:38:44,000 --> 00:38:46,109
-übernehmen wenn ich das den Leuten
+übernehmen. Wenn ich das den Leuten
 
 954
 00:38:46,119 --> 00:38:47,910
@@ -3832,7 +3831,7 @@ dass es um Ihr Auto
 
 959
 00:38:59,520 --> 00:39:02,390
-geht denn es geht um buchstäblich den
+geht. Denn es geht um buchstäblich den
 
 960
 00:39:02,400 --> 00:39:04,470
@@ -3840,11 +3839,11 @@ gesamten wertpapierkomplex auf der
 
 961
 00:39:04,480 --> 00:39:06,670
-ganzen Welt es geht also nicht um ihre
+ganzen Welt. Es geht also nicht um ihre
 
 962
 00:39:06,680 --> 00:39:08,589
-Insolvenz die den Verlust ihres
+Insolvenz, die den Verlust ihres
 
 963
 00:39:08,599 --> 00:39:10,430
@@ -3860,19 +3859,19 @@ Sicherheiten heimlich als ihr Eigentum
 
 966
 00:39:14,160 --> 00:39:16,510
-verwendet haben ohne Ihnen das zu sagen
+verwendet haben, ohne Ihnen das zu sagen
 
 967
 00:39:16,520 --> 00:39:21,110
-oder es offenzulegen
+oder es offenzulegen.
 
 968
 00:39:30,870 --> 00:39:30,880
-wie kann das rechtlich geschehen das ist
+Wie kann das rechtlich geschehen? Das ist
 
 969
 00:39:30,880 --> 00:39:32,829
-eine gute Frage und vielleicht besteht
+eine gute Frage, und vielleicht besteht
 
 970
 00:39:32,839 --> 00:39:34,550
@@ -3880,23 +3879,23 @@ eine gewisse Hoffnung für die Menschheit
 
 971
 00:39:34,560 --> 00:39:36,790
-darin dies zu vermeiden indem man dieses
+darin, dies zu vermeiden, indem man dieses
 
 972
 00:39:36,800 --> 00:39:39,710
-ganze Konstrukt in Frage stellt weil es
+ganze Konstrukt in Frage stellt, weil es
 
 973
 00:39:39,720 --> 00:39:42,510
-ein Konstrukt ist nichts davon ist real
+ein Konstrukt ist, nichts davon ist real.
 
 974
 00:39:42,520 --> 00:39:44,950
-es gibt reale Dinge auf dieser Welt das
+Es gibt reale Dinge auf dieser Welt, das
 
 975
 00:39:44,960 --> 00:39:47,309
-ist keine reale Sache aber sie werden
+ist keine reale Sache. Aber sie werden
 
 976
 00:39:47,319 --> 00:39:49,750
@@ -3912,15 +3911,15 @@ eine ausgeklügelte Geschichte also ja
 
 979
 00:39:54,599 --> 00:39:57,750
-sie haben das Gesetz geändert
+sie haben das Gesetz geändert.
 
 980
 00:39:57,760 --> 00:40:00,030
-kann man das anfechten ja das muss
+Kann man das anfechten? Ja, das muss
 
 981
 00:40:00,040 --> 00:40:02,630
-geschehen das war also der Prozess sie
+geschehen. Das war also der Prozess sie
 
 982
 00:40:02,640 --> 00:40:04,510
@@ -3944,7 +3943,7 @@ bis in die 1960er
 
 987
 00:40:14,240 --> 00:40:17,550
-Jahre als man begann Wertpapiere zu
+Jahre, als man begann, Wertpapiere zu
 
 988
 00:40:17,560 --> 00:40:19,630
@@ -3956,7 +3955,7 @@ zu
 
 990
 00:40:20,599 --> 00:40:22,870
-halten einige Leute waren damals
+halten. Einige Leute waren damals
 
 991
 00:40:22,880 --> 00:40:26,309
@@ -3964,7 +3963,7 @@ misstrauisch und sie hatten recht
 
 992
 00:40:26,319 --> 00:40:28,390
-damit ist klar dass dieser
+damit. ist klar dass dieser
 
 993
 00:40:28,400 --> 00:40:30,750
@@ -3972,23 +3971,23 @@ anfangsprozess buchstäblich von der CIA
 
 994
 00:40:30,760 --> 00:40:35,550
-gesteuert wurde und das ist keine
+gesteuert wurde, und das ist keine
 
 995
 00:40:37,230 --> 00:40:37,240
-Verschwörungstheorie der Mann der mit
+Verschwörungstheorie. Der Mann, der mit
 
 996
 00:40:37,240 --> 00:40:39,589
-der Gründung der depository Trust Corp
+der Gründung der Depository Trust Corp
 
 997
 00:40:39,599 --> 00:40:42,190
-beauftragt war hat in seinen Memoiren
+beauftragt war, hat in seinen Memoiren
 
 998
 00:40:42,200 --> 00:40:44,349
-und in Interviews offengelegt dass er
+und in Interviews offengelegt, dass er
 
 999
 00:40:44,359 --> 00:40:49,030
@@ -3996,7 +3995,7 @@ schon als junger Mann für die CIA tätig
 
 1000
 00:40:51,870 --> 00:40:51,880
-war er steckte also ein großes
+war. Er steckte also ein großes
 
 1001
 00:40:51,880 --> 00:40:54,390
@@ -4028,15 +4027,15 @@ einheitliche Handelsgesetzbuch Uniform
 
 1008
 00:41:07,480 --> 00:41:09,910
-commercial Code das in allen 50
+Commercial Code (UCC), das in allen 50
 
 1009
 00:41:09,920 --> 00:41:12,190
-Bundesstaaten durchgesetzt wurde geschah
+Bundesstaaten durchgesetzt wurde, geschah
 
 1010
 00:41:12,200 --> 00:41:15,150
-also im Stillen diese Änderung wurde
+also im Stillen. Diese Änderung wurde
 
 1011
 00:41:15,160 --> 00:41:18,470
@@ -4052,15 +4051,15 @@ umgesetzt war dann wurde 2005 das
 
 1014
 00:41:23,400 --> 00:41:25,710
-Konkursrecht geändert und mit der
+Konkursrecht geändert. Und mit der
 
 1015
 00:41:25,720 --> 00:41:28,750
-Prüfung des Lean brothers im Jahr 2008
+Prüfung des Lehman Brothers im Jahr 2008
 
 1016
 00:41:28,760 --> 00:41:31,270
-war es dann soweit es gibt also einen
+war es dann soweit. Es gibt also einen
 
 1017
 00:41:31,280 --> 00:41:33,109
@@ -4088,7 +4087,7 @@ das geschah durch die
 
 1023
 00:41:46,079 --> 00:41:48,589
-EU die erste Diskussion in den
+EU. Die erste Diskussion in den
 
 1024
 00:41:48,599 --> 00:41:53,069
@@ -4096,11 +4095,11 @@ Dokumenten der EU findet 2002
 
 1025
 00:41:55,630 --> 00:41:55,640
-statt damals begann der Prozess also
+statt. Damals begann der Prozess also
 
 1026
 00:41:55,640 --> 00:41:58,670
-nach der dotcomleitung und die EU schuf
+nach der Dotcom Blase, und die EU schuf
 
 1027
 00:41:58,680 --> 00:42:01,030
@@ -4128,11 +4127,11 @@ Gläubiger die Vermögenswerte des Kunden
 
 1033
 00:42:14,910 --> 00:42:14,920
-werden und sie haben jahrelang daran
+werden. Und sie haben jahrelang daran
 
 1034
 00:42:14,920 --> 00:42:17,270
-gearbeitet um herauszufinden wie Sie die
+gearbeitet, um herauszufinden, wie sie die
 
 1035
 00:42:17,280 --> 00:42:19,349
@@ -4140,7 +4139,7 @@ lokalen Gesetze unterlaufen
 
 1036
 00:42:19,359 --> 00:42:22,309
-können wenn man darüber nachdenkt ist
+können. Wenn man darüber nachdenkt, ist
 
 1037
 00:42:22,319 --> 00:42:24,549
@@ -4148,11 +4147,11 @@ das Recht auf Eigentum so etwas wie ein
 
 1038
 00:42:24,559 --> 00:42:27,549
-Heiligtum es ist etwas das allen am
+Heiligtum, es ist etwas das allen am
 
 1039
 00:42:27,559 --> 00:42:30,230
-Herzen liegen sollte und seltsamerweise
+Herzen liegen sollte, und seltsamerweise
 
 1040
 00:42:30,240 --> 00:42:31,910
@@ -4160,7 +4159,7 @@ sollten sich sogar die Menschen die
 
 1041
 00:42:31,920 --> 00:42:34,470
-daran beteiligt sind dass dies geschieht
+daran beteiligt sind, dass dies geschieht
 
 1042
 00:42:34,480 --> 00:42:37,309
@@ -4176,7 +4175,7 @@ anzusprechen wir können darauf
 
 1045
 00:42:42,200 --> 00:42:44,510
-zurückkommen aber die legal certainty
+zurückkommen. Aber die Legal Certainty
 
 1046
 00:42:44,520 --> 00:42:46,549
@@ -4188,15 +4187,15 @@ recht
 
 1048
 00:42:47,839 --> 00:42:49,750
-identifiziert und dann dauerte es
+identifiziert, und dann dauerte es
 
 1049
 00:42:49,760 --> 00:42:51,870
-vielleicht noch einmal 10 Jahre bis die
+vielleicht noch einmal 10 Jahre, bis die
 
 1050
 00:42:51,880 --> 00:42:56,109
-csdr Verordnung
+CSDR Verordnung
 
 1051
 00:42:59,829 --> 00:42:59,839
@@ -4216,7 +4215,7 @@ nationalen Ebene zum Zentralverwahrer
 
 1055
 00:43:06,920 --> 00:43:08,950
-vorschreibt wo die Leute glauben dass
+vorschreibt, wo die Leute glauben, dass
 
 1056
 00:43:08,960 --> 00:43:12,470
@@ -4224,7 +4223,7 @@ sie ihre Sachen direkt
 
 1057
 00:43:15,710 --> 00:43:15,720
-besitzen ihr Eigentumsnachweis ist dort
+besitzen. Ihr Eigentumsnachweis ist dort,
 
 1058
 00:43:15,720 --> 00:43:17,670
@@ -4232,7 +4231,7 @@ und die Wertpapiere werden auf die Ebene
 
 1059
 00:43:17,680 --> 00:43:20,230
-dieses internationalen zentralverwahrers
+dieses internationalen zentralverwahrers,
 
 1060
 00:43:20,240 --> 00:43:21,790
@@ -4240,23 +4239,23 @@ und dann weiter zu den zentralen
 
 1061
 00:43:21,800 --> 00:43:24,349
-clearing gegen Parteien übertragen so
+clearing gegen Parteien übertragen, so
 
 1062
 00:43:24,359 --> 00:43:27,430
-ist es gesetzlich geregelt es ist Gesetz
+ist es gesetzlich geregelt, es ist Gesetz
 
 1063
 00:43:27,440 --> 00:43:29,670
-geregelt es muss rechtlich angegriffen
+geregelt, es muss rechtlich angegriffen
 
 1064
 00:43:29,680 --> 00:43:34,470
-werden sie muss legal demontiert
+werden, sie muss legal demontiert
 
 1065
 00:43:37,190 --> 00:43:37,200
-werden die Macht hinter alldem ist die
+werden. Die Macht hinter alldem ist die
 
 1066
 00:43:37,200 --> 00:43:39,670
@@ -4264,19 +4263,19 @@ private Kontrolle der
 
 1067
 00:43:39,680 --> 00:43:41,589
-Zentralbanken und wenn man sich in der
+Zentralbanken, und wenn man sich in der
 
 1068
 00:43:41,599 --> 00:43:45,470
-Welt umschaut sind sie alle privat
+Welt umschaut, sind sie alle privat
 
 1069
 00:43:45,480 --> 00:43:47,790
-kontrolliert sie dürfen nicht wissen wer
+kontrolliert. Sie dürfen nicht wissen, wer
 
 1070
 00:43:47,800 --> 00:43:50,150
-die Federal Reserve kontrolliert und wie
+die Federal Reserve kontrolliert, und wie
 
 1071
 00:43:50,160 --> 00:43:52,069
@@ -4284,27 +4283,27 @@ sie kontrolliert
 
 1072
 00:43:52,079 --> 00:43:54,630
-wird wir wissen dass sie irgendwie von
+wird. Wir wissen, dass sie irgendwie von
 
 1073
 00:43:54,640 --> 00:43:58,870
-einer Reihe von Banken kontrolliert wird
+einer Reihe von Banken kontrolliert wird.
 
 1074
 00:43:58,880 --> 00:44:00,349
-es gibt also eine Art
+Es gibt also eine Art
 
 1075
 00:44:00,359 --> 00:44:02,030
-Eigentumsstruktur die sich über die
+Eigentumsstruktur, die sich über die
 
 1076
 00:44:02,040 --> 00:44:05,549
-Banken erstreckt die die Fett besitzen
+Banken erstreckt, die die Fed besitzen
 
 1077
 00:44:05,559 --> 00:44:07,589
-undkontrollieren aber so etwas gibt es
+und kontrollieren, aber so etwas gibt es
 
 1078
 00:44:07,599 --> 00:44:10,150
@@ -4364,23 +4363,23 @@ vielleicht dachten dass das Geld das man
 
 1092
 00:44:39,559 --> 00:44:41,790
-sich von der Bank leih die Ersparnisse
+sich von der Bank leiht, die Ersparnisse
 
 1093
 00:44:41,800 --> 00:44:44,910
-von jemandem anderen sind die sie ein
+von jemandem anderen sind, die sie ein-
 
 1094
 00:44:44,920 --> 00:44:47,549
-geben es ist ein
+geben. Es ist ein
 
 1095
 00:44:47,559 --> 00:44:49,950
-Nullsummenspiel ich glaube wir wissen
+Nullsummenspiel. Ich glaube, wir wissen
 
 1096
 00:44:49,960 --> 00:44:52,230
-jetzt dass das angesichts des Umfangs
+jetzt, dass das angesichts des Umfangs
 
 1097
 00:44:52,240 --> 00:44:53,710
@@ -4404,15 +4403,15 @@ dies ist also die Macht die alles
 
 1102
 00:45:04,680 --> 00:45:07,030
-kontrolliert sie kontrollieren alle
+kontrolliert. Sie kontrollieren alle
 
 1103
 00:45:07,040 --> 00:45:09,630
-politischen Parteien alle Regierungen
+politischen Parteien, alle Regierungen,
 
 1104
 00:45:09,640 --> 00:45:12,510
-alle großen Konzerne die Medien und das
+alle großen Konzerne, die Medien, und das
 
 1105
 00:45:12,520 --> 00:45:14,870
@@ -4420,7 +4419,7 @@ war bis ins 20 Jahrhundert hinein der
 
 1106
 00:45:14,880 --> 00:45:16,950
-Fall in dieser Zeit als die
+Fall. In dieser Zeit als die
 
 1107
 00:45:16,960 --> 00:45:18,549
@@ -4440,7 +4439,7 @@ Geld ist ein sehr ausgeklügeltes
 
 1111
 00:45:25,040 --> 00:45:27,069
-Kontrollsystem weil es fast keine
+Kontrollsystem, weil es fast keine
 
 1112
 00:45:27,079 --> 00:45:30,069
@@ -4448,11 +4447,11 @@ Energiezufuhr
 
 1113
 00:45:32,710 --> 00:45:32,720
-benötigt die Menschen werden durch die
+benötigt. Die Menschen werden durch die
 
 1114
 00:45:32,720 --> 00:45:35,230
-Jagd nach geldanreizen gesteuert aber
+Jagd nach Geldanreizen gesteuert, aber
 
 1115
 00:45:35,240 --> 00:45:36,829
@@ -4460,7 +4459,7 @@ wenn diese Macht durch chronische
 
 1116
 00:45:36,839 --> 00:45:39,069
-Überbeanspruchung einen Punkt erreicht
+Überbeanspruchung einen Punkt erreicht,
 
 1117
 00:45:39,079 --> 00:45:41,270
@@ -4472,11 +4471,11 @@ wird es sich nicht und tatsächliches
 
 1119
 00:45:43,640 --> 00:45:45,910
-Wirtschaftswachstum umsetzt dann kommt
+Wirtschaftswachstum umsetzt, dann kommt
 
 1120
 00:45:45,920 --> 00:45:48,270
-es zu einer Finanzblase und dann zum
+es zu einer Finanzblase, und dann zum
 
 1121
 00:45:48,280 --> 00:45:51,430
@@ -4484,7 +4483,7 @@ großen Zusammenbruch des gesamten
 
 1122
 00:45:51,440 --> 00:45:54,230
-Systems dann müssen sie einen Plan haben
+Systems, dann müssen sie einen Plan haben,
 
 1123
 00:45:54,240 --> 00:45:56,030
@@ -4492,7 +4491,7 @@ um während dieses Zusammenbruchs die
 
 1124
 00:45:56,040 --> 00:45:58,549
-Kontrolle zu halten was eine physische
+Kontrolle zu halten, was eine physische
 
 1125
 00:45:58,559 --> 00:46:00,549
@@ -4500,7 +4499,7 @@ Kontrolle über die Menschen durch den
 
 1126
 00:46:00,559 --> 00:46:02,710
-Reset erfordern wird weil das
+Reset erfordern wird, weil das
 
 1127
 00:46:02,720 --> 00:46:05,230
@@ -4524,7 +4523,7 @@ das Geldsystem zusammen und dann brach
 
 1132
 00:46:14,599 --> 00:46:16,990
-die chingdynastie zusammen es ist ein
+die Ching-Dynastie zusammen. Es ist ein
 
 1133
 00:46:17,000 --> 00:46:19,670
@@ -4540,7 +4539,7 @@ Herrschaft in China beendete in der Zeit
 
 1136
 00:46:25,640 --> 00:46:28,270
-türkischosmanische Reich zusammen das
+türkisch-osmanische Reich zusammen das
 
 1137
 00:46:28,280 --> 00:46:30,470
@@ -4548,15 +4547,15 @@ türkischosmanische Reich zusammen das
 
 1138
 00:46:30,480 --> 00:46:33,069
-Reich Deutschland wurde zerstört und das
+Reich Deutschland wurde zerstört, und das
 
 1139
 00:46:33,079 --> 00:46:35,069
-britische Empire hatte seinenzinit
+britische Empire hatte seinen Zenith
 
 1140
 00:46:35,079 --> 00:46:36,630
-überschritten und war zu diesem
+überschritten, und war zu diesem
 
 1141
 00:46:36,640 --> 00:46:38,990
@@ -4576,23 +4575,23 @@ kontrollierten schafften es dadurch die
 
 1145
 00:46:45,559 --> 00:46:47,910
-Kontrolle zu behalten und sie taten es
+Kontrolle zu behalten, und sie taten es,
 
 1146
 00:46:47,920 --> 00:46:50,430
-indem sie die Bevölkerungen unterjochten
+indem sie die Bevölkerungen unterjochten.
 
 1147
 00:46:50,440 --> 00:46:53,069
-es geht nicht darum ihr Geld zu nehmen
+Es geht nicht darum, ihr Geld zu nehmen.
 
 1148
 00:46:53,079 --> 00:46:54,750
-es geht nicht darum ihre Sachen zu
+Es geht nicht darum, ihre Sachen zu
 
 1149
 00:46:54,760 --> 00:46:57,190
-nehmen die sie nicht brauchen um
+nehmen, die sie nicht brauchen. Es geht um
 
 1150
 00:46:57,200 --> 00:46:59,230
@@ -4600,7 +4599,7 @@ Unterdrückung und
 
 1151
 00:46:59,240 --> 00:47:01,670
-Unterwerfung und das ist die Lektion
+Unterwerfung. und das ist die Lektion
 
 1152
 00:47:01,680 --> 00:47:04,190
@@ -4628,7 +4627,7 @@ eingestellt also dieser Plan alle
 
 1158
 00:47:15,800 --> 00:47:18,109
-Sicherheiten global zu nehmen und das
+Sicherheiten global zu nehmen, und das
 
 1159
 00:47:18,119 --> 00:47:20,030
@@ -4636,11 +4635,11 @@ System in einer Art kontrolliertem
 
 1160
 00:47:20,040 --> 00:47:22,549
-Abriss zusammenbrechen zu lassen wobei
+Abriss zusammenbrechen zu lassen, wobei
 
 1161
 00:47:22,559 --> 00:47:24,910
-sie am Ende alles kontrollieren dieser
+sie am Ende alles kontrollieren, dieser
 
 1162
 00:47:24,920 --> 00:47:28,109
@@ -4648,15 +4647,15 @@ Plan wurde vor über 50 Jahren Gang
 
 1163
 00:47:28,119 --> 00:47:30,309
-gesetzt es mag einen längeren
+gesetzt. Es mag einen längeren
 
 1164
 00:47:30,319 --> 00:47:32,750
-Planungshorizont gegeben haben aber wir
+Planungshorizont gegeben haben, aber wir
 
 1165
 00:47:32,760 --> 00:47:34,670
-können konkrete Schritte sehen die in
+können konkrete Schritte sehen, die in
 
 1166
 00:47:34,680 --> 00:47:36,910
@@ -4664,7 +4663,7 @@ den 1960er Jahren mit der
 
 1167
 00:47:36,920 --> 00:47:39,630
-Dematerialisierung begannen wenn sich
+Dematerialisierung begannen. Wenn sich
 
 1168
 00:47:39,640 --> 00:47:41,430
@@ -4672,11 +4671,11 @@ also diese Welle von Insolvenzen
 
 1169
 00:47:41,440 --> 00:47:43,710
-entfaltet und eine Dringlichkeit schafft
+entfaltet, und eine Dringlichkeit schafft
 
 1170
 00:47:43,720 --> 00:47:45,790
-die Sicherheiten zu nehmen werden die
+die Sicherheiten zu nehmen, werden die
 
 1171
 00:47:45,800 --> 00:47:48,109
@@ -4692,27 +4691,27 @@ das kritische Denken ausschaltet die
 
 1174
 00:47:52,720 --> 00:47:54,910
-Menschen werden also in Panik geraten
+Menschen werden also in Panik geraten.
 
 1175
 00:47:54,920 --> 00:47:56,150
-ich habe mich schon immer dafür
+Ich habe mich schon immer dafür
 
 1176
 00:47:56,160 --> 00:47:58,390
-interessiert was in den 30er Jahren
+interessiert, was in den 30er Jahren
 
 1177
 00:47:58,400 --> 00:48:00,710
-passiert ist weil ich mit meinem Vater
+passiert ist, weil ich mit meinem Vater
 
 1178
 00:48:00,720 --> 00:48:02,670
-der das miterlebt hat über diese Dinge
+der das miterlebt hat, über diese Dinge
 
 1179
 00:48:02,680 --> 00:48:04,829
-gesprochen habe und über das was in
+gesprochen habe. Und über das was in
 
 1180
 00:48:04,839 --> 00:48:07,030
@@ -4732,27 +4731,27 @@ fragte meine Tante was in den 30er
 
 1184
 00:48:14,160 --> 00:48:16,710
-Jahren passiert war und sie sagte na ja
+Jahren passiert war und sie sagte: Naja,
 
 1185
 00:48:16,720 --> 00:48:18,589
-plötzlich hatte niemand mehr Geld und
+plötzlich hatte niemand mehr Geld. Und
 
 1186
 00:48:18,599 --> 00:48:20,829
-ich sagte was meinst du wie kann das
+ich sagte: Was meinst du? wie kann das
 
 1187
 00:48:20,839 --> 00:48:23,510
-sein und sie sagte na ja niemand hatte
+sein? und sie sagte: Naja, niemand hatte
 
 1188
 00:48:23,520 --> 00:48:25,750
-Geld und selbst reiche Familien hatten
+Geld, und selbst reiche Familien hatten
 
 1189
 00:48:25,760 --> 00:48:27,309
-kein Geld
+kein Geld.
 
 1190
 00:48:27,319 --> 00:48:29,309
@@ -4780,7 +4779,7 @@ passiert ist wenn man alle Banken
 
 1196
 00:48:39,000 --> 00:48:41,589
-schließt was fdr getan hat dann hat er
+schließt was FDR getan hat dann hat er
 
 1197
 00:48:41,599 --> 00:48:44,790
@@ -4796,7 +4795,7 @@ bestimmte Banken wieder öffnen nämlich
 
 1200
 00:48:48,760 --> 00:48:50,870
-die die von der Fett kontrolliert wurden
+die die von der Fed kontrolliert wurden
 
 1201
 00:48:50,880 --> 00:48:53,309
@@ -4832,15 +4831,15 @@ wirtschaftliche Aktivität jahrelang sehr
 
 1209
 00:49:09,319 --> 00:49:11,510
-unterdrückt und ich kenne das aus der
+unterdrückt. Und ich kenne das aus der
 
 1210
 00:49:11,520 --> 00:49:14,030
-Familiengeschichte bis in die 30er Jahre
+Familiengeschichte bis in die 30er Jahre.
 
 1211
 00:49:14,040 --> 00:49:16,230
-aus meinem familienbrief weiß ich dass
+Aus meinem Familienbrief weiß ich, dass
 
 1212
 00:49:16,240 --> 00:49:19,309
@@ -4856,7 +4855,7 @@ Wiedereröffnung der Banken immer noch
 
 1215
 00:49:23,359 --> 00:49:25,510
-kein Geschäft hatte di Jahre später
+kein Geschäft hatte. di Jahre später
 
 1216
 00:49:25,520 --> 00:49:27,309
@@ -4888,15 +4887,15 @@ Art unvermeidlicher Logik gegründet
 
 1223
 00:49:45,559 --> 00:49:47,150
-wurde dass sie das Gold von der
+wurde, dass sie das Gold von der
 
 1224
 00:49:47,160 --> 00:49:48,870
-Öffentlichkeit nehmen musste das
+Öffentlichkeit nehmen musste, das
 
 1225
 00:49:48,880 --> 00:49:50,870
-natürlich das Geldvermögen war das
+natürlich das Geldvermögen, war das
 
 1226
 00:49:50,880 --> 00:49:54,150
@@ -4904,11 +4903,11 @@ damals alles
 
 1227
 00:49:57,109 --> 00:49:57,119
-unterstützte also wurde das Gold
+unterstützte. Also wurde das Gold
 
 1228
 00:49:57,119 --> 00:49:59,150
-beschlagnahmt mit der Begründung dass
+beschlagnahmt, mit der Begründung dass
 
 1229
 00:49:59,160 --> 00:50:00,950
@@ -4916,11 +4915,11 @@ die Öffentlichkeit das Gold
 
 1230
 00:50:00,960 --> 00:50:03,349
-hortete aber was hat die Fett dann damit
+hortete. Aber was hat die Fed dann damit
 
 1231
 00:50:03,359 --> 00:50:05,870
-gemacht die Fett hortete das Gold und
+gemacht? Die Fed hortete das Gold, und
 
 1232
 00:50:05,880 --> 00:50:08,309
@@ -4928,7 +4927,7 @@ nutzte es nicht zur Ausweitung der
 
 1233
 00:50:08,319 --> 00:50:10,549
-Kreditvergabe sie hielt die Bedingungen
+Kreditvergabe. Sie hielt die Bedingungen
 
 1234
 00:50:10,559 --> 00:50:12,910
@@ -4956,19 +4955,18 @@ diese systemrelevanten Institutionen
 
 1240
 00:50:24,319 --> 00:50:25,950
-retten müssen damit wir die Wirtschaft
+retten müssen, damit wir die Wirtschaft
 
 1241
 00:50:25,960 --> 00:50:28,090
-wieder angu
+wieder ankurbeln
 
 1242
 00:50:28,100 --> 00:50:29,789
-[Musik]
 
 1243
 00:50:29,799 --> 00:50:32,109
-K wie können wir die Wirtschaft wieder
+wie können wir die Wirtschaft wieder
 
 1244
 00:50:32,119 --> 00:50:34,390
@@ -4996,23 +4994,23 @@ gezogen
 
 1250
 00:50:44,040 --> 00:50:46,829
-werden und dann sagen sie lasst uns ein
+werden. Und dann sagen sie, lasst uns ein
 
 1251
 00:50:46,839 --> 00:50:48,670
-neues Spiel beginnen und wir fangen von
+neues Spiel beginnen, und wir fangen von
 
 1252
 00:50:48,680 --> 00:50:50,990
-der Basis an dass wir alles haben und
+der Basis an, dass wir alles haben und
 
 1253
 00:50:51,000 --> 00:50:52,950
-ihr nichts wollt ihr euch also etwas
+ihr nichts. Wollt ihr euch also etwas
 
 1254
 00:50:52,960 --> 00:50:56,150
-leihen und das ist das was die cdbc die
+leihen und das ist das was die DBDC die
 
 1255
 00:50:56,160 --> 00:50:57,670
@@ -5036,7 +5034,7 @@ benutzen weil sie buchstäblich nicht in
 
 1260
 00:51:06,119 --> 00:51:08,349
-der Lage sein werden zu essen sie werden
+der Lage sein werden zu essen. Sie werden
 
 1261
 00:51:08,359 --> 00:51:10,230
@@ -5064,15 +5062,15 @@ Telefon mit etwas Geld aufladen um Milch
 
 1267
 00:51:20,520 --> 00:51:22,829
-zu kaufen aber jedes mal wenn du die App
+zu kaufen. Aber jedes mal, wenn du die App
 
 1268
 00:51:22,839 --> 00:51:25,190
-benutzt Leist du dir eigentlich Geld von
+benutzt, leihst du dir eigentlich Geld von
 
 1269
 00:51:25,200 --> 00:51:27,829
-ihnen sie haben wieder es wird sehr
+ihnen. Sie haben wieder es wird sehr
 
 1270
 00:51:27,839 --> 00:51:29,750
@@ -5100,11 +5098,11 @@ dieses Bewusstsein im Vorfeld zu
 
 1276
 00:51:40,280 --> 00:51:42,710
-verbreiten damit die Menschen verstehen
+verbreiten, damit die Menschen verstehen
 
 1277
 00:51:42,720 --> 00:51:44,750
-was passiert und damit sie sich bis in
+was passiert, und damit sie sich bis in
 
 1278
 00:51:44,760 --> 00:51:47,190
@@ -5116,15 +5114,15 @@ engagieren
 
 1280
 00:51:49,799 --> 00:51:52,829
-können es hat das Potenzial sehr fähige
+können. Es hat das Potenzial, sehr fähige
 
 1281
 00:51:52,839 --> 00:51:55,270
-Leute zu aktivieren bis hin zur Spitze
+Leute zu aktivieren, bis hin zur Spitze
 
 1282
 00:51:55,280 --> 00:51:57,870
-des Systems hat das Potenzial die
+des Systems, es hat das Potenzial, die
 
 1283
 00:51:57,880 --> 00:52:08,440
@@ -5132,19 +5130,19 @@ Menschen gegen dieses Problem zu
 
 1284
 00:52:17,230 --> 00:52:17,240
-vereinen was ich mit diesem Buch
+vereinen. Was ich mit diesem Buch
 
 1285
 00:52:17,240 --> 00:52:19,349
-versucht habe war mich an Dinge zu
+versucht habe, war mich an Dinge zu
 
 1286
 00:52:19,359 --> 00:52:21,829
-halten die ich absolut weiß und es zu
+halten, die ich absolut weiß, und es zu
 
 1287
 00:52:21,839 --> 00:52:24,430
-einer Art Ganzes zu machen in dem Sinne
+einer Art Ganzes zu machen, in dem Sinne,
 
 1288
 00:52:24,440 --> 00:52:27,670
@@ -5152,19 +5150,19 @@ dass man das ganze unwiderlegbar sehen
 
 1289
 00:52:27,680 --> 00:52:30,470
-kann mit dem Ziel es auf den Tisch zu
+kann. Mit dem Ziel es auf den Tisch zu
 
 1290
 00:52:30,480 --> 00:52:32,390
-legen sodass jeder einen guten Blick
+legen, sodass jeder einen guten Blick
 
 1291
 00:52:32,400 --> 00:52:35,390
-darauf werfen kann einschließlich der
+darauf werfen kann, einschließlich der
 
 1292
 00:52:35,400 --> 00:52:38,030
-Teilnehmer einschließlich der Leute die
+Teilnehmer, einschließlich der Leute die
 
 1293
 00:52:38,040 --> 00:52:40,270
@@ -5172,7 +5170,7 @@ das ganze
 
 1294
 00:52:40,280 --> 00:52:42,990
-umsetzen ich gehe davon aus dass dies
+umsetzen. Ich gehe davon aus, dass dies
 
 1295
 00:52:43,000 --> 00:52:48,109
@@ -5180,7 +5178,7 @@ weitgehend unbewusst
 
 1296
 00:52:50,789 --> 00:52:50,799
-geschieht dass das Endergebnis von dem
+geschieht, dass das Endergebnis von dem
 
 1297
 00:52:50,799 --> 00:52:52,470
@@ -5188,7 +5186,7 @@ Beteiligten nicht wirklich verstanden
 
 1298
 00:52:52,480 --> 00:52:56,710
-wird
+wird,
 
 1299
 00:52:58,230 --> 00:52:58,240
@@ -5204,11 +5202,11 @@ was passieren
 
 1302
 00:53:06,470 --> 00:53:06,480
-wird und dass sie durch ihre eigene Hand
+wird, und dass sie durch ihre eigene Hand
 
 1303
 00:53:06,480 --> 00:53:09,710
-zerstört werden wenn Sie das tun es ist
+zerstört werden, wenn Sie das tun. Es ist
 
 1304
 00:53:09,720 --> 00:53:11,270
@@ -5216,7 +5214,7 @@ also das Ergebnis einer Art
 
 1305
 00:53:11,280 --> 00:53:13,710
-unausweichlicher Logik die sie haben
+unausweichlicher Logik die sie haben,
 
 1306
 00:53:13,720 --> 00:53:18,589
@@ -5224,19 +5222,19 @@ dass sie alles kontrollieren
 
 1307
 00:53:20,870 --> 00:53:20,880
-müssen und das hat jetzt einen Grad
+müssen, und das hat jetzt einen Grad
 
 1308
 00:53:20,880 --> 00:53:23,150
-erreicht bei dem man sehen kann dass es
+erreicht, bei dem man sehen kann, dass es
 
 1309
 00:53:23,160 --> 00:53:25,510
-zwar ein intelligentes Design ist aber
+zwar ein intelligentes Design, ist aber
 
 1310
 00:53:25,520 --> 00:53:29,069
-buchstäblich wahnsinnig ist das zu tun
+buchstäblich wahnsinnig ist das zu tun,
 
 1311
 00:53:29,079 --> 00:53:32,390
@@ -5244,7 +5242,7 @@ weil niemand das
 
 1312
 00:53:34,750 --> 00:53:34,760
-will und dass die Leute die diese
+will, und dass die Leute die diese
 
 1313
 00:53:34,760 --> 00:53:37,150
@@ -5252,15 +5250,15 @@ eigentumsschicht ganz oben geerbt haben
 
 1314
 00:53:37,160 --> 00:53:39,829
-das nicht entworfen haben sie haben es
+das nicht entworfen haben. sie haben es
 
 1315
 00:53:39,839 --> 00:53:41,910
-nicht in Bewegung gesetzt sie haben
+nicht in Bewegung gesetzt, sie haben
 
 1316
 00:53:41,920 --> 00:53:44,430
-zugelassen dass deroloch weiterläuft der
+zugelassen, dass der Moloch weiterläuft der
 
 1317
 00:53:44,440 --> 00:53:46,349
@@ -5280,11 +5278,11 @@ kontrolliert es ist im Grunde unbewusst
 
 1321
 00:53:53,480 --> 00:53:56,710
-aus dem Ruder gelaufen wir müssen also
+aus dem Ruder gelaufen. Wir müssen also
 
 1322
 00:53:56,720 --> 00:53:58,430
-bewusst machen und zwar bis in die
+bewusst machen, und zwar bis in die
 
 1323
 00:53:58,440 --> 00:54:00,470
@@ -5292,15 +5290,15 @@ obersten Ebenen des
 
 1324
 00:54:00,480 --> 00:54:02,990
-Systems nun eine andere Art wie ich
+Systems. Nun, eine andere Art wie ich
 
 1325
 00:54:03,000 --> 00:54:05,510
-darüber denke ist dass sie uns studieren
+darüber denke ist dass sie uns studieren.
 
 1326
 00:54:05,520 --> 00:54:07,829
-wir müssen versuchen uns vorzustellen
+Wir müssen versuchen uns vorzustellen
 
 1327
 00:54:07,839 --> 00:54:09,710
@@ -5324,7 +5322,7 @@ Vorstellung dass Menschen einschüchternt
 
 1332
 00:54:17,880 --> 00:54:19,870
-sind wenn man sie nicht kennt aber wenn
+sind wenn man sie nicht kennt, aber wenn
 
 1333
 00:54:19,880 --> 00:54:21,630
@@ -5332,7 +5330,7 @@ man sie einmal getroffen hat sieht man
 
 1334
 00:54:21,640 --> 00:54:23,829
-dass sie einfach nur Menschen sind und
+dass sie einfach nur Menschen sind, und
 
 1335
 00:54:23,839 --> 00:54:26,069
@@ -5360,15 +5358,15 @@ besonders fähigen
 
 1341
 00:54:37,160 --> 00:54:39,589
-Menschen es gibt also einen Kopf der
+Menschen. Es gibt also einen Kopf der
 
 1342
 00:54:39,599 --> 00:54:41,789
-Schlange aber der kann nichts alleine
+Schlange, aber der kann nichts alleine
 
 1343
 00:54:41,799 --> 00:54:44,510
-machen sie ist darauf angewiesen dass
+machen. Sie ist darauf angewiesen dass
 
 1344
 00:54:44,520 --> 00:54:46,630
@@ -5380,11 +5378,11 @@ für sie
 
 1346
 00:54:47,680 --> 00:54:50,670
-tut und ein Teil des Zwecks dieser Übung
+tut, und ein Teil des Zwecks dieser Übung
 
 1347
 00:54:50,680 --> 00:54:52,990
-ist es dieses Bewusstsein zu diesem
+ist es, dieses Bewusstsein zu diesem
 
 1348
 00:54:53,000 --> 00:54:54,470
@@ -5392,11 +5390,11 @@ Muskel
 
 1349
 00:54:54,480 --> 00:54:56,430
-hinaufzudrücken und wie würde das
+hinaufzudrücken. Und wie würde das
 
 1350
 00:54:56,440 --> 00:54:58,589
-Aussehen es könnte so aussehen dass
+aussehen? es könnte so aussehen dass
 
 1351
 00:54:58,599 --> 00:55:00,950
