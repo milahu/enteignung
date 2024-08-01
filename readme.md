@@ -50,6 +50,8 @@ work in progress...
 
 ### english
 
+- https://libgen.rs/book/index.php?md5=21268FD31D79B21627F3A9DA752ED5CD
+- https://libgen.rs/book/index.php?md5=95C6B84EF03673FDABB456C43D26C49C
 - https://danericselliottwaves.org/wp-content/uploads/2024/02/taking-screen-june-17.pdf
 - https://www.freedomsphoenix.com/Media/Media-Files/The-Great-Taking.pdf
 - https://mpalmer.heresy.is/webnotes/TheGreatTaking/
@@ -59,7 +61,7 @@ work in progress...
 ### german
 
 - https://img1.wsimg.com/blobby/go/1ee786fb-3c78-4903-9701-d614892d09d6/taking-german%20(2).pdf
-  - https://library.bz/main/uploads/0303E1A0ACACD1F600B01913C36C3E46
+  - https://libgen.rs/book/index.php?md5=0303E1A0ACACD1F600B01913C36C3E46
 
 
 
