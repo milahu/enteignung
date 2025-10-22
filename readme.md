@@ -122,3 +122,13 @@ magnet:?xt=urn:btih:d0abf44e59de9969127e2357152b5c823d3c682e&dn=The.Great.Taking
 Die große Enteignung. David Rogers Webb. 2023
 
 https://www.youtube.com/watch?v=sD8t2NwIQFo
+
+
+
+## template
+
+this repo is based on
+[github.com/milahu/hocr-files-template-repo](https://github.com/milahu/hocr-files-template-repo).
+if you want to copy this repo,
+then please copy the template repo,
+which has the latest versions of all files.
